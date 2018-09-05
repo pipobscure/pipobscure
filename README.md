@@ -1,2 +1,2 @@
-# pipobscure.github.io
-Pages
+# Pip Obscure
+![Image](./symbols.talk/debug.png)
