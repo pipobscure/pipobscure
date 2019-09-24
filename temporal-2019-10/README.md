@@ -1,55 +1,142 @@
+
 # `temporal`
 ## 2019-10 update
 
- * Feedback Loops
- * Fundamental Changes
- * API Overview
+ ![](./arrow.svg) API Overview
+ ![](./arrow.svg) Feedback Loops
+ ![](./arrow.svg) Changes
 
 ---
 
-## Feedback Loops
+# API Overview
 
-### Completed
+## Classes
 
- * TAG Review
- * Interoperability with `<input type="date|time|datetime-local" />`
- * Polyfill Try-Outs (small-scale)
- * Library Authors (js & other languages)
- * Google Apps Team (Sheets / Calendar)
-
----
-
-## Feedback Loops
-
-### Future
-
- * Polyfill Try-Outs (large-scale)
- * Stage 3 - Specification Review
+ ![](./arrow.svg) TimeZone
+ ![](./arrow.svg) Absolute
+ ![](./arrow.svg) DateTime / Time / Date /  YearMonth / MonthDay
+ ![](./arrow.svg) Duration
 
 ---
 
-# Fundamental Changes
+## `TimeZone`
 
-## Temporal will be a global namespace object
+Object representing a fixed offset or an IANA timezone.
 
-At this point is has become likely that built-in modules will not land in the standard before temporal.
+Allows:
 
- * Temporal will not block on built-in modules
- * Temporal will be done in a way that supports becoming a module
+ ![](./arrow.svg) getting `Absolute`s for a given `DateTime`
+ ![](./arrow.svg) getting the `DateTime` for a given `Absolute`
+ ![](./arrow.svg) getting the offset at a given `Absolute`
+ ![](./arrow.svg) getting the offsets for a given year
+ ![](./arrow.svg) getting the `Absolute`s where the offset changes in a year
+
+<div style="font-size: 0.3em;">
+
+[Documentation](https://github.com/tc39/proposal-temporal/blob/main/docs/timezone.md)
+
+</div>
 
 ---
 
-# Fundamental Changes
+## `Absolute`
 
-## Temporal will expose a `TimeZone` object
+Represents an absolute point in time. Effectively the combination of `DateTime` and `TimeZone`.
 
-The community (Google Engineers, Library Implementors, etc.) have repeatedly asked for first class explicit and raw time-zone support. We believe (and have been told) that the proposed `TimeZone` objects fulfils the needs.
+ ![](./arrow.svg) has all the fields of `DateTime`
+ ![](./arrow.svg) has getter methods to `getEpoch<Unit>()`
+ ![](./arrow.svg) has setter static function to create `fromEpoch<Unit>(value, timezone?)`
+ ![](./arrow.svg) allows for date/time-maths based on the absolute point in time.
 
- * while possible, actually instantiating `TimeZone` objects is not necessary for using Temporal.
+<div style="font-size: 0.3em;">
+
+[Documentation](https://github.com/tc39/proposal-temporal/blob/main/docs/absolute.md) / [Specification](https://github.com/tc39/proposal-temporal/blob/main/spec/absolute.md)
+
+</div>
 
 ---
 
-# Fundamental Changes
+## `DateTime` / `Date` / `Time` / `YearMonth` / `MonthDay`
+
+Representation of Date / Time / DateTime / YearMonth / MonthDay
+
+ ![](./arrow.svg) no time-zone / no actual point in time 
+
+<div style="font-size: 0.3em;">
+
+Documentation: [DateTime](https://github.com/tc39/proposal-temporal/blob/main/docs/datetime.md) / [Date](https://github.com/tc39/proposal-temporal/blob/main/docs/date.md) / [Time](https://github.com/tc39/proposal-temporal/blob/main/docs/time.md) / [YearMonth](https://github.com/tc39/proposal-temporal/blob/main/docs/yearmonth.md) / [MonthYear](https://github.com/tc39/proposal-temporal/blob/main/docs/monthyear.md)
+
+Specification: [DateTime](https://github.com/tc39/proposal-temporal/blob/main/spec/datetime.md) / [Date](https://github.com/tc39/proposal-temporal/blob/main/spec/date.md) / [Time](https://github.com/tc39/proposal-temporal/blob/main/spec/time.md) / [YearMonth](https://github.com/tc39/proposal-temporal/blob/main/spec/yearmonth.md) / [MonthYear](https://github.com/tc39/proposal-temporal/blob/main/spec/monthyear.md)
+
+</div>
+
+---
+
+# `Duration`
+
+Represents an interval of time.
+
+ ![](./arrow.svg) is always positive
+ ![](./arrow.svg) can be used for date/time maths
+
+<div style="font-size: 0.3em;">
+
+[Documentation](https://github.com/tc39/proposal-temporal/blob/main/docs/duration.md) / [Specification](https://github.com/tc39/proposal-temporal/blob/main/spec/duration.md)
+
+</div>
+
+---
+
+# Feedback Loops
+
+## Past
+
+ ![Check](./check.svg) Polyfill Try-Outs (small-scale: only interested parties)
+ ![Check](./check.svg) Library Authors (js & other languages)
+ ![Check](./check.svg) App Teams (Bloomberg, Google: Sheets / Calendar)
+ ![Check](./check.svg) First Round TAG Review
+
+---
+
+# Feedback Loops
+
+## Future
+
+ ![Box](./box.svg) Polyfill Try-Outs (large-scale: publicised => general public)
+ ![Box](./box.svg) Stage 3: Specification Review
+ ![Box](./box.svg) Second Round TAG Review
+
+---
+
+# Changes
+
+ ![](./arrow.svg) built-in module vs. global namespace object
+ ![](./arrow.svg) we're not being civil
+ ![](./arrow.svg) Instant + ZonedDateTime => Absolute
+ ![](./arrow.svg) exposing TimeZone object
+ ![](./arrow.svg) exposing current date/time & time-zone
+
+---
+
+## built-in module vs. global namespace object
+
+At this point built-in modules are at Stage-1.
+
+Temporal intends to present for Stage-3 in February.
+
+ ![](./arrow.svg) Temporal will not block on built-in modules
+ ![](./arrow.svg) Temporal will be done in a way that supports becoming a module
+
+---
+
+## we're not being Civil
+
+Objects will not be prefixed.
+
+ ![](./arrow.svg) Moving to global namespace-object already serves the same purpose as prefixing
+ ![](./arrow.svg) Over multiple years it has proven impossible to find a prefix everyone can accept
+
+---
 
 ## Instant + ZonedDateTime => Absolute
 
@@ -57,106 +144,38 @@ Turns our that the separation of `Instant` & `ZonedDateTime` especially in the c
 
 ---
 
-# Fundamental Changes
+## exposing TimeZone object
 
-## We're notbeing civil
+The community (library implementors & application engineers) have repeatedly asked for first class explicit and raw time-zone support. We believe (and have been told) that the proposed `TimeZone` objects fulfils the needs.
 
-Objects will not be prefixed.
-
- * Moving to global namespace-object already serves the same purpose as prefixing
- * Over multiple years it has proven impossible to find a prefix everyone can accept
-
----
-
-# Fundamental Changes
-
-## Current `Absolute` and local `TimeZone` will be exposed
-
- * **Biggest feedback:** date/times start as now, timezones start as here.
- * **However:** they will be exposed in a way that is easy to secure / remove
+![](./arrow.svg) can be retrieved
+![](./arrow.svg) enables use-cases
+![](./arrow.svg) not required for temporal use
 
 ---
 
-# API Overview
+## exposing current date/time & time-zone
+
+ ![](./arrow.svg) **Biggest feedback:** date/times start as now, timezones start as here.
+ ![](./arrow.svg) **However:** they will be exposed in a way that is easy to secure / remove
 
 ---
 
-## Temporal Objects
+# Status
 
- * Global `Temporal` namespace
- * `Temporal.TimeZone`
- * `Temporal.Absolute`
- * `Temporal.Date`
- * `Temporal.Time`
- * `Temporal.DateTime`
- * `Temporal.MonthDay`
- * `Temporal.YearMonth`
- * `Temporal.Duration`
- * `Temporal.Local`
+ ![Check](./check.svg) Concepts / Ideas
+ ![Check](./check.svg) Specify as Code
+ ![Check](./check.svg) Sepcify as Text
 
 ---
 
-## `Temporal.TimeZone`
+# Next Steps
 
- * `const tz = Temporal.TimeZone.for(zonename: string)`
- * `tz.name`
- * `tz.getTimezoneName(when: Temporal.Absolute) : string`
- * `tz.getDateTimeFor(when: Temporal:Absolute) : Temporal.DateTime`
- * `tz.getOffsetFor(when: Temporal:Absolute) : string`
- * `tz.getAbsoluteFor(datetime: Temporal.DateTime) : Temporal.Absolute[]`
- * `tz.getOffsetsInYear(year: number) : string[]`
- * `tz.getTransitionsInYear(year: number) : Temporal.Absolute[]`
+ ![Box](./box.svg) Release Code as Poly-Fill
+ ![Box](./box.svg) Review Spec-Text
+ ![Box](./box.svg) Stage-2 in February
+
 
 ---
 
-## `Temporal.Absolute`
-
- * `const ab = Temporal.Absolute.fromEpoch<unit>() : Temporal.Absolute`
- * `ab.getEpoch<unit>()` / `ab.toString() : string`
-   * UTC => 2019-10-02T05:00:00Z
-   * Offset => 2019-10-02T10:00:00+05:00
-   * IANA => 2019-10-02T10:00:00+05:00[America/New_York]
- * `Temporal.Absolute.fromString(iso: string) : Temporal.Absolute`
- * `ab.<date-time-property>`
- * `ab.get<temporal-object>()`
- * `ab.withZone(timezone)` / * `ab.with(dateTimeLike)`
- * `ab.difference(other)` / `ab.plus(durationLike)` / `ab.minus(durationLike)`
-
----
-
-## `Temporal.DateTime` (Date, Time, YearMonth, MonthYear)
-
- * `const dt = new Temporal.DateTime(2019, 10, 2, 10, 0)`
- * `dt.year` / `dt.month` / `dt.day`
- * `dt.hour` / `dt.minute` / `dt.second` / `dt.millisecond` / `dt.microsecond` / `dt.nanosecond`
- * `dt.dayOfWeek` / `dt.dayOfYear` / `dt.weekOfYear`
- * `dt.getDate()` / `dt.getTime()`
- * `dt.with(dateTimeLike)` / `dt.withZone(timeZone)` : accepts strings & objects
- * `dt.toString()` : ISO-8601 2019-10-02T10:00:00 (no zone/offset information)
- * `Temporal.DateTime.fromString(iso) : Temporal.DateTime` : strict format
- * `dt.difference(other)` : Creates a Temporal.Duration
- * `dt.plus(durationLike) / dt.minus(durationLike)` : Plus & Minus are different operations
-
----
-
-## `Temporal.Duration`
-
- * `const d = Temporal.<Date/Time/DateTime/Absolute>.difference(other)`
- * `d.years` / `d.months` / `d.days`
- * `d.hours` / `d.minutes` / `d.seconds` / `d.milliseconds` / `d.microseconds` / `d.nanoseconds`
- * `d.toString()` => ISO-8601 duration strings
- * `Temporal.Duration.fromString(iso: string) : Temporal.Duration`
-
----
-
-## `Temporal.Local`
-
- * `Temporal.Local.timezone() : Temporal.TimeZone`
- * `Temporal.Local.absolute(tz?) : Temporal.Absolute`
- * `Temporal.Local.dateTime=(tz)=>Temporal.Local.absolute(tz).getDateTime()`
- * `Temporal.Local.date=(tz)=>Temporal.Local.absolute(tz).getDate()`
- * `Temporal.Local.time=(tz)=>Temporal.Local.absolute(tz).getTime()`
- * `Temporal.Local.monthDay=(tz)=>Temporal.Local.absolute(tz).getMonthDay()`
- * `Temporal.Local.yearMonth=(tz)=>Temporal.Local.absolute(tz).getYearMonth()`
-
- * ***If `Temporal.Local.timezone` and `Temporal.Local.absolute` are replaced no system information is exposed***
+***Thanks & Cheers***
