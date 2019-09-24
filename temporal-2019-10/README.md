@@ -165,7 +165,7 @@ The community (library implementors & application engineers) have repeatedly ask
 
  ![Check](./check.svg) Concepts / Ideas
  ![Check](./check.svg) Specify as Code
- ![Check](./check.svg) Sepcify as Text
+ ![Check](./check.svg) Specify as Text
 
 ---
 
@@ -173,7 +173,7 @@ The community (library implementors & application engineers) have repeatedly ask
 
  ![Box](./box.svg) Release Code as Poly-Fill
  ![Box](./box.svg) Review Spec-Text
- ![Box](./box.svg) Stage-2 in February
+ ![Box](./box.svg) Stage-3 in February
 
 
 ---
