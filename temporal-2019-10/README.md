@@ -52,6 +52,20 @@
 ---
 
 # `Temporal`
+## Objects & Decisions
+
+ - `Absolute`: I was born **1976-11-18T14:23:00Z**
+ - `DateTime`: TC39 meeting in Nov-2020 starts **2020-11-16T10:00:00**
+   - `Date`: This TC39 meeting began **2019-10-01**
+     - `YearMonth`: TC39 met in **2019-01**, **2019-03**, **2019-06**, **2019-07**, **2019-10**
+     - `MonthDay`: Brendan Eich's birthday is **07-04**
+   - `Time`: TC39 meetings begin at **10:00:00**
+ - `TimeZone`: This TC39 meeting is in **America/New_York**
+ - `Duration`: TC39 meets for 7 hours today **PT7H**
+
+---
+
+# `Temporal`
 ## Objects & Decisions: Should there be a *Combination Type*
 
 <div class="mermaid">
@@ -133,7 +147,7 @@ graph LR;
 
 **Con:**
 
- ![](./arrow.svg) unexpected behaviour for future dates/times
+ ![](./arrow.svg) not inline with ISO-8601 which pins offset
 
 ---
 
@@ -175,6 +189,7 @@ graph LR;
  - the benefit of all-round type(s) is wiped out by unexpected behaviour
  - programmers are free to combine as they they need
  - making explicit choices is better than unexpected consequences
+ - canonical practice can be advised via MDN etc.
 
 > **Drop combination type and encourage programmers to make explicit choices**
 
@@ -185,6 +200,10 @@ graph LR;
 
 > Biggest feedback: **access to system information is required**
 
+ - current date/time
+ - current time-zone
+ - time-zone validity
+
 *How can we give access to current system date/time & time-zone, while still meeting the requirements of SES and other like implementations?*
 
 ---
@@ -194,7 +213,7 @@ graph LR;
 
 **Balancing act between:**
 
- ![](./arrow.svg) securing implementations / eliminating timing idiosynchrasy leaks
+ ![](./arrow.svg) securing implementations / eliminating idiosynchatice timing leaks
  ![](./arrow.svg) making the environment easy and useful to programmers
 
 ---

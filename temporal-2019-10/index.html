@@ -64,6 +64,26 @@
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5">
 <h1><code>Temporal</code></h1>
+<h2>Objects &amp; Decisions</h2>
+<ul>
+<li><code>Absolute</code>: I was born <strong>1976-11-18T14:23:00Z</strong></li>
+<li><code>DateTime</code>: TC39 meeting in Nov-2020 starts <strong>2020-11-16T10:00:00</strong>
+<ul>
+<li><code>Date</code>: This TC39 meeting began <strong>2019-10-01</strong>
+<ul>
+<li><code>YearMonth</code>: TC39 met in <strong>2019-01</strong>, <strong>2019-03</strong>, <strong>2019-06</strong>, <strong>2019-07</strong>, <strong>2019-10</strong></li>
+<li><code>MonthDay</code>: Brendan Eich's birthday is <strong>07-04</strong></li>
+</ul>
+</li>
+<li><code>Time</code>: TC39 meetings begin at <strong>10:00:00</strong></li>
+</ul>
+</li>
+<li><code>TimeZone</code>: This TC39 meeting is in <strong>America/New_York</strong></li>
+<li><code>Duration</code>: TC39 meets for 7 hours today <strong>PT7H</strong></li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6">
+<h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <div class="mermaid">
 graph LR;
@@ -86,7 +106,7 @@ graph LR;
   timezone === datetime;
 </div>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <div class="mermaid">
@@ -114,7 +134,7 @@ graph LR;
   zoned --- datetime;
 </div>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <h3>Option A: No Combination Type</h3>
@@ -124,7 +144,7 @@ graph LR;
 <p><strong>Con:</strong></p>
 <p><img src="./arrow.svg" alt="" /> does not provide a practical all-round object</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <h3>Option B: ZonedDateTime</h3>
@@ -132,9 +152,9 @@ graph LR;
 <p><img src="./arrow.svg" alt="" /> works when time-zone rules change<br />
 <img src="./arrow.svg" alt="" /> provides all-round type</p>
 <p><strong>Con:</strong></p>
-<p><img src="./arrow.svg" alt="" /> unexpected behaviour for future dates/times</p>
+<p><img src="./arrow.svg" alt="" /> not inline with ISO-8601 which pins offset</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <h3>Option C: ZonedAbsolute</h3>
@@ -144,7 +164,7 @@ graph LR;
 <p><strong>Con:</strong></p>
 <p><img src="./arrow.svg" alt="" /> fails when time-zone rules change</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <h3>Option D: both <code>ZonedDateTime</code> &amp; <code>ZonedAbsolute</code></h3>
@@ -155,7 +175,7 @@ graph LR;
 <p><img src="./arrow.svg" alt="" /> unclear that there are decisions to be made<br />
 <img src="./arrow.svg" alt="" /> easier to make bad assumptions</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Should there be a <em>Combination Type</em></h2>
 <h3>Suggested Answer: Option A</h3>
@@ -163,27 +183,33 @@ graph LR;
 <li>the benefit of all-round type(s) is wiped out by unexpected behaviour</li>
 <li>programmers are free to combine as they they need</li>
 <li>making explicit choices is better than unexpected consequences</li>
+<li>canonical practice can be advised via MDN etc.</li>
 </ul>
 <blockquote>
 <p><strong>Drop combination type and encourage programmers to make explicit choices</strong></p>
 </blockquote>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Exposing system information</h2>
 <blockquote>
 <p>Biggest feedback: <strong>access to system information is required</strong></p>
 </blockquote>
+<ul>
+<li>current date/time</li>
+<li>current time-zone</li>
+<li>time-zone validity</li>
+</ul>
 <p><em>How can we give access to current system date/time &amp; time-zone, while still meeting the requirements of SES and other like implementations?</em></p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Exposing system information</h2>
 <p><strong>Balancing act between:</strong></p>
-<p><img src="./arrow.svg" alt="" /> securing implementations / eliminating timing idiosynchrasy leaks<br />
+<p><img src="./arrow.svg" alt="" /> securing implementations / eliminating idiosynchatice timing leaks<br />
 <img src="./arrow.svg" alt="" /> making the environment easy and useful to programmers</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Exposing system information</h2>
 <h3>Proposed Compromise</h3>
@@ -191,7 +217,7 @@ graph LR;
 <img src="./arrow.svg" alt="" /> group all functions exposing information<br />
 <img src="./arrow.svg" alt="" /> make explicit all places that need mitigation</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16">
 <h1><code>Temporal</code></h1>
 <h2>Objects &amp; Decisions: Interoperability with Intl</h2>
 <ul>
@@ -200,7 +226,7 @@ graph LR;
 <li>there's a spec PR regarding this</li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17">
 <h1><code>Temporal</code></h1>
 <h2>Actions &amp; Roadmap</h2>
 <p><img src="./box.svg" alt="" /> incorporate decisions &amp; feedback<br />
@@ -210,7 +236,7 @@ graph LR;
 <img src="./box.svg" alt="" /> tc39 stage review / edit specification to reflect<br />
 <img src="./box.svg" alt="" /> request tc39 stage advancement</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18">
 <h1><code>Temporal</code></h1>
 <h2>Actions &amp; Roadmap</h2>
 <p><img src="./box.svg" alt="" /> <strong>(2019-10-31)</strong> incorporate decisions &amp; feedback<br />
