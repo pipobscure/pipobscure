@@ -5,6 +5,12 @@
  * Objects & Decisions
  * Actions & Roadmap
 
+<div style="font-size: 0.3em; text-align: right;">
+
+[Notes](./notes.md)
+
+</div>
+
 ---
 
 # `Temporal`
@@ -34,7 +40,7 @@
 # `Temporal`
 ## Objects & Decisions
 
- - `Absolute`: An absolute point on the posix timeline
+ - `Absolute`: An absolute point on the timeline
  - `DateTime`: A human representation of untethered date & time
    - `Date`: The date aspect of a `DateTime`
      - `YearMonth`: A partial aspect of a `Date`
@@ -200,6 +206,15 @@ graph LR;
  ![](./arrow.svg) constructors are unable to expose system information
  ![](./arrow.svg) group all functions exposing information
  ![](./arrow.svg) make explicit all places that need mitigation
+
+---
+
+# `Temporal`
+## Objects & Decisions: Interoperability with Intl
+
+ - we have been cooperating with ECMA402 & Shane
+ - we think we've found a way to make `Temporal` objects just work
+ - there's a spec PR regarding this
 
 ---
 
