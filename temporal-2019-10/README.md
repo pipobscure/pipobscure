@@ -1,181 +1,231 @@
+# `Temporal`
+## Update 2019-10-02
 
-# `temporal`
-## 2019-10 update
-
- ![](./arrow.svg) API Overview
- ![](./arrow.svg) Feedback Loops
- ![](./arrow.svg) Changes
-
----
-
-# API Overview
-
-## Classes
-
- ![](./arrow.svg) TimeZone
- ![](./arrow.svg) Absolute
- ![](./arrow.svg) DateTime / Time / Date /  YearMonth / MonthDay
- ![](./arrow.svg) Duration
+ * Process & Progress
+ * Objects & Decisions
+ * Actions & Roadmap
 
 ---
 
-## `TimeZone`
+# `Temporal`
+## Process & Progress
 
-Object representing a fixed offset or an IANA timezone.
+ * **Stage-1**: specify a design
+ * **Stage-2**: validate the design
+ * **Stage-3**: implement the specification
+ * **Stage-4**: mandate a the specification
 
-Allows:
+---
 
- ![](./arrow.svg) getting `Absolute`s for a given `DateTime`
- ![](./arrow.svg) getting the `DateTime` for a given `Absolute`
- ![](./arrow.svg) getting the offset at a given `Absolute`
- ![](./arrow.svg) getting the offsets for a given year
- ![](./arrow.svg) getting the `Absolute`s where the offset changes in a year
+# `Temporal`
+## Process & Progress
+### Stage-2 Progress
 
-<div style="font-size: 0.3em;">
+ ![](./check.svg) create polyfill
+ ![](./check.svg) publish polyfill (github & npm)
+ ![](./check.svg) invite feedback/reviews (bloomberg, google, moment, luxon, tag, public)
+ ![](./check.svg) incorporate feedback
+ ![](./arrow.svg) *update stakeholders*
+ ![](./box.svg) finalize specification
+ ![](./box.svg) tc39 stage review
 
-[Documentation](https://github.com/tc39/proposal-temporal/blob/main/docs/timezone.md)
+---
 
+# `Temporal`
+## Objects & Decisions
+
+ - `Absolute`: An absolute point on the posix timeline
+ - `DateTime`: A human representation of untethered date & time
+   - `Date`: The date aspect of a `DateTime`
+     - `YearMonth`: A partial aspect of a `Date`
+     - `MonthDay`: A partial aspect of a `Date`
+   - `Time`: The time aspect of a `DateTime`
+ - `TimeZone`: A representation of time-rules
+ - `Duration`: a length of time used for arithmetic
+
+---
+
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
+
+<div class="mermaid">
+graph LR;
+  timezone(Time-Zone);
+  subgraph " ";
+    absolute(Absolute);
+  end;
+  subgraph " ";
+    datetime(DateTime);
+      date(Date);
+        yearmonth(YearMonth);
+        monthday(MonthDay);
+      time(Time);
+    datetime --- date;
+    datetime --- time;
+    date --- yearmonth;
+    date --- monthday;
+  end;
+  absolute === timezone;
+  timezone === datetime;
 </div>
 
 ---
 
-## `Absolute`
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
 
-Represents an absolute point in time. Effectively the combination of `DateTime` and `TimeZone`.
-
- ![](./arrow.svg) has all the fields of `DateTime`
- ![](./arrow.svg) has getter methods to `getEpoch<Unit>()`
- ![](./arrow.svg) has setter static function to create `fromEpoch<Unit>(value, timezone?)`
- ![](./arrow.svg) allows for date/time-maths based on the absolute point in time.
-
-<div style="font-size: 0.3em;">
-
-[Documentation](https://github.com/tc39/proposal-temporal/blob/main/docs/absolute.md) / [Specification](https://github.com/tc39/proposal-temporal/blob/main/spec/absolute.md)
-
+<div class="mermaid">
+graph LR;
+  zoned[ZonedAbsoluteDateTime?]
+  timezone(Time-Zone);
+  subgraph " ";
+    absolute(Absolute);
+  end;
+  subgraph " ";
+    datetime(DateTime);
+      date(Date);
+        yearmonth(YearMonth);
+        monthday(MonthDay);
+      time(Time);
+    datetime --- date;
+    datetime --- time;
+    date --- yearmonth;
+    date --- monthday;
+  end;
+  absolute === timezone;
+  timezone === datetime;
+  zoned --- absolute;
+  zoned --- timezone;
+  zoned --- datetime;
 </div>
 
 ---
 
-## `DateTime` / `Date` / `Time` / `YearMonth` / `MonthDay`
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
+### Option A: No Combination Type
 
-Representation of Date / Time / DateTime / YearMonth / MonthDay
+**Pro:**
 
- ![](./arrow.svg) no time-zone / no actual point in time 
+ ![](./arrow.svg) does not mandate basing on absolute or calendar time
+ ![](./arrow.svg) works when time-zone rules change
 
-<div style="font-size: 0.3em;">
+**Con:**
 
-Documentation: [DateTime](https://github.com/tc39/proposal-temporal/blob/main/docs/datetime.md) / [Date](https://github.com/tc39/proposal-temporal/blob/main/docs/date.md) / [Time](https://github.com/tc39/proposal-temporal/blob/main/docs/time.md) / [YearMonth](https://github.com/tc39/proposal-temporal/blob/main/docs/yearmonth.md) / [MonthYear](https://github.com/tc39/proposal-temporal/blob/main/docs/monthyear.md)
-
-Specification: [DateTime](https://github.com/tc39/proposal-temporal/blob/main/spec/datetime.md) / [Date](https://github.com/tc39/proposal-temporal/blob/main/spec/date.md) / [Time](https://github.com/tc39/proposal-temporal/blob/main/spec/time.md) / [YearMonth](https://github.com/tc39/proposal-temporal/blob/main/spec/yearmonth.md) / [MonthYear](https://github.com/tc39/proposal-temporal/blob/main/spec/monthyear.md)
-
-</div>
-
----
-
-# `Duration`
-
-Represents an interval of time.
-
- ![](./arrow.svg) is always positive
- ![](./arrow.svg) can be used for date/time maths
-
-<div style="font-size: 0.3em;">
-
-[Documentation](https://github.com/tc39/proposal-temporal/blob/main/docs/duration.md) / [Specification](https://github.com/tc39/proposal-temporal/blob/main/spec/duration.md)
-
-</div>
+ ![](./arrow.svg) does not provide a practical all-round object
 
 ---
 
-# Feedback Loops
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
+### Option B: ZonedDateTime
 
-## Past
+**Pro:**
 
- ![Check](./check.svg) Polyfill Try-Outs (small-scale: only interested parties)
- ![Check](./check.svg) Library Authors (js & other languages)
- ![Check](./check.svg) App Teams (Bloomberg, Google: Sheets / Calendar)
- ![Check](./check.svg) First Round TAG Review
+ ![](./arrow.svg) works when time-zone rules change
+ ![](./arrow.svg) provides all-round type
 
----
+**Con:**
 
-# Feedback Loops
-
-## Future
-
- ![Box](./box.svg) Polyfill Try-Outs (large-scale: publicised => general public)
- ![Box](./box.svg) Stage 3: Specification Review
- ![Box](./box.svg) Second Round TAG Review
+ ![](./arrow.svg) unexpected behaviour for future dates/times
 
 ---
 
-# Changes
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
+### Option C: ZonedAbsolute
 
- ![](./arrow.svg) built-in module vs. global namespace object
- ![](./arrow.svg) we're not being civil
- ![](./arrow.svg) Instant + ZonedDateTime => Absolute
- ![](./arrow.svg) exposing TimeZone object
- ![](./arrow.svg) exposing current date/time & time-zone
+**Pro:**
+ 
+ ![](./arrow.svg) coherent with ISO-8601 schema
+ ![](./arrow.svg) provides all-round type
 
----
+**Con:**
 
-## built-in module vs. global namespace object
-
-At this point built-in modules are at Stage-1.
-
-Temporal intends to present for Stage-3 in February.
-
- ![](./arrow.svg) Temporal will not block on built-in modules
- ![](./arrow.svg) Temporal will be done in a way that supports becoming a module
+ ![](./arrow.svg) fails when time-zone rules change
 
 ---
 
-## we're not being Civil
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
+### Option D: both `ZonedDateTime` & `ZonedAbsolute`
 
-Objects will not be prefixed.
+**Pro:**
 
- ![](./arrow.svg) Moving to global namespace-object already serves the same purpose as prefixing
- ![](./arrow.svg) Over multiple years it has proven impossible to find a prefix everyone can accept
+ ![](./arrow.svg) provides full set of all-round types
+ ![](./arrow.svg) can work for most circumstances
 
----
+**Con:**
 
-## Instant + ZonedDateTime => Absolute
-
-Turns our that the separation of `Instant` & `ZonedDateTime` especially in the context of `ZonedDateTime` is confusing to people.
-
----
-
-## exposing TimeZone object
-
-The community (library implementors & application engineers) have repeatedly asked for first class explicit and raw time-zone support. We believe (and have been told) that the proposed `TimeZone` objects fulfils the needs.
-
-![](./arrow.svg) can be retrieved
-![](./arrow.svg) enables use-cases
-![](./arrow.svg) not required for temporal use
+ ![](./arrow.svg) unclear that there are decisions to be made
+ ![](./arrow.svg) easier to make bad assumptions
 
 ---
 
-## exposing current date/time & time-zone
+# `Temporal`
+## Objects & Decisions: Should there be a *Combination Type*
+### Suggested Answer: Option A
 
- ![](./arrow.svg) **Biggest feedback:** date/times start as now, timezones start as here.
- ![](./arrow.svg) **However:** they will be exposed in a way that is easy to secure / remove
+ - the benefit of all-round type(s) is wiped out by unexpected behaviour
+ - programmers are free to combine as they they need
+ - making explicit choices is better than unexpected consequences
 
----
-
-# Status
-
- ![Check](./check.svg) Concepts / Ideas
- ![Check](./check.svg) Specify as Code
- ![Check](./check.svg) Specify as Text
+> **Drop combination type and encourage programmers to make explicit choices**
 
 ---
 
-# Next Steps
+# `Temporal`
+## Objects & Decisions: Exposing system information
 
- ![Box](./box.svg) Release Code as Poly-Fill
- ![Box](./box.svg) Review Spec-Text
- ![Box](./box.svg) Stage-3 in February
+> Biggest feedback: **access to system information is required**
 
+*How can we give access to current system date/time & time-zone, while still meeting the requirements of SES and other like implementations?*
 
 ---
 
-***Thanks & Cheers***
+# `Temporal`
+## Objects & Decisions: Exposing system information
+
+**Balancing act between:**
+
+ ![](./arrow.svg) securing implementations / eliminating timing idiosynchrasy leaks
+ ![](./arrow.svg) making the environment easy and useful to programmers
+
+---
+
+# `Temporal`
+## Objects & Decisions: Exposing system information
+### Proposed Compromise
+
+ ![](./arrow.svg) constructors are unable to expose system information
+ ![](./arrow.svg) group all functions exposing information
+ ![](./arrow.svg) make explicit all places that need mitigation
+
+---
+
+# `Temporal`
+##  Actions & Roadmap
+
+ ![](./box.svg) incorporate decisions & feedback
+ ![](./box.svg) release updated polyfill to npm
+ ![](./box.svg) request further community review
+ ![](./box.svg) finalize specification
+ ![](./box.svg) tc39 stage review / edit specification to reflect
+ ![](./box.svg) request tc39 stage advancement
+
+---
+
+# `Temporal`
+##  Actions & Roadmap
+
+ ![](./box.svg) **(2019-10-31)** incorporate decisions & feedback
+ ![](./box.svg) **(2019-10-31)** release updated polyfill to npm
+ ![](./box.svg) **(2019-10-31)** request further community review
+ ![](./box.svg) **(2019-12-31)** finalize specification
+ ![](./box.svg) **(2019-12-31)** tc39 stage review / edit specification to reflect
+ ![](./box.svg) **(2020-02-04)** request tc39 stage advancement
+
+<!-- mermaid.js -->
+<script src="./mermaid.js"></script>
+<script>mermaid.initialize({startOnLoad:true, flowchart:{ useMaxWidth:false } });</script>
+<style>.mermaid svg { height: 13em; }</style>
