@@ -196,6 +196,20 @@ graph LR;
 ---
 
 # `Temporal`
+## Objects & Decisions: Global Namespace Object
+
+We will continue under the premise of `Temporal` becoming a namespace object on the global.
+
+Given that:
+
+ - Unsolved how loading auxiliary modules (`Intl` for Temporal) works
+ - Javascript Standard Library: currently at Stage-1
+
+we feel like `Temporal` is not a good candidate for a first built-in module at thid time.
+
+---
+
+# `Temporal`
 ## Objects & Decisions: Exposing system information
 
 > Biggest feedback: **access to system information is required**
