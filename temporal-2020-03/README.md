@@ -128,6 +128,19 @@ Some examples are:
 
 <!-- _class: cookbook -->
 
+<!--
+So one of the things brought up last time was (Leo) a request for better examples of the API in general, and showing some use-cases.
+
+So we have worked on a cookbook.
+These are some of the most common tasks that people ask questions about on StackOverflow with legacy Date. Here's how they would look using Temporal.
+
+Some examples are:
+* Getting the unix timestamp
+* Getting the current date and time
+* How can i sort or compare dates with each other.
+* Given a month and year, how do I get the first tuesday of the month?
+ -->
+
 ![](./cookbook.gif)
 
 ---
