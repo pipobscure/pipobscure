@@ -156,6 +156,7 @@ Some examples are:
 
 <!-- _header: 'Calendar' -->
 
+
 # `Temporal.Calendar`
 
 ---
@@ -170,33 +171,15 @@ Some examples are:
 
 ```javascript
 let date = Temporal.now.date();
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Nisan 6, 5780'
 
-date = date.plus({ months: 1 });
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+date = date.plus({months: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Iyar 6, 5780'
 
-date = date.plus({ months: 1 });
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+date = date.plus({months: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Sivan 7, 5780'
 
 // 'Tamuz 8, 5780'
@@ -204,24 +187,12 @@ console.log(
 // 'Elul 10, 5780'
 // 'Tishri 12, 5781'
 
-date = date.plus({ years: 1 });
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+date = date.plus({years: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Tishri 24, 5782'
 
-date = date.plus({ years: 1 });
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+date = date.plus({years: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Tishri 5, 5783'
 ```
 
@@ -229,9 +200,9 @@ console.log(
 
 <!-- _header: 'Calendar' -->
 
-- While everyone in 2020 mostly agrees with the concept of a solar day, months and years are concepts that are inherently calendar-dependent.
-- Any date-time arithmetic that is rooted in the ISO calendar involving months and years is bound to give unexpected results that will carry over poorly to other calendars.
-- TL:DR; any arithmetic with units larger than days cannot be satisfactorily done in a calendar-agnostic way.
+* While everyone in 2020 mostly agrees with the concept of a solar day, months and years are concepts that are inherently calendar-dependent.
+* Any date-time arithmetic that is rooted in the ISO calendar involving months and years is bound to give unexpected results that will carry over poorly to other calendars.
+* TL:DR; any arithmetic with units larger than days cannot be satisfactorily done in a calendar-agnostic way.
 
 ---
 
@@ -253,11 +224,11 @@ console.log(
 
 ## What even is `Temporal.Calendar`?
 
-- Mechanism to allow arbitrary calendar systems to be implemented on top of Temporal.
-- This will be taken care of for _most_ users out of the box, and doesn't require any extra know-how.
-- Can be used to implement non-built-in calendar systems.
-- Plan to expose non-ISO, commonly-used regional calendars via ECMA-402.
-- Everything else in userland.
+* Mechanism to allow arbitrary calendar systems to be implemented on top of Temporal.
+* This will be taken care of for *most* users out of the box, and doesn't require any extra know-how.
+* Can be used to implement non-built-in calendar systems.
+* Plan to expose non-ISO, commonly-used regional calendars via ECMA-402.
+* Everything else in userland.
 
 ---
 
@@ -279,21 +250,9 @@ class MyCalendar extends Temporal.Calendar {
   dateFromFields(fields: object): Temporal.Date;
 
   // Arithmetic
-  plus(
-    input: Temporal.Date,
-    duration: Temporal.Duration,
-    options: object
-  ): Temporal.Date;
-  minus(
-    input: Temporal.Date,
-    duration: Temporal.Duration,
-    options: object
-  ): Temporal.Date;
-  difference(
-    left: Temporal.Date,
-    right: Temporal.Date,
-    options: object
-  ): Temporal.Duration;
+  plus(input: Temporal.Date, duration: Temporal.Duration, options: object): Temporal.Date;
+  minus(input: Temporal.Date, duration: Temporal.Duration, options: object): Temporal.Date;
+  difference(left: Temporal.Date, right: Temporal.Date, options: object): Temporal.Duration;
 
   // Accessors
 }
@@ -313,6 +272,7 @@ class MyCalendar extends Temporal.Calendar {
 <li>The corresponding fields on <code>Temporal.Date.prototype</code> should forward requests to the calendar.
 <li>Calendars <em>can</em> add calendar-specific accessors, eg: <code>yearType</code> for the Hebrew Calendar.
 <li>An instance is expected to have stateless behavior; i.e., all methods should be deterministic.
+<li>(There would be no mechanism to enforce this for userland calendars, but the author should ensure this in order to prevent unexpected behavior such as lack of round-tripping.)
 </ul>
 
 ---
@@ -324,13 +284,12 @@ class MyCalendar extends Temporal.Calendar {
 ### How would people use it?
 
 ```javascript
-let date = Temporal.now.date(); // a Temporal.Date
+let date = Temporal.now.date();  // a Temporal.Date
 
-console.log(date.withCalendar("iso").month); // 11, i.e. November
-console.log(date.withCalendar("hebrew").month); // 2, i.e. Heshvan
+console.log(date.withCalendar("iso").month);  // 11, i.e. November
+console.log(date.withCalendar("hebrew").month);  // 2, i.e. Heshvan
 console.log(date.withCalendar("japanese").era); // "reiwa"
 ```
-
 ---
 
 <!-- _header: 'Calendar' -->
@@ -342,35 +301,17 @@ console.log(date.withCalendar("japanese").era); // "reiwa"
 ```javascript
 let date = Temporal.now.date();
 
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Nisan 7, 5780'
 
-date = date.withCalendar("hebrew");
+date = date.withCalendar('hebrew');
 
-date = date.plus({ months: 1 });
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+date = date.plus({months: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Iyar 7, 5780'
 
-date = date.plus({ months: 1 });
-console.log(
-  d.toLocaleString("en-US-u-ca-hebrew", {
-    day: "numeric",
-    month: "long",
-    year: "numeric"
-  })
-);
+date = date.plus({months: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
 // 'Sivan 7, 5780'
 
 // 'Tamuz 7, 5780'
@@ -387,15 +328,15 @@ console.log(
 
 ### What about Lunar and Lunisolar calendars?
 
-- `Temporal.Date` has three components: `Year`, `Month` and `Day`.
-- Take out any one, and it becomes impossible to perform Calendar conversions.
-- Example: Rosh Hashanah, 1 Tishrei in the Hebrew Calendar.
-  - 2019: 30th September
-  - 2020: 19th September
-  - 2021: 7th September
-  - 2022: 26th September
-- Question: Eid al-Fitr, 1 Shawwal in the Islamic Calendar.
-- Answer: Don't even ask.
+* `Temporal.Date` has three components: `Year`, `Month` and `Day`.
+* Take out any one, and it becomes impossible to perform Calendar conversions.
+* Example: Rosh Hashanah, 1 Tishrei in the Hebrew Calendar.
+  * 2019: 30th September
+  * 2020: 19th September
+  * 2021: 7th September
+  * 2022: 26th September
+* Question: Eid al-Fitr, 1 Shawwal in the Islamic Calendar.
+* Answer: Don't even ask.
 
 ---
 
@@ -405,10 +346,10 @@ console.log(
 
 ### What about Lunar and Lunisolar calendars?
 
-- The above model solves all remaining issues with solar calendars.
-- Lunar and Lunisolar calendars don't have clear overlaps with ISO, therefore need more information to properly disambiguate.
-- We will add a `[[RefIsoYear]]` and `[[RefIsoDay]]` slot to `Temporal.MonthDay` and `Temporal.YearMonth` classes respectively, to assist disambiguation.
-- They will be ignored whenever they're not required.
+* The above model solves all remaining issues with solar calendars.
+* Lunar and Lunisolar calendars don't have clear overlaps with ISO, therefore need more information to properly disambiguate.
+* We will add a `[[RefIsoYear]]` and `[[RefIsoDay]]` slot to `Temporal.MonthDay` and `Temporal.YearMonth` classes respectively, to assist disambiguation.
+* They will be ignored whenever they're not required.
 
 ---
 
@@ -416,15 +357,9 @@ console.log(
 
 ## Next Steps
 
-- Reach consensus on the last few standing issues.
-- Convert working draft into proper spec text.
-- Add calendar support to polyfill.
-
----
-
-# Feedback
-
-<!-- _header: 'Feedback' -->
+* Reach consensus on the last few standing issues.
+* Convert working draft into proper spec text.
+* Add calendar support to polyfill.
 
 ---
 
