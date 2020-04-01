@@ -4,6 +4,27 @@ paginate: true
 footer: "https://github.com/tc39/proposal-temporal"
 ---
 
+<style>
+section.names ul ul li {
+  font-size: 22px;
+  display: inline-block;
+  margin-right: 10px;
+  list-style: disc;
+}
+
+section.cookbook img {
+  width: 70%;
+}
+
+section.constructor img {
+  width: 65%;
+}
+
+section.roadmap ul li:nth-child(3), section.roadmap ul li:nth-child(5) {
+      margin-bottom: 40px;
+}
+</style>
+
 # Temporal 🕓
 
 ## Update 2020-03-31
@@ -20,12 +41,28 @@ footer: "https://github.com/tc39/proposal-temporal"
 ---
 
 <!-- _header: 'Intro' -->
+<!-- _class: names -->
 
 # Intro
 
 What's new since last time?
 
 - More participants
+
+  - Philip Chimento
+  - Philip Dunkel
+  - Ujjwal Sharma
+  - Ms2ger
+  - Jason Williams
+  - Matt Johnson-Pint
+  - Sasha Pierson
+  - Shane F. Carr
+  - Maggie Johnson-Pint
+  - Daniel Ehrenberg
+  - Jordan Harband
+  - Richard Gibson
+  - kaizhu256
+
 - Cookbook https://tc39.es/proposal-temporal/docs/cookbook.html
 - API Documentation https://tc39.es/proposal-temporal/docs/index.html
 
@@ -89,6 +126,12 @@ Some examples are:
 
 ---
 
+<!-- _class: cookbook -->
+
+![](./cookbook.gif)
+
+---
+
 <!-- _header: 'Documentation' -->
 
 # Documentation
@@ -101,8 +144,17 @@ Some examples are:
 
 ---
 
-<!-- _header: 'Calendar' -->
+<!-- _class: constructor -->
 
+![](./Constructor.png)
+
+---
+
+![](./playground.png)
+
+---
+
+<!-- _header: 'Calendar' -->
 
 # `Temporal.Calendar`
 
@@ -118,15 +170,33 @@ Some examples are:
 
 ```javascript
 let date = Temporal.now.date();
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Nisan 6, 5780'
 
-date = date.plus({months: 1})
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+date = date.plus({ months: 1 });
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Iyar 6, 5780'
 
-date = date.plus({months: 1})
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+date = date.plus({ months: 1 });
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Sivan 7, 5780'
 
 // 'Tamuz 8, 5780'
@@ -134,12 +204,24 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 // 'Elul 10, 5780'
 // 'Tishri 12, 5781'
 
-date = date.plus({years: 1})
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+date = date.plus({ years: 1 });
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Tishri 24, 5782'
 
-date = date.plus({years: 1})
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+date = date.plus({ years: 1 });
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Tishri 5, 5783'
 ```
 
@@ -147,9 +229,9 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 
 <!-- _header: 'Calendar' -->
 
-* While everyone in 2020 mostly agrees with the concept of a solar day, months and years are concepts that are inherently calendar-dependent.
-* Any date-time arithmetic that is rooted in the ISO calendar involving months and years is bound to give unexpected results that will carry over poorly to other calendars.
-* TL:DR; any arithmetic with units larger than days cannot be satisfactorily done in a calendar-agnostic way.
+- While everyone in 2020 mostly agrees with the concept of a solar day, months and years are concepts that are inherently calendar-dependent.
+- Any date-time arithmetic that is rooted in the ISO calendar involving months and years is bound to give unexpected results that will carry over poorly to other calendars.
+- TL:DR; any arithmetic with units larger than days cannot be satisfactorily done in a calendar-agnostic way.
 
 ---
 
@@ -171,11 +253,11 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 
 ## What even is `Temporal.Calendar`?
 
-* Mechanism to allow arbitrary calendar systems to be implemented on top of Temporal.
-* This will be taken care of for *most* users out of the box, and doesn't require any extra know-how.
-* Can be used to implement non-built-in calendar systems.
-* Plan to expose non-ISO, commonly-used regional calendars via ECMA-402.
-* Everything else in userland.
+- Mechanism to allow arbitrary calendar systems to be implemented on top of Temporal.
+- This will be taken care of for _most_ users out of the box, and doesn't require any extra know-how.
+- Can be used to implement non-built-in calendar systems.
+- Plan to expose non-ISO, commonly-used regional calendars via ECMA-402.
+- Everything else in userland.
 
 ---
 
@@ -197,9 +279,21 @@ class MyCalendar extends Temporal.Calendar {
   dateFromFields(fields: object): Temporal.Date;
 
   // Arithmetic
-  plus(input: Temporal.Date, duration: Temporal.Duration, options: object): Temporal.Date;
-  minus(input: Temporal.Date, duration: Temporal.Duration, options: object): Temporal.Date;
-  difference(left: Temporal.Date, right: Temporal.Date, options: object): Temporal.Duration;
+  plus(
+    input: Temporal.Date,
+    duration: Temporal.Duration,
+    options: object
+  ): Temporal.Date;
+  minus(
+    input: Temporal.Date,
+    duration: Temporal.Duration,
+    options: object
+  ): Temporal.Date;
+  difference(
+    left: Temporal.Date,
+    right: Temporal.Date,
+    options: object
+  ): Temporal.Duration;
 
   // Accessors
 }
@@ -219,7 +313,6 @@ class MyCalendar extends Temporal.Calendar {
 <li>The corresponding fields on <code>Temporal.Date.prototype</code> should forward requests to the calendar.
 <li>Calendars <em>can</em> add calendar-specific accessors, eg: <code>yearType</code> for the Hebrew Calendar.
 <li>An instance is expected to have stateless behavior; i.e., all methods should be deterministic.
-<li>(There would be no mechanism to enforce this for userland calendars, but the author should ensure this in order to prevent unexpected behavior such as lack of round-tripping.)
 </ul>
 
 ---
@@ -231,12 +324,13 @@ class MyCalendar extends Temporal.Calendar {
 ### How would people use it?
 
 ```javascript
-let date = Temporal.now.date();  // a Temporal.Date
+let date = Temporal.now.date(); // a Temporal.Date
 
-console.log(date.withCalendar("iso").month);  // 11, i.e. November
-console.log(date.withCalendar("hebrew").month);  // 2, i.e. Heshvan
+console.log(date.withCalendar("iso").month); // 11, i.e. November
+console.log(date.withCalendar("hebrew").month); // 2, i.e. Heshvan
 console.log(date.withCalendar("japanese").era); // "reiwa"
 ```
+
 ---
 
 <!-- _header: 'Calendar' -->
@@ -248,17 +342,35 @@ console.log(date.withCalendar("japanese").era); // "reiwa"
 ```javascript
 let date = Temporal.now.date();
 
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Nisan 7, 5780'
 
-date = date.withCalendar('hebrew');
+date = date.withCalendar("hebrew");
 
-date = date.plus({months: 1})
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+date = date.plus({ months: 1 });
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Iyar 7, 5780'
 
-date = date.plus({months: 1})
-console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+date = date.plus({ months: 1 });
+console.log(
+  d.toLocaleString("en-US-u-ca-hebrew", {
+    day: "numeric",
+    month: "long",
+    year: "numeric"
+  })
+);
 // 'Sivan 7, 5780'
 
 // 'Tamuz 7, 5780'
@@ -275,15 +387,15 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 
 ### What about Lunar and Lunisolar calendars?
 
-* `Temporal.Date` has three components: `Year`, `Month` and `Day`.
-* Take out any one, and it becomes impossible to perform Calendar conversions.
-* Example: Rosh Hashanah, 1 Tishrei in the Hebrew Calendar.
-  * 2019: 30th September
-  * 2020: 19th September
-  * 2021: 7th September
-  * 2022: 26th September
-* Question: Eid al-Fitr, 1 Shawwal in the Islamic Calendar.
-* Answer: Don't even ask.
+- `Temporal.Date` has three components: `Year`, `Month` and `Day`.
+- Take out any one, and it becomes impossible to perform Calendar conversions.
+- Example: Rosh Hashanah, 1 Tishrei in the Hebrew Calendar.
+  - 2019: 30th September
+  - 2020: 19th September
+  - 2021: 7th September
+  - 2022: 26th September
+- Question: Eid al-Fitr, 1 Shawwal in the Islamic Calendar.
+- Answer: Don't even ask.
 
 ---
 
@@ -293,10 +405,10 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 
 ### What about Lunar and Lunisolar calendars?
 
-* The above model solves all remaining issues with solar calendars.
-* Lunar and Lunisolar calendars don't have clear overlaps with ISO, therefore need more information to properly disambiguate.
-* We will add a `[[RefIsoYear]]` and `[[RefIsoDay]]` slot to `Temporal.MonthDay` and `Temporal.YearMonth` classes respectively, to assist disambiguation.
-* They will be ignored whenever they're not required.
+- The above model solves all remaining issues with solar calendars.
+- Lunar and Lunisolar calendars don't have clear overlaps with ISO, therefore need more information to properly disambiguate.
+- We will add a `[[RefIsoYear]]` and `[[RefIsoDay]]` slot to `Temporal.MonthDay` and `Temporal.YearMonth` classes respectively, to assist disambiguation.
+- They will be ignored whenever they're not required.
 
 ---
 
@@ -304,9 +416,9 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 
 ## Next Steps
 
-* Reach consensus on the last few standing issues.
-* Convert working draft into proper spec text.
-* Add calendar support to polyfill.
+- Reach consensus on the last few standing issues.
+- Convert working draft into proper spec text.
+- Add calendar support to polyfill.
 
 ---
 
@@ -316,19 +428,25 @@ console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long'
 
 ---
 
+<!-- _class: roadmap -->
+
 # Roadmap
 
-- incorporate decisions & feedback
-- Continue work on polyfill (Do we want to release it to NPM or just publicize it to interested parties?)
-- Finalise first edition of the cookbook
+<!--
+
+So you could break our roadmap up into 3 parts:
+
+* Finalizing things
+* Gathering feedback
+* Eventually ask for advancement to Stage 3
+
+ -->
+
+- Finalize polyfill and release it
+- Finalize first edition of the cookbook
 - Finalize Specification
-- tc39 stage review / edit specification to reflect
-- request tc39 stage advancement
 
----
+- Incorporate decisions & feedback
+- TC39 stage review / edit specification to reflect
 
-# Roadmap
-
-- **coming month:** Sort out calendars
-- **1&ndash;3 months:** Publish polyfill and gather feedback from users, fix bugs
-- **July 2020:** Stage 3?
+- Request TC39 stage advancement
