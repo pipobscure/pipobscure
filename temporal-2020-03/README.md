@@ -49,18 +49,18 @@ What's new since last time?
 
 - More participants
 
+  - Daniel Ehrenberg
+  - Jason Williams
+  - Jordan Harband
+  - Maggie Johnson-Pint
+  - Matt Johnson-Pint
+  - Ms2ger
   - Philip Chimento
   - Philip Dunkel
-  - Ujjwal Sharma
-  - Ms2ger
-  - Jason Williams
-  - Matt Johnson-Pint
+  - Richard Gibson
   - Sasha Pierson
   - Shane F. Carr
-  - Maggie Johnson-Pint
-  - Daniel Ehrenberg
-  - Jordan Harband
-  - Richard Gibson
+  - Ujjwal Sharma
   - kaizhu256
 
 - Cookbook https://tc39.es/proposal-temporal/docs/cookbook.html
