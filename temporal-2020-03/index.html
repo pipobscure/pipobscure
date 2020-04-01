@@ -39,7 +39,7 @@
 <li>Matt Johnson-Pint</li>
 <li>Ms2ger</li>
 <li>Philip Chimento</li>
-<li>Philip Dunkel</li>
+<li>Philipp Dunkel</li>
 <li>Richard Gibson</li>
 <li>Sasha Pierson</li>
 <li>Shane F. Carr</li>
@@ -272,13 +272,13 @@ date = date.plus({ <span class="hljs-attr">years</span>: <span class="hljs-numbe
 
 <h2>What even is <code>Temporal.Calendar</code>?</h2>
 <h3>How will it work? (using <code>Temporal.Date</code> as an example)</h3>
-&lt;ul style="font-size: 80%"&gt;
-&lt;li&gt;Previously, &lt;code&gt;Temporal.Date&lt;/code&gt; had three internal slots: year, month and day.
-&lt;li&gt;Now, it has four slots: &lt;code&gt;[[IsoYear]]&lt;/code&gt;, &lt;code&gt;[[IsoMonth]]&lt;/code&gt;, &lt;code&gt;[[IsoDay]]&lt;/code&gt; and &lt;code&gt;[[Calendar]]&lt;/code&gt;.
-&lt;li&gt;The corresponding fields on &lt;code&gt;Temporal.Date.prototype&lt;/code&gt; should forward requests to the calendar.
-&lt;li&gt;Calendars &lt;em&gt;can&lt;/em&gt; add calendar-specific accessors, eg: &lt;code&gt;yearType&lt;/code&gt; for the Hebrew Calendar.
-&lt;li&gt;An instance is expected to have stateless behavior; i.e., all methods should be deterministic.
-&lt;/ul&gt;
+<ul style="font-size: 80%">
+<li>Previously, <code>Temporal.Date</code> had three internal slots: year, month and day.
+<li>Now, it has four slots: <code>[[IsoYear]]</code>, <code>[[IsoMonth]]</code>, <code>[[IsoDay]]</code> and <code>[[Calendar]]</code>.
+<li>The corresponding fields on <code>Temporal.Date.prototype</code> should forward requests to the calendar.
+<li>Calendars <em>can</em> add calendar-specific accessors, eg: <code>yearType</code> for the Hebrew Calendar.
+<li>An instance is expected to have stateless behavior; i.e., all methods should be deterministic.
+</ul>
 <footer><a href="https://github.com/tc39/proposal-temporal">https://github.com/tc39/proposal-temporal</a></footer>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19" data-paginate="true" data-footer="https://github.com/tc39/proposal-temporal" data-header="Calendar" data-marpit-pagination="19" data-marpit-pagination-total="25" style="--paginate:true;--header:Calendar;">
