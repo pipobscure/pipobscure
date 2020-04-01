@@ -13,7 +13,15 @@ section.names ul ul li {
 }
 
 section.cookbook img {
-  width: 70%
+  width: 70%;
+}
+
+section.constructor img {
+  width: 65%;
+}
+
+section.roadmap ul li:nth-child(3), section.roadmap ul li:nth-child(5) {
+      margin-bottom: 40px;
 }
 </style>
 
@@ -133,6 +141,16 @@ Some examples are:
 - Reflects the current state of the polyfill
 - Open your browser console on this page and the Temporal polyfill is loaded in your environment
 - https://tc39.es/proposal-temporal/docs/index.html
+
+---
+
+<!-- _class: constructor -->
+
+![](./Constructor.png)
+
+---
+
+![](./playground.png)
 
 ---
 
@@ -295,7 +313,6 @@ class MyCalendar extends Temporal.Calendar {
 <li>The corresponding fields on <code>Temporal.Date.prototype</code> should forward requests to the calendar.
 <li>Calendars <em>can</em> add calendar-specific accessors, eg: <code>yearType</code> for the Hebrew Calendar.
 <li>An instance is expected to have stateless behavior; i.e., all methods should be deterministic.
-<li>(There would be no mechanism to enforce this for userland calendars, but the author should ensure this in order to prevent unexpected behavior such as lack of round-tripping.)
 </ul>
 
 ---
@@ -411,21 +428,25 @@ console.log(
 
 ---
 
+<!-- _class: roadmap -->
+
 # Roadmap
+
+<!--
+
+So you could break our roadmap up into 3 parts:
+
+* Finalizing things
+* Gathering feedback
+* Eventually ask for advancement to Stage 3
+
+ -->
 
 - Finalize polyfill and release it
 - Finalize first edition of the cookbook
 - Finalize Specification
 
-* Incorporate decisions & feedback
-* TC39 stage review / edit specification to reflect
+- Incorporate decisions & feedback
+- TC39 stage review / edit specification to reflect
 
 - Request TC39 stage advancement
-
----
-
-# Roadmap
-
-- **coming month:** Sort out calendars
-- **1&ndash;3 months:** Publish polyfill and gather feedback from users, fix bugs
-- **July 2020:** Stage 3?
