@@ -56,7 +56,7 @@ What's new since last time?
   - Matt Johnson-Pint
   - Ms2ger
   - Philip Chimento
-  - Philip Dunkel
+  - Philipp Dunkel
   - Richard Gibson
   - Sasha Pierson
   - Shane F. Carr
