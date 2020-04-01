@@ -440,6 +440,15 @@ So you could break our roadmap up into 3 parts:
 * Gathering feedback
 * Eventually ask for advancement to Stage 3
 
+As philipp mentioned there's some additions to the polyfill we need to sort out (calendar).
+We would like to add some more examples to the cookbook, and at least reach a point where we're happy with it
+Specification has some more holes too
+^ So these are what we're working on right now.
+
+Gathering Feedback is something we'll be doing over the next few months
+
+Then requesting stage advancement is something we see ourselves doing by the end of the year
+
  -->
 
 - Finalize polyfill and release it
