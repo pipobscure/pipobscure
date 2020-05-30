@@ -208,9 +208,9 @@ Temporal Champions current answer:
 Potential i18n correctness bugs arise with default ISO 8601 calendar when doing calendar-sensitive calculations in locales with a different default calendar system:
 ```javascript
 const today = Temporal.now.date();
-console.log("Today is:", today.toLocaleString());
+console.log('Today is:', today.toLocaleString('en-u-ca-islamic'));
 const nextMonth = today.plus({ months: 1 });
-console.log("Next month is: ", nextMonth.toLocaleString());
+console.log('Next month is:', nextMonth.toLocaleString('en-u-ca-islamic'));
 ```
 > Today is: Ramadan 24, 1441 AH
 > Next month is: Shawwal ~~24~~ **25**, 1441 AH
@@ -243,3 +243,46 @@ Temporal Champions current answer:
 
 - ❓ Questions?
 - 💬 Comments?
+
+---
+
+---
+
+## Default calendar
+
+```javascript
+const today = Temporal.now.date();
+console.log('Today is:', today.toLocaleString());
+const nextMonth = today.plus({ months: 1 });
+console.log('Next month is:', nextMonth.toLocaleString());
+```
+> Today is: May 17, 2020
+> Next month is: June 17, 2020
+
+---
+
+## Default calendar
+
+The same but printing the results in a different calendar:
+```javascript
+const today = Temporal.now.date();
+console.log('Today is:', today.toLocaleString('en-u-ca-islamic'));
+const nextMonth = today.plus({ months: 1 });
+console.log('Next month is:', nextMonth.toLocaleString('en-u-ca-islamic'));
+```
+> Today is: Ramadan 24, 1441 AH
+> Next month is: Shawwal ~~24~~ **25**, 1441 AH
+
+---
+
+## Default calendar
+
+Explicitly specify the calendar you need to do the arithmetic in:
+```javascript
+const today = Temporal.now.date().withCalendar('islamic');
+console.log('Today is:', today.toLocaleString('en-u-ca-islamic'));
+const nextMonth = today.plus({ months: 1 });
+console.log('Next month is:', nextMonth.toLocaleString('en-u-ca-islamic'));
+```
+> Today is: Ramadan 24, 1441 AH
+> Next month is: Shawwal **24**, 1441 AH
