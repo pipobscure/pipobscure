@@ -224,11 +224,11 @@ console.log('Next month is:', nextMonth.toLocaleString('en-u-ca-islamic'));
 ## Default calendar
 
 Question:
-- Do we make **ISO 8601 default** or require specifying a calendar explicitly?
+- Do we make **ISO 8601 default** or require **specifying a calendar explicitly**?
   - (many different options with different pros and cons, [see discussion thread](https://github.com/tc39/proposal-temporal/issues/292))
 
 Temporal Champions current answer:
-- **Default to ISO 8601 calendar**
+- Ship polyfill with **default ISO 8601 calendar**
 - Revisit before Stage 3 based on feedback
 
 ---
