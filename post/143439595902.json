@@ -1,0 +1,21 @@
+{
+	"type": "Photo",
+	"id": "143439595902",
+	"published": "2016-04-26T18:32:48.000Z",
+	"title": "",
+	"tags": [
+		"voted",
+		"mayor",
+		"london"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 3024,
+				"height": 4032,
+				"file": "143439595902-0.jpg"
+			}
+		]
+	}
+}

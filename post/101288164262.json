@@ -1,0 +1,17 @@
+{
+	"type": "Video",
+	"id": "101288164262",
+	"published": "2014-10-29T22:17:06.000Z",
+	"title": "Under the river",
+	"tags": [
+		"river"
+	],
+	"content": {
+		"video": {
+			"caption": "Under the river",
+			"width": 1920,
+			"height": 1080,
+			"file": "101288164262.mp4"
+		}
+	}
+}

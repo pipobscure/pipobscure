@@ -1,0 +1,32 @@
+{
+	"type": "Photo",
+	"id": "124405874737",
+	"published": "2015-07-18T13:42:36.000Z",
+	"title": "",
+	"tags": [
+		"celebrating",
+		"school"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "124405874737-0.jpg"
+			},
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "124405874737-1.jpg"
+			},
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "124405874737-2.jpg"
+			}
+		]
+	}
+}

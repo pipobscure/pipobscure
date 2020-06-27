@@ -1,0 +1,21 @@
+{
+	"type": "Photo",
+	"id": "96784239157",
+	"published": "2014-09-06T13:35:16.000Z",
+	"title": "",
+	"tags": [
+		"summer",
+		"picnic",
+		"looks"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 720,
+				"file": "96784239157-0.jpg"
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"type": "Photo",
+	"id": "122075076322",
+	"published": "2015-06-21T12:21:01.000Z",
+	"title": "",
+	"tags": [
+		"joust",
+		"eltham",
+		"palace"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "122075076322-0.jpg"
+			},
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "122075076322-1.jpg"
+			}
+		]
+	}
+}

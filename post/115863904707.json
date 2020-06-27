@@ -1,0 +1,32 @@
+{
+	"type": "Photo",
+	"id": "115863904707",
+	"published": "2015-04-08T17:20:04.000Z",
+	"title": "",
+	"tags": [
+		"canterbury",
+		"cathedral"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "115863904707-0.jpg"
+			},
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 960,
+				"file": "115863904707-1.jpg"
+			},
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 812,
+				"file": "115863904707-2.jpg"
+			}
+		]
+	}
+}

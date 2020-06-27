@@ -1,0 +1,36 @@
+{
+	"type": "Photo",
+	"id": "96776409567",
+	"published": "2014-09-06T10:35:03.000Z",
+	"title": "",
+	"tags": [
+		"ldnmoni",
+		"wenn",
+		"den",
+		"blick",
+		"vom",
+		"buckingham"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 2592,
+				"height": 1456,
+				"file": "96776409567-0.jpg"
+			},
+			{
+				"caption": "",
+				"width": 2592,
+				"height": 1456,
+				"file": "96776409567-1.jpg"
+			},
+			{
+				"caption": "",
+				"width": 2592,
+				"height": 1456,
+				"file": "96776409567-2.jpg"
+			}
+		]
+	}
+}

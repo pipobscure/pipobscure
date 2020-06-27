@@ -1,0 +1,21 @@
+{
+	"type": "Photo",
+	"id": "95293540682",
+	"published": "2014-08-20T17:19:38.000Z",
+	"title": "",
+	"tags": [
+		"seamless",
+		"low",
+		"buildings"
+	],
+	"content": {
+		"photos": [
+			{
+				"caption": "",
+				"width": 1280,
+				"height": 720,
+				"file": "95293540682-0.jpg"
+			}
+		]
+	}
+}
