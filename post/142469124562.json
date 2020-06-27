@@ -1,15 +1,1 @@
-{
-	"type": "Quote",
-	"id": "142469124562",
-	"published": "2016-04-08T18:00:20.000Z",
-	"tags": [
-		"bit",
-		"remiss",
-		"venice",
-		"doesnt"
-	],
-	"content": {
-		"text": "It&rsquo;s a bit remiss of Venice that it doesn&rsquo;t attempt to turn around its ailing tourist industry by referring to itself as &ldquo;The Birmingham of the South&rdquo;",
-		"source": "British Television"
-	}
-}
+{"type":"Quote","id":"142469124562","published":"2016-04-08T18:00:20.000Z","title":"It&rsquo;s a bit remiss o","tags":["bit","remiss","venice","doesnt"],"content":{"text":"It&rsquo;s a bit remiss of Venice that it doesn&rsquo;t attempt to turn around its ailing tourist industry by referring to itself as &ldquo;The Birmingham of the South&rdquo;","source":"British Television"}}

@@ -1,15 +1,1 @@
-{
-	"type": "Video",
-	"id": "127019931837",
-	"published": "2015-08-18T20:48:13.000Z",
-	"title": "",
-	"tags": [],
-	"content": {
-		"video": {
-			"caption": "",
-			"width": 0,
-			"height": 0,
-			"file": "https://vimeo.com/136606856"
-		}
-	}
-}
+{"type":"Video","id":"127019931837","published":"2015-08-18T20:48:13.000Z","title":"Video 2015-08-18 20:48:13","tags":[],"content":{"video":{"caption":"","width":0,"height":0,"file":"https://vimeo.com/136606856"}}}

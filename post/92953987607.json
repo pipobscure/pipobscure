@@ -1,14 +1,1 @@
-{
-	"type": "Quote",
-	"id": "92953987607",
-	"published": "2014-07-26T22:09:23.000Z",
-	"tags": [
-		"sir",
-		"tired",
-		"london"
-	],
-	"content": {
-		"text": "Sir, when a man is tired of London, he is tired of life; for there is in London all that life can afford.",
-		"source": "Samuel Johnson (via pipobscure)"
-	}
-}
+{"type":"Quote","id":"92953987607","published":"2014-07-26T22:09:23.000Z","title":"Sir, when a man is tired ","tags":["sir","tired","london"],"content":{"text":"Sir, when a man is tired of London, he is tired of life; for there is in London all that life can afford.","source":"Samuel Johnson (via pipobscure)"}}
