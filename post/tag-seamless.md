@@ -1,6 +1,6 @@
 <!--
 title: Tag seamless
-date: 2020-06-28T15:00:41.301Z
+date: 2020-06-28T15:02:24.925Z
 tags:
 -->
 # Tag seamless

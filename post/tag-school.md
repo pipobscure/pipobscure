@@ -1,6 +1,6 @@
 <!--
 title: Tag school
-date: 2020-06-28T15:00:41.172Z
+date: 2020-06-28T15:02:24.787Z
 tags:
 -->
 # Tag school

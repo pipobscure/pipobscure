@@ -1,6 +1,6 @@
 <!--
 title: Tag tough
-date: 2020-06-28T15:00:41.242Z
+date: 2020-06-28T15:02:24.853Z
 tags:
 -->
 # Tag tough

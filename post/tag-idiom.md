@@ -1,6 +1,6 @@
 <!--
 title: Tag idiom
-date: 2020-06-28T15:00:41.262Z
+date: 2020-06-28T15:02:24.884Z
 tags:
 -->
 # Tag idiom

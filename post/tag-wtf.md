@@ -1,6 +1,6 @@
 <!--
 title: Tag wtf
-date: 2020-06-28T15:00:41.288Z
+date: 2020-06-28T15:02:24.909Z
 tags:
 -->
 # Tag wtf

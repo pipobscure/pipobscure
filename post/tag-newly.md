@@ -1,6 +1,6 @@
 <!--
 title: Tag newly
-date: 2020-06-28T15:00:41.280Z
+date: 2020-06-28T15:02:24.900Z
 tags:
 -->
 # Tag newly

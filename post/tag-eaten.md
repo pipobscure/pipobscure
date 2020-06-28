@@ -1,6 +1,6 @@
 <!--
 title: Tag eaten
-date: 2020-06-28T15:00:41.397Z
+date: 2020-06-28T15:02:25.015Z
 tags:
 -->
 # Tag eaten

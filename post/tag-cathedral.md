@@ -1,6 +1,6 @@
 <!--
 title: Tag cathedral
-date: 2020-06-28T15:00:41.121Z
+date: 2020-06-28T15:02:24.737Z
 tags:
 -->
 # Tag cathedral

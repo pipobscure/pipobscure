@@ -1,6 +1,6 @@
 <!--
 title: Tag course
-date: 2020-06-28T15:00:41.144Z
+date: 2020-06-28T15:02:24.754Z
 tags:
 -->
 # Tag course

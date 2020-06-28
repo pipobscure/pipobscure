@@ -1,6 +1,6 @@
 <!--
 title: Tag comedy
-date: 2020-06-28T15:00:41.114Z
+date: 2020-06-28T15:02:24.734Z
 tags:
 -->
 # Tag comedy

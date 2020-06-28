@@ -60,7 +60,7 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
       tags: [],
     };
     await write(postdir, metadata, content);
-    list.push(`[${tag}](tag-${tag}.md)`);
+    if (items.length > 1) list.push(`[${tag}](tag-${tag}.md)`);
   }
   const metadata = {
     filename: "tags.md",
@@ -71,7 +71,6 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
   const content = `# Tags\n\n${list.sort().join(" ")}\n\n| [Top](index.md) |\n`;
   await write(postdir, metadata, content);
 }
-
 async function writePosts(
   postdir: string,
   tags: { [tag: string]: MetaData[] },

@@ -1,6 +1,6 @@
 <!--
 title: Tag kids
-date: 2020-06-28T15:00:41.332Z
+date: 2020-06-28T15:02:24.952Z
 tags:
 -->
 # Tag kids

@@ -1,6 +1,6 @@
 <!--
 title: Tag cultural
-date: 2020-06-28T15:00:41.351Z
+date: 2020-06-28T15:02:24.966Z
 tags:
 -->
 # Tag cultural

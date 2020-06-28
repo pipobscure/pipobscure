@@ -1,6 +1,6 @@
 <!--
 title: Tag finishing
-date: 2020-06-28T15:00:41.348Z
+date: 2020-06-28T15:02:24.965Z
 tags:
 -->
 # Tag finishing
