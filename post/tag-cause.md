@@ -1,6 +1,6 @@
 <!--
 title: Tag cause
-date: 2020-06-28T14:43:49.259Z
+date: 2020-06-28T14:49:39.378Z
 tags:
 -->
 # Tag cause

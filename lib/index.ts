@@ -7,7 +7,10 @@ main(resolve(process.argv[2] ?? ".")).catch((e) => console.error(e));
 async function main(postdir: string) {
   const postfiles = (await fs.readdir(postdir)).filter(
     (file) =>
-      extname(file) === ".md" && !/^tag-/.test(file) && file !== "index.md"
+      extname(file) === ".md" &&
+      !/^tag-/.test(file) &&
+      file !== "index.md" &&
+      file !== "tags.md"
   );
   const { posts, tags } = await indexPosts(postdir, postfiles);
   await writeTags(postdir, tags);
@@ -35,6 +38,7 @@ async function indexPosts(
   return { posts, tags };
 }
 async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
+  const items: string[] = [];
   for (const [tag, posts] of Object.entries(tags)) {
     const tagfile = `tag-${tag}.md`;
     const items = posts
@@ -54,7 +58,16 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
       tags: [],
     };
     await write(postdir, metadata, content);
+    items.push(`[${tag}](tag-${tag}.md)`);
   }
+  const metadata = {
+    filename: "tags.md",
+    title: `Tags`,
+    date: new Date(),
+    tags: [],
+  };
+  const content = `# Tags\n\n${items.join(" ")}`;
+  await write(postdir, metadata, content);
 }
 
 async function writePosts(
@@ -99,8 +112,12 @@ async function writePosts(
   );
 
   function tagString(tags: string[]) {
-    if (!tags.length) return "";
-    return tags.map((tag) => `[${tag}](tag-${tag}.md)`).join(" ");
+    return [
+      "[Tags](tags.md)",
+      tags.map((tag) => `[${tag}](tag-${tag}.md)`).join(" "),
+    ]
+      .filter((s) => !!s.trim())
+      .join(": ");
   }
   function navString(prev: MetaData | undefined, next: MetaData | undefined) {
     const parts: string[] = [];

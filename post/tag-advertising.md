@@ -1,6 +1,6 @@
 <!--
 title: Tag advertising
-date: 2020-06-28T14:43:49.302Z
+date: 2020-06-28T14:49:39.453Z
 tags:
 -->
 # Tag advertising

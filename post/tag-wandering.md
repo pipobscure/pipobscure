@@ -1,6 +1,6 @@
 <!--
 title: Tag wandering
-date: 2020-06-28T14:43:49.229Z
+date: 2020-06-28T14:49:39.344Z
 tags:
 -->
 # Tag wandering

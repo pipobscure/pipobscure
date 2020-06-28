@@ -1,6 +1,6 @@
 <!--
 title: Tag minutes
-date: 2020-06-28T14:43:49.476Z
+date: 2020-06-28T14:49:39.671Z
 tags:
 -->
 # Tag minutes

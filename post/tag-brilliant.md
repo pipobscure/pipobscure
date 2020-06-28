@@ -1,6 +1,6 @@
 <!--
 title: Tag brilliant
-date: 2020-06-28T14:43:49.331Z
+date: 2020-06-28T14:49:39.499Z
 tags:
 -->
 # Tag brilliant

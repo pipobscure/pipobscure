@@ -1,6 +1,6 @@
 <!--
 title: Tag gospel
-date: 2020-06-28T14:43:49.157Z
+date: 2020-06-28T14:49:39.278Z
 tags:
 -->
 # Tag gospel

@@ -1,6 +1,6 @@
 <!--
 title: Tag party
-date: 2020-06-28T14:43:49.327Z
+date: 2020-06-28T14:49:39.485Z
 tags:
 -->
 # Tag party

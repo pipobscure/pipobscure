@@ -1,6 +1,6 @@
 <!--
 title: Tag observatory
-date: 2020-06-28T14:43:49.527Z
+date: 2020-06-28T14:49:39.711Z
 tags:
 -->
 # Tag observatory

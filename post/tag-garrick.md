@@ -1,6 +1,6 @@
 <!--
 title: Tag garrick
-date: 2020-06-28T14:43:49.340Z
+date: 2020-06-28T14:49:39.510Z
 tags:
 -->
 # Tag garrick

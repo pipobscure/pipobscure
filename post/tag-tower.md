@@ -1,6 +1,6 @@
 <!--
 title: Tag tower
-date: 2020-06-28T14:43:49.178Z
+date: 2020-06-28T14:49:39.295Z
 tags:
 -->
 # Tag tower

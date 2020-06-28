@@ -1,6 +1,6 @@
 <!--
 title: Tag delicious
-date: 2020-06-28T14:43:49.599Z
+date: 2020-06-28T14:49:39.783Z
 tags:
 -->
 # Tag delicious

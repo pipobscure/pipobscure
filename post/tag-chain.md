@@ -1,6 +1,6 @@
 <!--
 title: Tag chain
-date: 2020-06-28T14:43:49.227Z
+date: 2020-06-28T14:49:39.341Z
 tags:
 -->
 # Tag chain
