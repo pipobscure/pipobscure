@@ -1,0 +1,31 @@
+{
+  "name": "pipobscure.github.io",
+  "version": "1.0.0",
+  "description": "## Presentation Slide",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipobscure/pipobscure.github.io.git"
+  },
+  "keywords": [
+    "gh-pages",
+    "blog"
+  ],
+  "author": "Philipp Dunkel <pip@pipobscure.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipobscure/pipobscure.github.io/issues"
+  },
+  "homepage": "https://github.com/pipobscure/pipobscure.github.io#readme",
+  "devDependencies": {
+    "@types/html-entities": "^1.2.16",
+    "@types/node": "^14.0.14",
+    "html-entities": "^1.3.1"
+  }
+}
