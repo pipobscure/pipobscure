@@ -9,4 +9,9 @@ collections:
     title: Uploads
     output: true
 description: Personal Site of Philipp Dunkel
-theme: jekyll-theme-minimal
+plugins: [jekyll-paginate]
+highlighter: pygments
+paginate: 20
+markdown: rdiscount
+rdiscount:
+  extensions: ["smart"]
