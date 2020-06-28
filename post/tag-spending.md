@@ -1,6 +1,6 @@
 <!--
 title: Tag spending
-date: 2020-06-28T14:55:34.969Z
+date: 2020-06-28T14:56:50.305Z
 tags:
 -->
 # Tag spending

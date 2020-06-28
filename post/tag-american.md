@@ -1,6 +1,6 @@
 <!--
 title: Tag american
-date: 2020-06-28T14:55:35.428Z
+date: 2020-06-28T14:56:50.670Z
 tags:
 -->
 # Tag american

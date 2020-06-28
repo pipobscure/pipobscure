@@ -1,6 +1,6 @@
 <!--
 title: Tag friend
-date: 2020-06-28T14:55:35.394Z
+date: 2020-06-28T14:56:50.636Z
 tags:
 -->
 # Tag friend

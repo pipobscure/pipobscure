@@ -1,6 +1,6 @@
 <!--
 title: Tag laugh
-date: 2020-06-28T14:55:35.302Z
+date: 2020-06-28T14:56:50.527Z
 tags:
 -->
 # Tag laugh

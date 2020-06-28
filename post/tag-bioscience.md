@@ -1,6 +1,6 @@
 <!--
 title: Tag bioscience
-date: 2020-06-28T14:55:34.984Z
+date: 2020-06-28T14:56:50.320Z
 tags:
 -->
 # Tag bioscience

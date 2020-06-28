@@ -1,6 +1,6 @@
 <!--
 title: Tag quick
-date: 2020-06-28T14:55:35.184Z
+date: 2020-06-28T14:56:50.475Z
 tags:
 -->
 # Tag quick

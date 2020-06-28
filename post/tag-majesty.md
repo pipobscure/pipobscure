@@ -1,6 +1,6 @@
 <!--
 title: Tag majesty
-date: 2020-06-28T14:55:35.280Z
+date: 2020-06-28T14:56:50.516Z
 tags:
 -->
 # Tag majesty

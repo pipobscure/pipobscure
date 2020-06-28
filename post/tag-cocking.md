@@ -1,6 +1,6 @@
 <!--
 title: Tag cocking
-date: 2020-06-28T14:55:35.301Z
+date: 2020-06-28T14:56:50.525Z
 tags:
 -->
 # Tag cocking

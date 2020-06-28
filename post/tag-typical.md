@@ -1,6 +1,6 @@
 <!--
 title: Tag typical
-date: 2020-06-28T14:55:34.981Z
+date: 2020-06-28T14:56:50.317Z
 tags:
 -->
 # Tag typical

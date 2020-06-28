@@ -1,6 +1,6 @@
 <!--
 title: Tag opinion
-date: 2020-06-28T14:55:35.272Z
+date: 2020-06-28T14:56:50.499Z
 tags:
 -->
 # Tag opinion

@@ -1,6 +1,6 @@
 <!--
 title: Tag bastard
-date: 2020-06-28T14:55:35.115Z
+date: 2020-06-28T14:56:50.426Z
 tags:
 -->
 # Tag bastard

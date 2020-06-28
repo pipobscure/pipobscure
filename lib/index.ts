@@ -66,7 +66,7 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
     date: new Date(),
     tags: [],
   };
-  const content = `# Tags\n\n${list.sort().join(" ")}`;
+  const content = `# Tags\n\n${list.sort().join(" ")}\n\n| [Top](index.md) |\n`;
   await write(postdir, metadata, content);
 }
 

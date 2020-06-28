@@ -1,6 +1,6 @@
 <!--
 title: Tag front
-date: 2020-06-28T14:55:35.168Z
+date: 2020-06-28T14:56:50.466Z
 tags:
 -->
 # Tag front

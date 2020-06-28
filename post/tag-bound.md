@@ -1,6 +1,6 @@
 <!--
 title: Tag bound
-date: 2020-06-28T14:55:34.983Z
+date: 2020-06-28T14:56:50.319Z
 tags:
 -->
 # Tag bound
