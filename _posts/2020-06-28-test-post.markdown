@@ -7,4 +7,4 @@ tags:
 - everything nice
 ---
 
-This is a test-post
+![logo.png](/uploads/logo.png)This is a test-post
