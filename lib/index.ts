@@ -114,12 +114,16 @@ async function writePosts(
   );
 
   function tagString(tags: string[]) {
-    return [
-      "[Tags](tags.md)",
-      tags.map((tag) => `[${tag}](tag-${tag}.md)`).join(" "),
-    ]
-      .filter((s) => !!s.trim())
-      .join(": ");
+    return (
+      "| " +
+      [
+        "[Tags](tags.md)",
+        tags.map((tag) => `[${tag}](tag-${tag}.md)`).join(" "),
+      ]
+        .filter((s) => !!s.trim())
+        .join(" | ") +
+      " |"
+    );
   }
   function navString(prev: MetaData | undefined, next: MetaData | undefined) {
     const parts: string[] = [];
@@ -129,6 +133,6 @@ async function writePosts(
     }
     if (next) parts.push(`[Older](${next.filename})`);
     if (!parts.length) return "";
-    return parts.join(" | ");
+    return ["| ", " |"].join(parts.join(" | "));
   }
 }

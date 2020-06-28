@@ -1,6 +1,6 @@
 <!--
 title: Tag homeward
-date: 2020-06-28T14:57:48.574Z
+date: 2020-06-28T15:00:41.005Z
 tags:
 -->
 # Tag homeward

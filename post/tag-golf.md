@@ -1,6 +1,6 @@
 <!--
 title: Tag golf
-date: 2020-06-28T14:57:48.678Z
+date: 2020-06-28T15:00:41.143Z
 tags:
 -->
 # Tag golf

@@ -1,6 +1,6 @@
 <!--
 title: Tag vs
-date: 2020-06-28T14:57:48.618Z
+date: 2020-06-28T15:00:41.077Z
 tags:
 -->
 # Tag vs

@@ -1,6 +1,6 @@
 <!--
 title: Tag luck
-date: 2020-06-28T14:57:48.869Z
+date: 2020-06-28T15:00:41.337Z
 tags:
 -->
 # Tag luck

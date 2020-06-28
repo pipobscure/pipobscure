@@ -1,6 +1,6 @@
 <!--
 title: Tag pink
-date: 2020-06-28T14:57:48.671Z
+date: 2020-06-28T15:00:41.131Z
 tags:
 -->
 # Tag pink

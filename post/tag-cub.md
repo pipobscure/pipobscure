@@ -1,6 +1,6 @@
 <!--
 title: Tag cub
-date: 2020-06-28T14:57:48.588Z
+date: 2020-06-28T15:00:41.017Z
 tags:
 -->
 # Tag cub

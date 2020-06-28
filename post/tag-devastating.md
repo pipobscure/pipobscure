@@ -1,6 +1,6 @@
 <!--
 title: Tag devastating
-date: 2020-06-28T14:57:48.612Z
+date: 2020-06-28T15:00:41.074Z
 tags:
 -->
 # Tag devastating

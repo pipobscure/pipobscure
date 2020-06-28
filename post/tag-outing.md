@@ -1,6 +1,6 @@
 <!--
 title: Tag outing
-date: 2020-06-28T14:57:48.839Z
+date: 2020-06-28T15:00:41.317Z
 tags:
 -->
 # Tag outing

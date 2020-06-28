@@ -1,6 +1,6 @@
 <!--
 title: Tag market
-date: 2020-06-28T14:57:48.586Z
+date: 2020-06-28T15:00:41.015Z
 tags:
 -->
 # Tag market

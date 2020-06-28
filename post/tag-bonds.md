@@ -1,6 +1,6 @@
 <!--
 title: Tag bonds
-date: 2020-06-28T14:57:48.855Z
+date: 2020-06-28T15:00:41.330Z
 tags:
 -->
 # Tag bonds

@@ -1,6 +1,6 @@
 <!--
 title: Tag considering
-date: 2020-06-28T14:57:48.623Z
+date: 2020-06-28T15:00:41.082Z
 tags:
 -->
 # Tag considering

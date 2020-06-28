@@ -1,6 +1,6 @@
 <!--
 title: Tag gate
-date: 2020-06-28T14:57:48.689Z
+date: 2020-06-28T15:00:41.155Z
 tags:
 -->
 # Tag gate
