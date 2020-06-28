@@ -1,7 +1,7 @@
 ---
 marp: true
 paginate: true
-footer: "https://github.com/tc39/proposal-temporal"
+footer: https://github.com/tc39/proposal-temporal
 ---
 
 <style>
