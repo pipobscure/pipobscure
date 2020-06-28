@@ -1,6 +1,6 @@
 ---
 layout: post
 title: garbage cultural differences
-date: 2014-09-02 17:16:06 Z
+date: 2014-09-02 17:14:53 Z
 tags: []
 ---
