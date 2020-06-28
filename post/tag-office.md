@@ -1,6 +1,6 @@
 <!--
 title: Tag office
-date: 2020-06-28T14:56:50.315Z
+date: 2020-06-28T14:57:48.571Z
 tags:
 -->
 # Tag office
@@ -9,3 +9,5 @@ tags:
  * [Photo 2015-04-14 13](116380733192.md)
  * [Photo 2014-08-18 17](95111041717.md)
  * [Photo 2014-10-10 12](99641002932.md)
+
+| [Tags](tags.md) | [Top](index.md) |

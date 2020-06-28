@@ -1,6 +1,6 @@
 <!--
 title: Tag night
-date: 2020-06-28T14:56:50.306Z
+date: 2020-06-28T14:57:48.563Z
 tags:
 -->
 # Tag night
@@ -9,3 +9,5 @@ tags:
  * [London](105020950857.md)
  * [Photo 2014-08-12 00](94483495857.md)
  * [Night](96640487727.md)
+
+| [Tags](tags.md) | [Top](index.md) |

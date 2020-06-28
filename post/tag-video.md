@@ -1,6 +1,6 @@
 <!--
 title: Tag video
-date: 2020-06-28T14:56:50.303Z
+date: 2020-06-28T14:57:48.559Z
 tags:
 -->
 # Tag video
@@ -13,3 +13,5 @@ tags:
  * [Quick trip around the neighbourhood. I got to try out my new camera and play with iMovie a bit.](126830838692.md)
  * [Video 2015-08-18 20](127019931837.md)
  * [Video 2016-01-30 13](138341094552.md)
+
+| [Tags](tags.md) | [Top](index.md) |

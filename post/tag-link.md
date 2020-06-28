@@ -1,6 +1,6 @@
 <!--
 title: Tag link
-date: 2020-06-28T14:56:50.349Z
+date: 2020-06-28T14:57:48.608Z
 tags:
 -->
 # Tag link
@@ -10,3 +10,5 @@ tags:
  * [Voters surrender to their inner bastard](118442390582.md)
  * [18 Beautiful And Weird Maps That Will Change How You Think About London](118940051457.md)
  * [Home of Charles Darwin (Down House) | English Heritage](124422253927.md)
+
+| [Tags](tags.md) | [Top](index.md) |

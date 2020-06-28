@@ -1,6 +1,6 @@
 <!--
 title: Tag ldnmoni
-date: 2020-06-28T14:56:50.339Z
+date: 2020-06-28T14:57:48.596Z
 tags:
 -->
 # Tag ldnmoni
@@ -10,3 +10,5 @@ tags:
  * [Photo 2015-02-28 23](112355264272.md)
  * [Photo 2015-05-25 19](119874340407.md)
  * [Photo 2014-09-06 10](96776409567.md)
+
+| [Tags](tags.md) | [Top](index.md) |

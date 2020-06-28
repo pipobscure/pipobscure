@@ -1,8 +1,10 @@
 <!--
 title: Tag happens
-date: 2020-06-28T14:56:50.465Z
+date: 2020-06-28T14:57:48.725Z
 tags:
 -->
 # Tag happens
 
  * [I love London, because this happens in front of the office 😀](126006039890.md)
+
+| [Tags](tags.md) | [Top](index.md) |

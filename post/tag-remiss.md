@@ -1,8 +1,10 @@
 <!--
 title: Tag remiss
-date: 2020-06-28T14:56:50.506Z
+date: 2020-06-28T14:57:48.773Z
 tags:
 -->
 # Tag remiss
 
  * [It’s a bit remiss of Venice that it doesn’t attempt to turn around its ailing tourist industry by referring to itself as “The Birmingham of the South”](142469124562.md)
+
+| [Tags](tags.md) | [Top](index.md) |

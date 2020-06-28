@@ -1,8 +1,10 @@
 <!--
 title: Tag advertising
-date: 2020-06-28T14:56:50.436Z
+date: 2020-06-28T14:57:48.698Z
 tags:
 -->
 # Tag advertising
 
  * [Photo 2015-07-04 19](123219452382.md)
+
+| [Tags](tags.md) | [Top](index.md) |

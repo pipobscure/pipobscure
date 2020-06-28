@@ -1,6 +1,6 @@
 <!--
 title: Tag regular
-date: 2020-06-28T14:56:50.368Z
+date: 2020-06-28T14:57:48.626Z
 tags:
 -->
 # Tag regular
@@ -16,3 +16,5 @@ tags:
  * [The kids visited today. Jakob said](95912758127.md)
  * [I am happy to report that both kids really liked their first day of school. Both have found a few friends already and are happy to go back. So it seems as if school is working out alright. In other news](96557437567.md)
  * [Tonight we are looking for bats in Devonshire Road Nature reserve.](98653184862.md)
+
+| [Tags](tags.md) | [Top](index.md) |

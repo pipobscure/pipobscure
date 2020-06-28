@@ -1,6 +1,6 @@
 <!--
 title: Tag brilliant
-date: 2020-06-28T14:56:50.458Z
+date: 2020-06-28T14:57:48.723Z
 tags:
 -->
 # Tag brilliant
@@ -8,3 +8,5 @@ tags:
  * [Photo 2015-07-25 22](125031389782.md)
  * [Photo 2015-08-08 21](126202669317.md)
  * [Photo 2015-11-01 12](132328483412.md)
+
+| [Tags](tags.md) | [Top](index.md) |

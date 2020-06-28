@@ -50,7 +50,9 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
       delete tags[tag];
       continue;
     }
-    const content = `# Tag ${tag}\n\n${items.join("\n")}`;
+    const content = `# Tag ${tag}\n\n${items.join(
+      "\n"
+    )}\n\n| [Tags](tags.md) | [Top](index.md) |\n`;
     const metadata = {
       filename: tagfile,
       title: `Tag ${tag}`,

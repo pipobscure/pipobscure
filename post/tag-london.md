@@ -1,6 +1,6 @@
 <!--
 title: Tag london
-date: 2020-06-28T14:56:50.336Z
+date: 2020-06-28T14:57:48.591Z
 tags:
 -->
 # Tag london
@@ -27,3 +27,5 @@ tags:
  * [Photo 2014-09-30 18](98822233947.md)
  * [Photo 2014-10-06 06](99299471437.md)
  * [Photo 2014-10-10 08](99632990707.md)
+
+| [Tags](tags.md) | [Top](index.md) |

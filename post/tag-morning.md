@@ -1,6 +1,6 @@
 <!--
 title: Tag morning
-date: 2020-06-28T14:56:50.336Z
+date: 2020-06-28T14:57:48.590Z
 tags:
 -->
 # Tag morning
@@ -13,3 +13,5 @@ tags:
  * [Photo 2017-03-04 10](157977892072.md)
  * [Photo 2014-09-16 08](97637326657.md)
  * [Photo 2014-10-06 06](99299471437.md)
+
+| [Tags](tags.md) | [Top](index.md) |

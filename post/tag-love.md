@@ -1,6 +1,6 @@
 <!--
 title: Tag love
-date: 2020-06-28T14:56:50.437Z
+date: 2020-06-28T14:57:48.699Z
 tags:
 -->
 # Tag love
@@ -8,3 +8,5 @@ tags:
  * [Photo 2015-07-04 19](123219452382.md)
  * [I love London, because this happens in front of the office 😀](126006039890.md)
  * [Photo 2014-08-07 17](94080388942.md)
+
+| [Tags](tags.md) | [Top](index.md) |

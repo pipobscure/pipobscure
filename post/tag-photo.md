@@ -1,6 +1,6 @@
 <!--
 title: Tag photo
-date: 2020-06-28T14:56:50.304Z
+date: 2020-06-28T14:57:48.560Z
 tags:
 -->
 # Tag photo
@@ -140,3 +140,5 @@ tags:
  * [Photo 2014-10-10 08](99632990707.md)
  * [Photo 2014-10-10 12](99641002932.md)
  * [Photo 2014-10-12 12](99810542427.md)
+
+| [Tags](tags.md) | [Top](index.md) |
