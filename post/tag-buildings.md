@@ -1,6 +1,6 @@
 <!--
 title: Tag buildings
-date: 2020-06-28T14:38:48.209Z
+date: 2020-06-28T14:43:49.474Z
 tags:
 -->
 # Tag buildings

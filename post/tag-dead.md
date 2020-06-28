@@ -1,6 +1,6 @@
 <!--
 title: Tag dead
-date: 2020-06-28T14:38:48.306Z
+date: 2020-06-28T14:43:49.572Z
 tags:
 -->
 # Tag dead

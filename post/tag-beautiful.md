@@ -1,6 +1,6 @@
 <!--
 title: Tag beautiful
-date: 2020-06-28T14:38:47.951Z
+date: 2020-06-28T14:43:49.175Z
 tags:
 -->
 # Tag beautiful

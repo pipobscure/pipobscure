@@ -1,6 +1,6 @@
 <!--
 title: Tag local
-date: 2020-06-28T14:38:47.989Z
+date: 2020-06-28T14:43:49.214Z
 tags:
 -->
 # Tag local

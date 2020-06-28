@@ -1,6 +1,6 @@
 <!--
 title: Tag brought
-date: 2020-06-28T14:38:47.993Z
+date: 2020-06-28T14:43:49.216Z
 tags:
 -->
 # Tag brought

@@ -1,6 +1,6 @@
 <!--
 title: Tag cream
-date: 2020-06-28T14:38:48.103Z
+date: 2020-06-28T14:43:49.339Z
 tags:
 -->
 # Tag cream

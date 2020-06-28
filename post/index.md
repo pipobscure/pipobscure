@@ -1,8 +1,9 @@
 <!--
 title: Under the river
-date: 2020-06-28T14:38:48.362Z
+date: 2020-06-28T14:43:49.627Z
 tags: river, video
 -->
+
 
 Under the river
 <video controls="controls" autoplay="autoplay" src="101288164262.mp4" type="video/mp4" width="640" height="360"></video>
@@ -10,8 +11,8 @@ Under the river
 <!--BOTTOM-POST-NAVIGATION-->
 ---
 
-<center>[river](tag-river.md) [video](tag-video.md)</center>
+[river](tag-river.md) [video](tag-video.md)
 
 ---
 
-<center>[Older](101288236737.md)</center>
+[Older](101288236737.md)

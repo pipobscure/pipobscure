@@ -1,6 +1,6 @@
 <!--
 title: Tag bridge
-date: 2020-06-28T14:38:47.965Z
+date: 2020-06-28T14:43:49.181Z
 tags:
 -->
 # Tag bridge

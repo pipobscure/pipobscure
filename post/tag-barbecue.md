@@ -1,6 +1,6 @@
 <!--
 title: Tag barbecue
-date: 2020-06-28T14:38:48.061Z
+date: 2020-06-28T14:43:49.304Z
 tags:
 -->
 # Tag barbecue

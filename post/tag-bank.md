@@ -1,6 +1,6 @@
 <!--
 title: Tag bank
-date: 2020-06-28T14:38:48.325Z
+date: 2020-06-28T14:43:49.596Z
 tags:
 -->
 # Tag bank

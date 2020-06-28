@@ -100,15 +100,13 @@ async function writePosts(
 
   function tagString(tags: string[]) {
     if (!tags.length) return "";
-    return ["<center>", "</center>"].join(
-      tags.map((tag) => `[${tag}](tag-${tag}.md)`).join(" ")
-    );
+    return tags.map((tag) => `[${tag}](tag-${tag}.md)`).join(" ");
   }
   function navString(prev: MetaData | undefined, next: MetaData | undefined) {
     const parts: string[] = [];
     if (prev) parts.unshift(`[Newer](${prev.filename})`);
     if (next) parts.push(`[Older](${next.filename})`);
     if (!parts.length) return "";
-    return ["<center>", "</center>"].join(parts.join(" | "));
+    return parts.join(" | ");
   }
 }

@@ -1,6 +1,6 @@
 <!--
 title: Tag fox
-date: 2020-06-28T14:38:48.149Z
+date: 2020-06-28T14:43:49.391Z
 tags:
 -->
 # Tag fox
