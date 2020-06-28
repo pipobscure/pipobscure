@@ -1,0 +1,13 @@
+<!--
+title: Tag ios
+date: 2020-06-28T15:26:58.978Z
+tags:
+-->
+# Tag ios
+
+ * [The private browsing mode in Safari on iOS7 is a failure of engineering so unlike what Apple is known for that they should be ashamed to ship it. The issue is that it leaves session cookies enabled while it disables sessionStore. And all due to misguided ideas what this stuff can be used for. I for one use the sessionStore to hold form data until the moment the user actually decides to take my offer and transact with me. in other words, I use the sessionStore to enhance my user’s privacy. And this is made harder by this misguided “feature”. Private browsing in iOS Safari is a misnomer](64223306879.md)
+ * [The private browsing mode in Safari on iOS7 is a failure of engineering so unlike what Apple is known for that they should be ashamed to ship it. The issue is that it leaves session cookies enabled while it disables sessionStore. And all due to misguided ideas what this stuff can be used for. I for one use the sessionStore to hold form data until the moment the user actually decides to take my offer and transact with me. in other words, I use the sessionStore to enhance my user’s privacy. And this is made harder by this misguided “feature”. Private browsing in iOS Safari is a misnomer](64223306879.md)
+ * [I love my iPhone and rely on it for many many things in my life. Because of this it pains me when a truly horrible iPhone user experience comes my way where i have to ask myself](67654719733.md)
+ * [Taking 5](69813263005.md)
+
+| [Tags](tags.md) | [Top](index.md) |

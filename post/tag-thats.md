@@ -1,10 +1,23 @@
 <!--
 title: Tag thats
-date: 2020-06-28T15:02:24.983Z
+date: 2020-06-28T15:26:58.711Z
 tags:
 -->
 # Tag thats
 
+ * [Photo 2016-04-19 07](143051192784.md)
+ * [Dustin Kirkland wrote a very nice piece entitled Fingerprints are Usernames, not Passwords. He is pretty much correct about using biometrics as an authentication mechanism. It’s a bad idea in terms of security. What annoys me about the whole biometrics conversation though is that it pretty much misses the point completely. What is happening in the discussion is that on the one hand you have the biometrics industry, pushing biometrics as a solution for all kinds of security problems, and on the other hand security experts, and other smart people like Dustin, dispute that biometrics are inherently insecure. The core problem though is that security is a matter of definition. Let’s think about security in terms of the physical world. How do we secure our homes. We have locks, that can easily be picked; windows that shatter at the toss of a stone; doors that will not resist the boot of a determined intruder. And yet we are satisfied with the security provided by these measures. Thinking now in terms of IT systems, especially phones; Fingerprints are obviously insufficient security for the proverbial nuclear launch-codes. But then so are dinky locks insufficient for Fort-Knox. Are fingerprints sufficient for my smartphone though? Well that kind of depends on the information stored in there. For most of it, a fingerprint is enough. Just like a regular door and lock are sufficient for most parts of my house. But then there are small pieces of information, that may need to be on my phone secured by additional means, just like I have a safe at my house to better protect especially valuable items. You see, it really is a matter of degrees. For the most part, securing a phone, or laptop with a fingerprint is ok; it’s a sufficient deterrent to the casual intruder. And then there are pieces of data, that are a bit more sensitive. Those I’ll have to protect in addition to the regular access control. Passwords might be a good choice for a lot of that. However passwords aren’t all that great a solution either. They really are too weak for real security. If the proverbial nuclear launch-codes were protected with a simple password system, I’d be really scared. Nope, they are protected by multi-factor systems. For really sensitive data, that is a must. So security really is a matter of degrees; a matter of what needs to be secured and against what threats. And that’s why I’m so annoyed at the simplistic conversation going on about biometrics in security. To really provide us with good security, we will need to think about security much more in detail.](63002674000.md)
+ * [nodejsreactions](64486460367.md)
+ * [The Washington Post recently had an article entitled How the Internet is killing the world’s languages in which the author expounded that a large set of languages are passing on. Throughout the article questions like “how can this be averted”, “how can languages be save” are asked like having more than 7000 languages is a good thing. Now I like language, and I love languages. Which is why I speak two like a native and another two to a level that I can hold an intelligent conversation. Thing is, that’s just for fun and they are all major languages. Truth be told from the perspective of benefit to the world, I don’t think more that a handful of languages are a good thing. Diversity is not a good thing in itself, nor is it a bad thing. It’s just a thing. There is this claim that language diversity is a cause for cultural diversity. Again, so what. There are a lot of things that are expressions of culture. And we certainly don’t want to keep all of them around. Guillotines were an expression of culture, so were witch-hunts. Do we really want to insist that all diversity and all culture is a good thing? Everything has its time and its time to end. Maybe it’s just the right time to let 7387 languages slip into oblivion.](69279740644.md)
+ * [Photo 2014-01-12 15](73092367010.md)
+ * [Photo 2014-03-25 22](80719700021.md)
+ * [Photo 2014-05-18 17](86121671931.md)
+ * [Photo 2014-05-21 18](86424899694.md)
+ * [Photo 2014-05-21 18](86425234574.md)
+ * [yo why’s this nightstand so expensive? that’s $799 for a dildo holder](86998431586.md)
+ * [Photo 2014-06-14 09](88748298919.md)
  * [Photo 2014-09-06 18](96803637712.md)
+ * [Photo 2014-09-06 19](96809931024.md)
+ * [A usage that’s seldom got right Is when to say shit and when shite, And many a chap Will fall back on crap, Which is vulgar, evasive, and trite.](98750848829.md)
 
 | [Tags](tags.md) | [Top](index.md) |

@@ -1,6 +1,6 @@
 <!--
 title: Tag dipping
-date: 2020-06-28T15:02:24.781Z
+date: 2020-06-28T15:26:58.595Z
 tags:
 -->
 # Tag dipping

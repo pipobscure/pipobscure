@@ -89,7 +89,7 @@ async function writePosts(
         navString(posts[idx - 1], posts[idx + 1]),
       ]
         .filter((s) => !!s)
-        .join("\n\n---\n\n");
+        .join("\n\n");
       if (!idx) {
         const filename = post.filename;
         post.filename = "index.md";
@@ -98,7 +98,7 @@ async function writePosts(
           post,
           [maincontent, bottomcontent]
             .filter((s) => !!s.trim())
-            .join("\n<!--BOTTOM-POST-NAVIGATION-->\n---\n\n")
+            .join("\n<!--BOTTOM-POST-NAVIGATION-->\n\n\n")
         );
         post.filename = filename;
       }

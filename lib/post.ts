@@ -74,7 +74,9 @@ export async function read(
             console.error(e, value);
             metadata.tags = [];
           }
-
+          metadata.tags = metadata.tags
+            .map((s) => s.replace(/[^a-z0-0]/gi, "").trim())
+            .filter((s) => !!s);
           break;
         default:
           throw new Error(`invalid meta-data item: ${key}`);

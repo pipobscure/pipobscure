@@ -1,28 +1,17 @@
 <!--
-title: Under the river
-date: 2020-06-28T15:02:25.040Z
-tags: river, video
+title: Photo 2014-10-14 17
+date: 2020-06-28T15:27:00.030Z
+tags: education, takes, photo
 -->
 
 
+Photo 2014-10-14 17:15:25
 
-
-
-
-
-
-
-
-
-
-Under the river
-<video controls="controls" autoplay="autoplay" src="101288164262.mp4" type="video/mp4" width="640" height="360"></video>
+![](100004879734-0.jpg)
 
 <!--BOTTOM-POST-NAVIGATION-->
----
 
-| [Tags](tags.md) | [river](tag-river.md) [video](tag-video.md) |
 
----
+| [Tags](tags.md) | [education](tag-education.md) [takes](tag-takes.md) [photo](tag-photo.md) |
 
-| [Older](101288236737.md) |
+| [Older](100070758184.md) |

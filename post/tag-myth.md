@@ -1,0 +1,12 @@
+<!--
+title: Tag myth
+date: 2020-06-28T15:26:58.294Z
+tags:
+-->
+# Tag myth
+
+ * [Another myth that is firmly upheld is that disabled people are dependent and non-disabled people are independent. No one is actually independent. This is a myth perpetuated by disablism and driven by capitalism - we are all actually interdependent. Chances are, disabled or not, you don’t grow all of your food. Chances are, you didn’t build the car, bike, wheelchair, subway, shoes, or bus that transports you. Chances are you didn’t construct your home. Chances are you didn’t sew your clothing (or make the fabric and thread used to sew it). The difference between the needs that many disabled people have and the needs of people who are not labelled as disabled is that non-disabled people have had their dependencies normalized. The world has been built to accommodate certain needs and call the people who need those things independent, while other needs are considered exceptional. Each of us relies on others every day. We all rely on one another for support, resources, and to meet our needs. We are all interdependent. This interdependence is not weakness; rather, it is a part of our humanity.](101501308299.md)
+ * [Overturning the Myth of Valley Girl Speak - NYTimes.com](71352561950.md)
+ * [Photo 2014-07-28 17](93127102020.md)
+
+| [Tags](tags.md) | [Top](index.md) |

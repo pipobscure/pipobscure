@@ -1,10 +1,11 @@
 <!--
 title: Tag experiencing
-date: 2020-06-28T15:02:24.903Z
+date: 2020-06-28T15:26:59.773Z
 tags:
 -->
 # Tag experiencing
 
  * [This is where I’ll be sharing all the stuff that I come across as I explore London. I am so pumped to fly over next Saturday and start working the Monday after. If you have any tips and hints, then please let me know!](92954565237.md)
+ * [piplondon](92954589399.md)
 
 | [Tags](tags.md) | [Top](index.md) |

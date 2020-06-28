@@ -1,6 +1,6 @@
 <!--
 title: Tag blick
-date: 2020-06-28T15:02:24.979Z
+date: 2020-06-28T15:26:59.836Z
 tags:
 -->
 # Tag blick

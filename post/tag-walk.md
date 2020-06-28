@@ -1,6 +1,6 @@
 <!--
 title: Tag walk
-date: 2020-06-28T15:02:24.655Z
+date: 2020-06-28T15:26:58.350Z
 tags:
 -->
 # Tag walk

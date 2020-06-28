@@ -1,0 +1,10 @@
+<!--
+title: Tag klingon
+date: 2020-06-28T15:26:58.931Z
+tags:
+-->
+# Tag klingon
+
+ * [I prefer Klingon beliefs; our gods are dead. Klingon warriors killed them over a millennia ago; they were more trouble than they were worth.](167568041344.md)
+
+| [Tags](tags.md) | [Top](index.md) |

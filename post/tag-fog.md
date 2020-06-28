@@ -1,6 +1,6 @@
 <!--
 title: Tag fog
-date: 2020-06-28T15:02:24.654Z
+date: 2020-06-28T15:26:58.348Z
 tags:
 -->
 # Tag fog
