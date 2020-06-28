@@ -1,6 +1,6 @@
 <!--
 title: Tag foggy
-date: 2020-06-28T14:51:44.694Z
+date: 2020-06-28T14:55:35.089Z
 tags:
 -->
 # Tag foggy

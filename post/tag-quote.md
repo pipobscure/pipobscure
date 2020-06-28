@@ -1,6 +1,6 @@
 <!--
 title: Tag quote
-date: 2020-06-28T14:51:44.845Z
+date: 2020-06-28T14:55:35.279Z
 tags:
 -->
 # Tag quote

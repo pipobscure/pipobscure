@@ -1,6 +1,6 @@
 <!--
 title: Tag spittalfields
-date: 2020-06-28T14:51:44.625Z
+date: 2020-06-28T14:55:34.997Z
 tags:
 -->
 # Tag spittalfields

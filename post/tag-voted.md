@@ -1,6 +1,6 @@
 <!--
 title: Tag voted
-date: 2020-06-28T14:51:44.847Z
+date: 2020-06-28T14:55:35.281Z
 tags:
 -->
 # Tag voted

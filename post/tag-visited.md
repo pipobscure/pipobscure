@@ -1,6 +1,6 @@
 <!--
 title: Tag visited
-date: 2020-06-28T14:51:44.928Z
+date: 2020-06-28T14:55:35.364Z
 tags:
 -->
 # Tag visited

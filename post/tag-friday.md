@@ -1,6 +1,6 @@
 <!--
 title: Tag friday
-date: 2020-06-28T14:51:44.680Z
+date: 2020-06-28T14:55:35.056Z
 tags:
 -->
 # Tag friday

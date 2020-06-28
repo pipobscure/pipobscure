@@ -1,6 +1,6 @@
 <!--
 title: Tag stocks
-date: 2020-06-28T14:51:44.927Z
+date: 2020-06-28T14:55:35.355Z
 tags:
 -->
 # Tag stocks

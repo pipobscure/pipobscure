@@ -1,6 +1,6 @@
 <!--
 title: Tag brighton
-date: 2020-06-28T14:51:44.975Z
+date: 2020-06-28T14:55:35.404Z
 tags:
 -->
 # Tag brighton

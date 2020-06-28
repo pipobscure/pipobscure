@@ -38,7 +38,7 @@ async function indexPosts(
   return { posts, tags };
 }
 async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
-  const items: string[] = [];
+  const list: string[] = [];
   for (const [tag, posts] of Object.entries(tags)) {
     const tagfile = `tag-${tag}.md`;
     const items = posts
@@ -58,7 +58,7 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
       tags: [],
     };
     await write(postdir, metadata, content);
-    items.push(`[${tag}](tag-${tag}.md)`);
+    list.push(`[${tag}](tag-${tag}.md)`);
   }
   const metadata = {
     filename: "tags.md",
@@ -66,7 +66,7 @@ async function writeTags(postdir: string, tags: { [tag: string]: MetaData[] }) {
     date: new Date(),
     tags: [],
   };
-  const content = `# Tags\n\n${items.join(" ")}`;
+  const content = `# Tags\n\n${list.sort().join(" ")}`;
   await write(postdir, metadata, content);
 }
 
