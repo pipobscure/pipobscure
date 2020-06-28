@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="http://fonts.googleapis.com/css?family=Playball" rel="stylesheet">
+  <link href="/assets/css/jekyllthemes.css" rel="stylesheet" />
+  <link href="/assets/css/syntax.css" rel="stylesheet" />
+</head>
+
+
+<body>
+
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-735643-13', 'jekyllthemes.org');
+    ga('send', 'pageview');
+  </script>
+
+
+
+  <header id="header">
+    <div class="wrap">
+
+      <h1 id="logo"><a href="/"></a></h1>
+
+    </div>
+  </header>
+
+
+
+  <div id="pagecontainer" class="container">
+
+
+
+    <!--<div class="hero-unit">
+      <p><strong>Need a design for your <a href="http://jekyllrb.com/">Jekyll</a> blog?</strong> Whether you're looking for a fresh theme to drop in and go, or to use as a starting point for customization, you'll find the best ones available right here.</p>
+    </div>-->
+
+
+
+    <div class="widebanner row">
+      <div class="span12">
+        <div class="banner72" id="banner72">
+
+          <script type="text/javascript"><!--
+
+            var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+            google_ad_client = "ca-pub-7611360452853908";
+
+            if (width > 769) {
+              google_ad_slot = "6552835850";
+              google_ad_width = 728;
+              google_ad_height = 90;
+            } else {
+              var el = document.getElementById("banner72");
+              el.parentNode.removeChild(el);
+            }
+
+            //-->
+          </script>
+          <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+        </div>
+      </div>
+    </div>
+
+
+
+    <div id="content">
+
+
+        <style>
+section.names ul ul li {
+  font-size: 22px;
+  display: inline-block;
+  margin-right: 10px;
+  list-style: disc;
+}
+
+section.cookbook img {
+  width: 70%;
+}
+
+section.constructor img {
+  width: 65%;
+}
+
+section.roadmap ul li:nth-child(3), section.roadmap ul li:nth-child(5) {
+      margin-bottom: 40px;
+}
+</style>
+
+<h1 id="temporal-">Temporal 🕓</h1>
+
+<h2 id="update-2020-03-31">Update 2020-03-31</h2>
+
+<ul>
+  <li>Intro</li>
+  <li>Spec draft</li>
+  <li>Polyfill</li>
+  <li>Cookbook</li>
+  <li>Documentation</li>
+  <li>Calendar</li>
+  <li>Feedback</li>
+  <li>Roadmap</li>
+</ul>
+
+<hr />
+
+<!-- _header: 'Intro' -->
+<!-- _class: names -->
+
+<h1 id="intro">Intro</h1>
+
+<p>What’s new since last time?</p>
+
+<ul>
+  <li>
+    <p>More participants</p>
+
+    <ul>
+      <li>Daniel Ehrenberg</li>
+      <li>Jason Williams</li>
+      <li>Jordan Harband</li>
+      <li>Maggie Johnson-Pint</li>
+      <li>Matt Johnson-Pint</li>
+      <li>Ms2ger</li>
+      <li>Philip Chimento</li>
+      <li>Philipp Dunkel</li>
+      <li>Richard Gibson</li>
+      <li>Sasha Pierson</li>
+      <li>Shane F. Carr</li>
+      <li>Ujjwal Sharma</li>
+      <li>kaizhu256</li>
+    </ul>
+  </li>
+  <li>Cookbook https://tc39.es/proposal-temporal/docs/cookbook.html</li>
+  <li>API Documentation https://tc39.es/proposal-temporal/docs/index.html</li>
+</ul>
+
+<!--
+We've had a lot of new people join since i last gave an updated.
+We now have input from:
+
+* Apple
+* Bloomberg
+* Google
+* Igalia
+* Microsoft
+
+--->
+
+<hr />
+
+<h1 id="spec-draft">Spec draft</h1>
+
+<ul>
+  <li>Gaps continuing to be filled in</li>
+  <li>Much better alignment with polyfill</li>
+  <li>https://tc39.es/proposal-temporal/</li>
+</ul>
+
+<hr />
+
+<h1 id="polyfill">Polyfill</h1>
+
+<ul>
+  <li>Get a Node environment with the Temporal polyfill:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">git clone https://github.com/tc39/proposal-temporal</code></li>
+      <li><code class="language-plaintext highlighter-rouge">cd proposal-temporal/polyfill</code></li>
+      <li><code class="language-plaintext highlighter-rouge">npm install</code></li>
+      <li><code class="language-plaintext highlighter-rouge">npm run playground</code></li>
+    </ul>
+  </li>
+  <li>Test262 test suite being built up</li>
+  <li>Few things missing:
+    <ul>
+      <li>custom calendars</li>
+      <li>custom time zones</li>
+      <li><code class="language-plaintext highlighter-rouge">Temporal.parse()</code>?</li>
+    </ul>
+  </li>
+  <li>https://github.com/tc39/proposal-temporal/tree/main/polyfill</li>
+</ul>
+
+<hr />
+
+<h1 id="cookbook">Cookbook</h1>
+
+<ul>
+  <li>Examples of “How do I do … with Temporal?”</li>
+  <li>Most commonly asked questions on Stack Overflow for legacy <code class="language-plaintext highlighter-rouge">Date</code></li>
+  <li>Use cases gathered from conversations</li>
+  <li>https://tc39.es/proposal-temporal/docs/cookbook.html</li>
+</ul>
+
+<!--
+So one of the things brought up last time was (Leo) a request for better examples of the API in general, and showing some use-cases.
+
+So we have worked on a cookbook.
+These are some of the most common tasks that people ask questions about on StackOverflow with legacy Date. Here's how they would look using Temporal.
+
+Some examples are:
+* Getting the unix timestamp
+* Getting the current date and time
+* How can i sort or compare dates with each other.
+* Given a month and year, how do I get the first tuesday of the month?
+ -->
+
+<hr />
+
+<!-- _class: cookbook -->
+
+<!--
+So one of the things brought up last time was (Leo) a request for better examples of the API in general, and showing some use-cases.
+
+So we have worked on a cookbook.
+These are some of the most common tasks that people ask questions about on StackOverflow with legacy Date. Here's how they would look using Temporal.
+
+Some examples are:
+* Getting the unix timestamp
+* Getting the current date and time
+* How can i sort or compare dates with each other.
+* Given a month and year, how do I get the first tuesday of the month?
+ -->
+
+<p><img src="/temporal-2020-03/cookbook.gif" alt="" /></p>
+
+<hr />
+
+<!-- _header: 'Documentation' -->
+
+<h1 id="documentation">Documentation</h1>
+
+<ul>
+  <li>Reference documentation for the API of Temporal</li>
+  <li>In the style of MDN; easy for casual readers to understand the proposal</li>
+  <li>Reflects the current state of the polyfill</li>
+  <li>Open your browser console on this page and the Temporal polyfill is loaded in your environment</li>
+  <li>https://tc39.es/proposal-temporal/docs/index.html</li>
+</ul>
+
+<hr />
+
+<!-- _class: constructor -->
+
+<p><img src="/temporal-2020-03/Constructor.png" alt="" /></p>
+
+<hr />
+
+<p><img src="/temporal-2020-03/playground.png" alt="" /></p>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h1 id="temporalcalendar"><code class="language-plaintext highlighter-rouge">Temporal.Calendar</code></h1>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h2 id="welcome-to-temporal-lets-start-programming">Welcome to Temporal! Let’s start programming.</h2>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">date</span> <span class="o">=</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">now</span><span class="p">.</span><span class="nx">date</span><span class="p">();</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">.</span><span class="nx">toLocaleString</span><span class="p">(</span><span class="dl">'</span><span class="s1">en-US-u-ca-hebrew</span><span class="dl">'</span><span class="p">,</span> <span class="p">{</span><span class="na">day</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="dl">'</span><span class="s1">long</span><span class="dl">'</span><span class="p">,</span> <span class="na">year</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">}));</span>
+<span class="c1">// 'Nisan 6, 5780'</span>
+
+<span class="nx">date</span> <span class="o">=</span> <span class="nx">date</span><span class="p">.</span><span class="nx">plus</span><span class="p">({</span><span class="na">months</span><span class="p">:</span> <span class="mi">1</span><span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">.</span><span class="nx">toLocaleString</span><span class="p">(</span><span class="dl">'</span><span class="s1">en-US-u-ca-hebrew</span><span class="dl">'</span><span class="p">,</span> <span class="p">{</span><span class="na">day</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="dl">'</span><span class="s1">long</span><span class="dl">'</span><span class="p">,</span> <span class="na">year</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">}));</span>
+<span class="c1">// 'Iyar 6, 5780'</span>
+
+<span class="nx">date</span> <span class="o">=</span> <span class="nx">date</span><span class="p">.</span><span class="nx">plus</span><span class="p">({</span><span class="na">months</span><span class="p">:</span> <span class="mi">1</span><span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">.</span><span class="nx">toLocaleString</span><span class="p">(</span><span class="dl">'</span><span class="s1">en-US-u-ca-hebrew</span><span class="dl">'</span><span class="p">,</span> <span class="p">{</span><span class="na">day</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="dl">'</span><span class="s1">long</span><span class="dl">'</span><span class="p">,</span> <span class="na">year</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">}));</span>
+<span class="c1">// 'Sivan 7, 5780'</span>
+
+<span class="c1">// 'Tamuz 8, 5780'</span>
+<span class="c1">// 'Av 9, 5780'</span>
+<span class="c1">// 'Elul 10, 5780'</span>
+<span class="c1">// 'Tishri 12, 5781'</span>
+
+<span class="nx">date</span> <span class="o">=</span> <span class="nx">date</span><span class="p">.</span><span class="nx">plus</span><span class="p">({</span><span class="na">years</span><span class="p">:</span> <span class="mi">1</span><span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">.</span><span class="nx">toLocaleString</span><span class="p">(</span><span class="dl">'</span><span class="s1">en-US-u-ca-hebrew</span><span class="dl">'</span><span class="p">,</span> <span class="p">{</span><span class="na">day</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="dl">'</span><span class="s1">long</span><span class="dl">'</span><span class="p">,</span> <span class="na">year</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">}));</span>
+<span class="c1">// 'Tishri 24, 5782'</span>
+
+<span class="nx">date</span> <span class="o">=</span> <span class="nx">date</span><span class="p">.</span><span class="nx">plus</span><span class="p">({</span><span class="na">years</span><span class="p">:</span> <span class="mi">1</span><span class="p">})</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">d</span><span class="p">.</span><span class="nx">toLocaleString</span><span class="p">(</span><span class="dl">'</span><span class="s1">en-US-u-ca-hebrew</span><span class="dl">'</span><span class="p">,</span> <span class="p">{</span><span class="na">day</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="dl">'</span><span class="s1">long</span><span class="dl">'</span><span class="p">,</span> <span class="na">year</span><span class="p">:</span> <span class="dl">'</span><span class="s1">numeric</span><span class="dl">'</span><span class="p">}));</span>
+<span class="c1">// 'Tishri 5, 5783'</span>
+</code></pre></div></div>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<ul>
+  <li>While everyone in 2020 mostly agrees with the concept of a solar day, months and years are concepts that are inherently calendar-dependent.</li>
+  <li>Any date-time arithmetic that is rooted in the ISO calendar involving months and years is bound to give unexpected results that will carry over poorly to other calendars.</li>
+  <li>TL:DR; any arithmetic with units larger than days cannot be satisfactorily done in a calendar-agnostic way.</li>
+</ul>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h2 id="we-cannot-have-our-cake-and-eat-it-too">We cannot have our cake and eat it too.</h2>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h2 id="what-are-our-options">What are our options?</h2>
+
+<p><img src="/temporal-2020-03/drake.jpg" alt="height:500px" /></p>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h2 id="what-even-is-temporalcalendar">What even is <code class="language-plaintext highlighter-rouge">Temporal.Calendar</code>?</h2>
+
+<ul>
+  <li>Mechanism to allow arbitrary calendar systems to be implemented on top of Temporal.</li>
+  <li>This will be taken care of for <em>most</em> users out of the box, and doesn’t require any extra know-how.</li>
+  <li>Can be used to implement non-built-in calendar systems.</li>
+  <li>Plan to expose non-ISO, commonly-used regional calendars via ECMA-402.</li>
+  <li>Everything else in userland.</li>
+</ul>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h2 id="what-even-is-temporalcalendar-1">What even is <code class="language-plaintext highlighter-rouge">Temporal.Calendar</code>?</h2>
+
+<h3 id="how-does-it-look-like">How does it look like?</h3>
+
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nx">MyCalendar</span> <span class="kd">extends</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">Calendar</span> <span class="p">{</span>
+  <span class="nl">id</span><span class="p">:</span> <span class="nx">string</span><span class="p">;</span>
+
+  <span class="c1">// Projection</span>
+  <span class="nx">toISO</span><span class="p">(</span><span class="nx">input</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">):</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">;</span>
+  <span class="nx">fromISO</span><span class="p">(</span><span class="nx">input</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">):</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">;</span>
+
+  <span class="c1">// Construction</span>
+  <span class="nx">dateFromFields</span><span class="p">(</span><span class="nx">fields</span><span class="p">:</span> <span class="nx">object</span><span class="p">):</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">;</span>
+
+  <span class="c1">// Arithmetic</span>
+  <span class="nx">plus</span><span class="p">(</span><span class="nx">input</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">,</span> <span class="nx">duration</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">Duration</span><span class="p">,</span> <span class="nx">options</span><span class="p">:</span> <span class="nx">object</span><span class="p">):</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">;</span>
+  <span class="nx">minus</span><span class="p">(</span><span class="nx">input</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">,</span> <span class="nx">duration</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">Duration</span><span class="p">,</span> <span class="nx">options</span><span class="p">:</span> <span class="nx">object</span><span class="p">):</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">;</span>
+  <span class="nx">difference</span><span class="p">(</span><span class="nx">left</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">,</span> <span class="nx">right</span><span class="p">:</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nb">Date</span><span class="p">,</span> <span class="nx">options</span><span class="p">:</span> <span class="nx">object</span><span class="p">):</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">Duration</span><span class="p">;</span>
+
+  <span class="c1">// Accessors</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<hr />
+
+<!-- _header: 'Calendar' -->
+
+<h2 id="what-even-is-temporalcalendar-2">What even is <code class="language-plaintext highlighter-rouge">Temporal.Calendar</code>?</h2>
+
+<h3 id="how-will-it-work-using-temporaldate-as-an-example">How will it work? (using <code class="language-plaintext highlighter-rouge">Temporal.Date</code> as an example)</h3>
+
+<ul style="font-size: 80%">
+<li>Previously, <code>Temporal.Date</code> had three internal slots: year, month and day.
+<li>Now, it has four slots: <code>[[IsoYear]]</code>, <code>[[IsoMonth]]</code>, <code>[[IsoDay]]</code> and <code>[[Calendar]]</code>.
+<li>The corresponding fields on <code>Temporal.Date.prototype</code> should forward requests to the calendar.
+<li>Calendars <em>can</em> add calendar-specific accessors, eg: <code>yearType</code> for the Hebrew Calendar.
+<li>An instance is expected to have stateless behavior; i.e., all methods should be deterministic.
+<li>(There would be no mechanism to enforce this for userland calendars, but the author should ensure this in order to prevent unexpected behavior such as lack of round-tripping.)
+&lt;/ul&gt;
+
+---
+
+<!-- _header: 'Calendar' -->
+
+## What even is `Temporal.Calendar`?
+
+### How would people use it?
+
+```javascript
+let date = Temporal.now.date();  // a Temporal.Date
+
+console.log(date.withCalendar("iso").month);  // 11, i.e. November
+console.log(date.withCalendar("hebrew").month);  // 2, i.e. Heshvan
+console.log(date.withCalendar("japanese").era); // "reiwa"
+```
+---
+
+<!-- _header: 'Calendar' -->
+
+## What even is `Temporal.Calendar`?
+
+### How would people use it?
+
+```javascript
+let date = Temporal.now.date();
+
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+// 'Nisan 7, 5780'
+
+date = date.withCalendar('hebrew');
+
+date = date.plus({months: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+// 'Iyar 7, 5780'
+
+date = date.plus({months: 1})
+console.log(d.toLocaleString('en-US-u-ca-hebrew', {day: 'numeric', month: 'long', year: 'numeric'}));
+// 'Sivan 7, 5780'
+
+// 'Tamuz 7, 5780'
+// 'Av 7, 5780'
+// 'Elul 7, 5780'
+// 'Tishri 7, 5781'
+```
+
+---
+
+<!-- _header: 'Calendar' -->
+
+## What even is `Temporal.Calendar`?
+
+### What about Lunar and Lunisolar calendars?
+
+* `Temporal.Date` has three components: `Year`, `Month` and `Day`.
+* Take out any one, and it becomes impossible to perform Calendar conversions.
+* Example: Rosh Hashanah, 1 Tishrei in the Hebrew Calendar.
+  * 2019: 30th September
+  * 2020: 19th September
+  * 2021: 7th September
+  * 2022: 26th September
+* Question: Eid al-Fitr, 1 Shawwal in the Islamic Calendar.
+* Answer: Don't even ask.
+
+---
+
+<!-- _header: 'Calendar' -->
+
+## What even is `Temporal.Calendar`?
+
+### What about Lunar and Lunisolar calendars?
+
+* The above model solves all remaining issues with solar calendars.
+* Lunar and Lunisolar calendars don't have clear overlaps with ISO, therefore need more information to properly disambiguate.
+* We will add a `[[RefIsoYear]]` and `[[RefIsoDay]]` slot to `Temporal.MonthDay` and `Temporal.YearMonth` classes respectively, to assist disambiguation.
+* They will be ignored whenever they're not required.
+
+---
+
+<!-- _header: 'Calendar' -->
+
+## Next Steps
+
+* Reach consensus on the last few standing issues.
+* Convert working draft into proper spec text.
+* Add calendar support to polyfill.
+
+---
+
+<!-- _class: roadmap -->
+
+# Roadmap
+
+<!--
+
+So you could break our roadmap up into 3 parts:
+
+* Finalizing things
+* Gathering feedback
+* Eventually ask for advancement to Stage 3
+
+As philipp mentioned there's some additions to the polyfill we need to sort out (calendar).
+We would like to add some more examples to the cookbook, and at least reach a point where we're happy with it
+Specification has some more holes too
+^ So these are what we're working on right now.
+
+Gathering Feedback is something we'll be doing over the next few months
+
+Then requesting stage advancement is something we see ourselves doing by the end of the year
+
+ -->
+
+- Finalize polyfill and release it
+- Finalize first edition of the cookbook
+- Finalize Specification
+
+- Incorporate decisions &amp; feedback
+- TC39 stage review / edit specification to reflect
+
+- Request TC39 stage advancement
+</li></li></li></li></li></li></ul>
+
+
+
+    </div>
+
+
+  </div>
+
+
+
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+
+        <div class="span5 copyright">
+          Copyright &copy; 2020 Matt Harzewski. Powered by <a href="http://jekyllrb.com">Jekyll</a>.
+          <br /><br />
+          <iframe src="http://ghbtns.com/github-btn.html?user=mattvh&repo=jekyllthemes&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=mattvh&repo=jekyllthemes&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+          <br /><br />
+        </div>
+
+        <div class="span7">
+          <h3>Want to Submit a Theme?</h3>
+          <ul>
+            <li>Fork <a href="https://github.com/mattvh/jekyllthemes" target="_blank">our site</a> on GitHub</li>
+            <li>Create a new post in the <code>_posts</code> directory and fill out the relevant YAML fields</li>
+            <li>Make a 250x200 thumbnail and drop it in the <code>thumbnails</code> directory. List its filename in the post's markdown file.</li>
+            <li>Test it out, then push your changes up and open a pull request.</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </footer>
+
+
+
+</body>
+</html>
