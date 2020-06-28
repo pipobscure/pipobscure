@@ -1,6 +1,6 @@
 <!--
 title: Tag manor
-date: 2020-06-28T14:49:39.379Z
+date: 2020-06-28T14:51:44.711Z
 tags:
 -->
 # Tag manor

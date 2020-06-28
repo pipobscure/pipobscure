@@ -1,6 +1,6 @@
 <!--
 title: Tag buckingham
-date: 2020-06-28T14:49:39.739Z
+date: 2020-06-28T14:51:44.956Z
 tags:
 -->
 # Tag buckingham

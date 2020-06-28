@@ -1,6 +1,6 @@
 <!--
 title: Tag lack
-date: 2020-06-28T14:49:39.546Z
+date: 2020-06-28T14:51:44.825Z
 tags:
 -->
 # Tag lack

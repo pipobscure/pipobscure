@@ -1,6 +1,6 @@
 <!--
 title: Tag deemed
-date: 2020-06-28T14:49:39.481Z
+date: 2020-06-28T14:51:44.777Z
 tags:
 -->
 # Tag deemed

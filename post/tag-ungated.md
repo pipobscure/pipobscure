@@ -1,6 +1,6 @@
 <!--
 title: Tag ungated
-date: 2020-06-28T14:49:39.772Z
+date: 2020-06-28T14:51:44.983Z
 tags:
 -->
 # Tag ungated

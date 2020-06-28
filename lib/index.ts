@@ -121,7 +121,10 @@ async function writePosts(
   }
   function navString(prev: MetaData | undefined, next: MetaData | undefined) {
     const parts: string[] = [];
-    if (prev) parts.unshift(`[Newer](${prev.filename})`);
+    if (prev) {
+      parts.unshift(`[Top](index.md)`);
+      parts.unshift(`[Newer](${prev.filename})`);
+    }
     if (next) parts.push(`[Older](${next.filename})`);
     if (!parts.length) return "";
     return parts.join(" | ");

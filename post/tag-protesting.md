@@ -1,6 +1,6 @@
 <!--
 title: Tag protesting
-date: 2020-06-28T14:49:39.780Z
+date: 2020-06-28T14:51:44.988Z
 tags:
 -->
 # Tag protesting

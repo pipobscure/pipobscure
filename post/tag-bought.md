@@ -1,6 +1,6 @@
 <!--
 title: Tag bought
-date: 2020-06-28T14:49:39.684Z
+date: 2020-06-28T14:51:44.921Z
 tags:
 -->
 # Tag bought

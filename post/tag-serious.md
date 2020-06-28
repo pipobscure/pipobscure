@@ -1,6 +1,6 @@
 <!--
 title: Tag serious
-date: 2020-06-28T14:49:39.639Z
+date: 2020-06-28T14:51:44.887Z
 tags:
 -->
 # Tag serious

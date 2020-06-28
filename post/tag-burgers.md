@@ -1,6 +1,6 @@
 <!--
 title: Tag burgers
-date: 2020-06-28T14:49:39.784Z
+date: 2020-06-28T14:51:44.990Z
 tags:
 -->
 # Tag burgers

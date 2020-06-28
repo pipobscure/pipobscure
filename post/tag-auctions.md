@@ -1,6 +1,6 @@
 <!--
 title: Tag auctions
-date: 2020-06-28T14:49:39.378Z
+date: 2020-06-28T14:51:44.704Z
 tags:
 -->
 # Tag auctions

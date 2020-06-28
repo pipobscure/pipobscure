@@ -1,6 +1,6 @@
 <!--
 title: Tag opportunity
-date: 2020-06-28T14:49:39.735Z
+date: 2020-06-28T14:51:44.947Z
 tags:
 -->
 # Tag opportunity

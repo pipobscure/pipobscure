@@ -1,6 +1,6 @@
 <!--
 title: Tag black
-date: 2020-06-28T14:49:39.274Z
+date: 2020-06-28T14:51:44.615Z
 tags:
 -->
 # Tag black

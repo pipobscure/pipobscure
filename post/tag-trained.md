@@ -1,6 +1,6 @@
 <!--
 title: Tag trained
-date: 2020-06-28T14:49:39.697Z
+date: 2020-06-28T14:51:44.926Z
 tags:
 -->
 # Tag trained

@@ -1,6 +1,6 @@
 <!--
 title: Tag getting
-date: 2020-06-28T14:49:39.733Z
+date: 2020-06-28T14:51:44.945Z
 tags:
 -->
 # Tag getting

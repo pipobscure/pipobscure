@@ -1,6 +1,6 @@
 <!--
 title: Tag crystal
-date: 2020-06-28T14:49:39.479Z
+date: 2020-06-28T14:51:44.776Z
 tags:
 -->
 # Tag crystal

@@ -1,6 +1,6 @@
 <!--
 title: Tag love
-date: 2020-06-28T14:49:39.466Z
+date: 2020-06-28T14:51:44.754Z
 tags:
 -->
 # Tag love

@@ -1,6 +1,6 @@
 <!--
 title: Tag surrender
-date: 2020-06-28T14:49:39.405Z
+date: 2020-06-28T14:51:44.730Z
 tags:
 -->
 # Tag surrender

@@ -1,6 +1,6 @@
 <!--
 title: Tag cross
-date: 2020-06-28T14:49:39.371Z
+date: 2020-06-28T14:51:44.692Z
 tags:
 -->
 # Tag cross
