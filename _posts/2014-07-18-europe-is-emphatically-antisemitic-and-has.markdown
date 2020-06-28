@@ -1,0 +1,27 @@
+---
+layout: post
+title: europe is emphatically antisemitic and has
+date: 2014-07-18 19:20:11 Z
+tags: []
+---
+Europe is emphatically antisemitic and has historically been so. Austria/Germany provided the world with visible and horrific proof of this in the 20th century, but one should not be tricked into believing that the rest of Europe, or America for that matter, is any less antisemitic. Had there been only slightly different circumstances antisemitism may well have overflowed elsewhere. The world was well aware of the murderous plans for Jews forged in Germany; after all Hitler used them as propaganda throughout his reign.
+
+Neither America nor the rest of Europe was entirely unsympathetic; to Germany that is.
+
+Jews, and anyone in sympathy with humanity in general, should be grateful to Japanese stupidity, and the fact that Germany happened to be in alliance with Japan, in attacking Pearl Harbor. Otherwise it may well be that Nazi-Germany would have succeeded in exterminating all Jews.
+
+After the war the international community was horrified at its own blithe inaction and blatant negligence. Like a child beginning to cry in view of the deliberately murdered goldfish on the carpet the victors of WWII decided to ease their consciences by creating the modern state of Israel. However one should not make the mistake of believing that Europe and the world at large had become any less antisemitic. Antisemitism simply became a subliminal principle rather than an openly celebrated attitude.
+
+Given this prevailing antisemitism it is almost incredible how inept the handling of world politics by Palestinians in particular, but Muslims in general, has been. After all, until the era of islamic terrorism, antisemitism had almost been sufficient to reduce Israel to a sliver of its current size and prowess.
+
+The muslim world has instead managed to alienate the rest of the world by continually denying Israel’s right to exist. Independent of the value of any claims pro or contra the legitimate existence of Israel, there is simply no way that any nation involved in WWII would every deny the right of Israel’s existence for it would be tantamount to acknowledging the at least passive complicity in the slaughter and extermination of millions of jews.
+
+At this point the existence of Israel is a historic fact whose legitimacy can, and should, no longer be challenged. So long as Palestinians do not unequivocally accept the right of Israel to exist and denounce any person or entity not doing the same there cannot be peace.
+
+Which brings up a thought that may close the circle: With the way Islamists have been acting, and Palestinians are acting right now, islamophobia will indubitably turn into islamomisia and then into straight out anti-islamism if we aren’t already there.
+
+The world is uniquely adept at blithely ignoring genocide if it’s in line with it’s own anti-sentiments. It’s only a matter of time until this world is willing to sit back and watch a Palestinian genocide unfold.
+
+The only reason that _both sides_ are being asked for restraint is the deep rooted antisemitism in the western world. If it were not Israel but any other state being attacked, the rest of the world would simply make popcorn and sit back to watch the mayhem unfold.
+
+So if Palestinians want to have even the thread of a chance of survival, they will have to simply accept, that Israel has a right to exists unmolested. As soon as they do, they will find that all the other issues are pretty easy to get an accord on.

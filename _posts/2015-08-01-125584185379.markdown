@@ -1,0 +1,8 @@
+---
+layout: post
+title: Video 2015-08-01 09:13:41
+date: 2015-08-01 09:13:41 Z
+tags: []
+---
+<video width="640" height="360" autoplay="autoplay" controls="controls"><source src="/media/2015/08/125584185379.mp4" type="video/mp4></video>
+

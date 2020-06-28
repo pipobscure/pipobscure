@@ -1,0 +1,8 @@
+---
+layout: post
+title: Video 2017-06-22 22:59:32
+date: 2017-06-22 22:59:32 Z
+tags: []
+---
+<video autoplay="autoplay" controls="controls"><source src="https://youtu.be/su6yNdw5wYo"></video>
+

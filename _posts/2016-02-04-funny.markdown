@@ -1,0 +1,9 @@
+---
+layout: post
+title: Funny
+date: 2016-02-04 21:43:41 Z
+tags: []
+---
+<video autoplay="autoplay" controls="controls"><source src="https://m.youtube.com/watch?v=TBb9O-aW4zI#action=share"></video>
+
+Funny
