@@ -4,7 +4,7 @@ title: Google chooses what we see…
 date: 2013-10-16 16:31:05 Z
 tags: []
 ---
-##Mathew Ingram wrote a [piece on GigaOM](http://gigaom.com/2013/10/07/first-they-came-for-the-mugshot-websites-but-i-said-nothing/) about a change in the google search algorithm to discourage mugshot sites and the often associated blackmail.
+Mathew Ingram wrote a [piece on GigaOM](http://gigaom.com/2013/10/07/first-they-came-for-the-mugshot-websites-but-i-said-nothing/) about a change in the google search algorithm to discourage mugshot sites and the often associated blackmail.
 
 He makes the case, not least with his title “first they came for the mugshot websites, but I said nothing” that this decision to actively discourage a set of sites is a slippery slope. The danger is that we will not know what will be hidden from us by google next.
 

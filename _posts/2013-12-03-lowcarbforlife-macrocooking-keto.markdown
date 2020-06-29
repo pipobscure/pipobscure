@@ -14,20 +14,20 @@ tags:
 > > Keto Peanutbutter no bake cheesecake:
 > > 
 > > Topping  
-> > 100g almond meal  
-> > ¼ cup stevia  
-> > 100g butter
+> >  - 100g almond meal  
+> >  - ¼ cup stevia  
+> >  - 100g butter
 > > 
 > > Melt butter and combine all ingredients, bake at 160degrees for 15 minutes then cool
 > > 
 > > Filling:  
-> > \- 250g cream cheese  
-> > \- 200g marscapone  
-> > \- 200ml thickened cream  
-> > \- ¼ cup stevia  
-> > \- zest from half a lemon  
-> > \- 1tsp vanilla essence  
-> > \- 6 tbs peanut butter
+> >  - 250g cream cheese  
+> >  - 200g marscapone  
+> >  - 200ml thickened cream  
+> >  - ¼ cup stevia  
+> >  - zest from half a lemon  
+> >  - 1tsp vanilla essence  
+> >  - 6 tbs peanut butter
 > > 
 > > Mix all ingredients with hand blender except peanut butter and cream.  
 > > Stir in cream with wooden spoon

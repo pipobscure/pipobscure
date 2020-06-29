@@ -8,7 +8,7 @@ Oh Lord. Give me coffee to change the things I can change, and red wine to accep
 
 (via [hashtagfuckingamazing](http://hashtagfuckingamazing.tumblr.com/))
 
-#and wisdom to know when to just reach for the vodka instead.
+> and wisdom to know when to just reach for the vodka instead.
 
-(via [chippedcupofchai](http://chippedcupofchai.tumblr.com/))
+> (via [chippedcupofchai](http://chippedcupofchai.tumblr.com/))
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "> ##date: 2014-01-02 09:43:10 Z
+title: Bitches be cray
+date: 2014-01-02 09:43:10 Z
 tags: []
 ---
 ![](/media/2014/01/71951124722.png)
@@ -11,6 +12,3 @@ tags: []
 > [\- funny tumblr](http://lolfactory.tumblr.com)
 > -----------------------------------------------
 > 
->   
-> 
-> ##

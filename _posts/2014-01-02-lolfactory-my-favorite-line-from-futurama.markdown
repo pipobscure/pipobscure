@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "> ##date: 2014-01-02 01:08:44 Z
+title: My favorite line from Futurama
+date: 2014-01-02 01:08:44 Z
 tags: []
 ---
 ![](/media/2014/01/71906219014.jpg)
@@ -11,6 +12,3 @@ tags: []
 > [\- funny tumblr](http://lolfactory.tumblr.com)
 > -----------------------------------------------
 > 
->   
-> 
-> ##

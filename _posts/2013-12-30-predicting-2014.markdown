@@ -1,6 +1,6 @@
 ---
 layout: post
-title: predicting 2014
+title: Predicting 2014
 date: 2013-12-30 12:33:51 Z
 tags: []
 ---
@@ -10,11 +10,9 @@ tags: []
 
 > From 1964, in the New York Times
 > 
-> ####> 
 > Visit to the World’s Fair of 2014
 > ---------------------------------
 > 
-> ####> 
 > The New York World’s Fair of 1964 is dedicated to “Peace Through Understanding.” Its glimpses of the world of tomorrow rule out thermonuclear warfare. And why not? If a…
 
 Well we have our work cut out for 2014

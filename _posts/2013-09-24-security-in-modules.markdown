@@ -14,8 +14,9 @@ The [Problem with Express/bodyParser](http://andrewkelley.me/post/do-not-use-bod
 
 I have a problem with the statements made in the article, because it misses the most important point. He writes a short piece of code, and then claims that it’s dangerous. **And he is right** however, I can do the very same thing with any API.
 
+```
     while (42) setInterval(console.log.bind(console, 'Hallo'), 1)
-    
+```
 
 is pretty _dangerous_ as well. (Go try it in your node-REPL and come back when you killed it ;) )
 
