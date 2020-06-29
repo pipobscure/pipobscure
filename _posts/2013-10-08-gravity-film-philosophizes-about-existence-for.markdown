@@ -4,8 +4,6 @@ title: "'Gravity': film philosophizes about existence for the 'Nones'"
 date: 2013-10-08 16:30:52 Z
 tags: []
 ---
-# 'Gravity': film philosophizes about existence for the 'Nones'
-
 > Reviews of the new hit movie “Gravity” note that it’s an unusually fine science fiction film. What they don’t mention is that the main character represents an increasingly common theme in American religion: The spiritual “none of the above.”
 
 _TL;DR_ - screwy methods produce good headlines

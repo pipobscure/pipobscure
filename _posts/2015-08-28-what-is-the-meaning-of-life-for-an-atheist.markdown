@@ -4,8 +4,6 @@ title: What is the meaning of life for an atheist?
 date: 2015-08-28 14:12:35 Z
 tags: []
 ---
-# What is the meaning of life for an atheist?
-
 [jkottke](http://bonus.kottke.org/post/127788961843/what-is-the-meaning-of-life-for-an-atheist):
 
 > BuzzFeed’s Tom Chivers asked several atheists [How They Find Meaning In A Purposeless Universe](http://www.buzzfeed.com/tomchivers/when-i-was-a-child-i-spake-as-a-child).

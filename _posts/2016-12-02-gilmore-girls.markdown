@@ -4,8 +4,6 @@ title: Gilmore Girls
 date: 2016-12-02 09:30:17 Z
 tags: []
 ---
-# Gilmore Girls
-
 [laurensaysrelax](http://laurensaysrelax.tumblr.com/post/153661877808/gilmore-girls):
 
 > Eh, like most revivals I didn’t love it, but I didn’t exactly hate it either

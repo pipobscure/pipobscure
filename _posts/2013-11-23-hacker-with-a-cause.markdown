@@ -6,8 +6,6 @@ tags:
   - hacktivist
   - disent
 ---
-# Hacker with a Cause
-
 > **Joshua Kopstein** writes about the Jeremy Hammond case, and how hacktivism and leaking have created a [new type of political dissenter](http://nyr.kr/1i0mexn)
 
 There are two striking things in the article that are food for thought:

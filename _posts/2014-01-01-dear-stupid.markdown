@@ -4,8 +4,6 @@ title: Dear Stupid
 date: 2014-01-01 18:04:00 Z
 tags: []
 ---
-# Dear Stupid
-
 If you decide to block the only thoroughfare at a train station and a kid falls over your luggage it’s a pretty dumb move to get in the kids face, especially if just behind the kid is it’s father that’s about double your size.
 
 When you the get told to chill by your girl friend as well as the father of said kid, it’s never smart to throw a punch at said father.

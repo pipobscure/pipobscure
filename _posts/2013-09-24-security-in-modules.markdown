@@ -4,8 +4,6 @@ title: Security in Modules
 date: 2013-09-24 16:31:09 Z
 tags: []
 ---
-# Security in Modules
-
 At NodeConf.eu, there was a great talk by @adam\_baldwin on node security and the [Node-Security Project](https://nodesecurity.io). After the talk while watching a bunch of nodecopters crash, I got to talking with Adam about security bugs in modules and the fact that he seems to me to be an incorrigible optimist thinking he can actually make things safe. You know the way people talk when they have a beer/cider in hand it it ain’t the first night out ;)
 
 Well Adam made a comment, that I should write a blog-post about it. I said that I’m not really into blogging. Well I’m not, but I try and try again. So this endeavour on tumblr is actually Adam’s fault.

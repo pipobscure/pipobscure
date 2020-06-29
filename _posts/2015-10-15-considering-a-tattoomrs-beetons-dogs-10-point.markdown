@@ -4,8 +4,6 @@ title: Considering a tattoo?Mrs Beeton’s Dog’s 10 point guide.
 date: 2015-10-15 05:23:35 Z
 tags: []
 ---
-# Considering a tattoo?Mrs Beeton’s Dog’s 10 point guide.
-
 [mrsbeetonsdog](http://mrsbeetonsdog.tumblr.com/post/130945022427):
 
 > Don’t do it! You narcissistic (look it up), superficial, empty-headed pipsqueak (and again). Spend the money instead on a book or, even better, a present for your mum. You are not a “gangsta”, living a “thug life” in “da hood”. You haven’t read any scriptures, shakespeare or ancient texts, nor been anywhere or done anything in your life, which would warrant such an act. You are not from some Pacific Island tribe. It is unlikely you are a Maori. Those symbols have deep, historical, spiritual and cultural meanings, going back thousands of years. You, on the other hand, are probably called John, or Steve, or Julie or Cheryl, have nice parents and own a smart phone you got as a Birthday present. If you have a job, you probably work in an office. Or “food services”.  Grow the fuck up.

@@ -4,8 +4,6 @@ title: some of my favorite silly plotlines from Scottish ballads
 date: 2017-03-31 13:00:55 Z
 tags: []
 ---
-# some of my favorite silly plotlines from Scottish ballads
-
 [thebibliosphere](https://thebibliosphere.tumblr.com/post/159006878846/some-of-my-favorite-silly-plotlines-from-scottish):
 
 > [intentandinvention](http://intentandinvention.tumblr.com/post/159006579267/some-of-my-favorite-silly-plotlines-from-scottish):

@@ -4,8 +4,6 @@ title: Why and how do you close national parks?
 date: 2013-10-03 11:31:00 Z
 tags: []
 ---
-# Why and how do you close national parks?
-
 [![Yosemite](http://farm1.staticflickr.com/9/77206900_ce91f17294.jpg)](http://www.flickr.com/photos/zenlight/77206900/ "Yosemite by AlexPears, on Flickr")
 
 The US Congress, in particular the Republican faction of the House, has decided that their bruised ego is more important than pretty much anything else. So they decided that shutting down the entire US federal government (with a very few exceptions) was a good idea.

@@ -7,8 +7,6 @@ tags:
   - science
   - sleep
 ---
-# Snoozers Are, in Fact, Losers
-
 [newyorker](http://newyorker.tumblr.com/post/69700982558/snoozers-are-in-fact-losers):
 
 > **![image](https://66.media.tumblr.com/14d0a24a9001e43c35c0621acff867e2/tumblr_inline_pk54auSUTa1snpcgy_540.jpg)**

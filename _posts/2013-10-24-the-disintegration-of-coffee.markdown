@@ -6,5 +6,3 @@ tags:
   - vine
   - coffee
 ---
-# The disintegration of coffee
-

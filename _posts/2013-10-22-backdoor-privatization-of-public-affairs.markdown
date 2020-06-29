@@ -6,8 +6,6 @@ tags:
   - government
   - politics
 ---
-# Backdoor privatization of public affairs
-
 [![Freedom 7/04/10](http://farm5.staticflickr.com/4120/4760640428_fb01a170b1_z.jpg)  
 Freedom 7/04/10 by dianecordell, on Flickr](http://www.flickr.com/photos/dmcordell/4760640428/ "Freedom 7/04/10 by dianecordell, on Flickr")
 

@@ -4,8 +4,6 @@ title: Why I'm wavering on Brexit
 date: 2019-11-28 18:57:23 Z
 tags: []
 ---
-# Why I'm wavering on Brexit
-
 There is no doubt in my mind that Brexit will be severely negative for Britain, both as a country and for the majority of its population. However recently I’ve come to doubt that Brexit is an overall bad thing and am coming to toy with the thought that Brexit might be the best thing to happen and the harder the better. Let me explain why that is.
 
 To do that, I believe I have to explain a bit about me:

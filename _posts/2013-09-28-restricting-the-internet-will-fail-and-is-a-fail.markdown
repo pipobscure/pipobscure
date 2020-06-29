@@ -4,8 +4,6 @@ title: "Restricting the internet will fail and is a #fail"
 date: 2013-09-28 16:31:24 Z
 tags: []
 ---
-# Restricting the internet will fail and is a #fail
-
 It seems that there are still some like the LAUSD that have not realised yet, that you cannot lock down technology and still expect it to be useful.
 
 The LA-Times reported that [LAUSD halts home use of iPads for students](http://www.latimes.com/local/lanow/la-me-ln-lausd-ipad-hack-20130925,0,6974454.story), which might just be the silliest thing to it could do. The one thing sillier is to truly believe that it could prevent this to begin with.

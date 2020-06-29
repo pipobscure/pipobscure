@@ -5,8 +5,6 @@ date: 2013-12-07 17:04:11 Z
 tags:
   - languages
 ---
-# The Internet is killing languages. And that's bad?
-
 The Washington Post recently had an article entitled [How the Internet is killing the world’s languages](http://www.washingtonpost.com/blogs/worldviews/wp/2013/12/04/how-the-internet-is-killing-the-worlds-languages/) in which the author expounded that a large set of languages are passing on. Throughout the article questions like “how can this be averted”, “how can languages be save” are asked like having more than 7000 languages is a good thing.
 
 Now I like language, and I love languages. Which is why I speak two like a native and another two to a level that I can hold an intelligent conversation. Thing is, that’s just for fun and they are all major languages. Truth be told from the perspective of benefit to the world, I don’t think more that a handful of languages are a good thing. Diversity is not a good thing in itself, nor is it a bad thing. It’s just a thing.

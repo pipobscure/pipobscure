@@ -5,8 +5,6 @@ date: 2013-12-23 23:20:25 Z
 tags:
   - censorship
 ---
-# Private Censorship is still Censorship
-
 [![eat it](http://farm1.staticflickr.com/94/220767727_4527595e8c_z.jpg)censored due to food-porn](http://www.flickr.com/photos/-sel-/220767727/ "eat it by -sel, on Flickr")
 
 As some of you might have gathered I spent an awesome weekend in Budapest recently. It was really totally awesome: we basically spent the weekend at a luxury hotel being pampered and visiting the sites. Only one thing managed to get under my skin that weekend. And I hadn’t realised how much it actually bothered me.

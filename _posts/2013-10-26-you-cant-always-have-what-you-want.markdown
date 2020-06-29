@@ -7,8 +7,6 @@ tags:
   - oauth
   - tech
 ---
-# You can't always have what you want
-
 I stumbled across another instance of messed up OAuth today.
 
 OAuth is intended to give services the ability to access all or parts of another on behalf of a user. This is great, since it enables a lot of interactivity on the net. It is actually designed in a way that allows for the service requesting access to specify what access it wants.

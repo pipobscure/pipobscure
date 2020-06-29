@@ -4,8 +4,6 @@ title: Girls in Tech
 date: 2014-01-02 09:32:00 Z
 tags: []
 ---
-# Girls in Tech
-
 This post has been brewing for over two years and consists mainly of observations and rants. These may or may not be based in fact, but they were observed. True to my style they are random and jumbled. Take them as such and don’t inspect them for deeper meaning.
 
 * * *

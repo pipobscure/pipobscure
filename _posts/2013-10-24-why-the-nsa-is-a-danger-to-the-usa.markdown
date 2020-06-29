@@ -4,8 +4,6 @@ title: Why the NSA is a danger to the USA
 date: 2013-10-24 14:40:49 Z
 tags: []
 ---
-# Why the NSA is a danger to the USA
-
 With the surveillance of the world by the NSA being played up and down the media, it is easy to forget why it is a problem to begin with. It’s easy to argue that the NSA actually should do what it’s doing, after all they are fighting terrorists and criminals, and these arguments are dangerously alluring.
 
 [![Surveillance](http://farm4.staticflickr.com/3632/3744953433_e3b523e24d_n.jpg)  

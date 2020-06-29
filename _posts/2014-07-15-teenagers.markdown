@@ -4,8 +4,6 @@ title: Teenagers!
 date: 2014-07-15 16:44:46 Z
 tags: []
 ---
-# Teenagers!
-
 Tired of being harassed by your stupid parents?
 
 **ACT NOW!**

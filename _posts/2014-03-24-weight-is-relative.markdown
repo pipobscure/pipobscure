@@ -4,8 +4,6 @@ title: weight is relative
 date: 2014-03-24 14:55:48 Z
 tags: []
 ---
-# weight is relative
-
 I had a funky experience today. I only weigh myself only once every month and a half, because I believe that the scale is not a good tool for measuring progress.
 
 Today I weighed in at more than last time around, at the same time, I am wearing one waist size smaller than the last time as well. The only way this is possible is that I managed to convert a bunch of fat into muscle.

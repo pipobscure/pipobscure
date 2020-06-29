@@ -4,8 +4,6 @@ title: A member of our community is missing, help find him
 date: 2014-01-07 23:19:59 Z
 tags: []
 ---
-# A member of our community is missing, help find him
-
 [nodejsreactions](http://nodejsreactions.tumblr.com/post/72596728510/a-member-of-our-community-is-missing-help-find-him):
 
 > **Luke Arduini** has been missing since Jan 1. Co-maintainer of npm and a long-term, valued member of the Node.js community, his absence is deeply felt by many of us.

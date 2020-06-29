@@ -8,8 +8,6 @@ tags:
   - programming
   - coffee-script
 ---
-# Why I seriously dislike Coffee-Script
-
 I had a conversation last night with one of those coffee-script loving developers and I once again stated that I really dislike coffee-script. Contrary to previous exchanges of this nature this person did something unusual and smart for the breed: he asked WHY?
 
 I laid out some arguments for him and figured I have never done so in a coherent pattern before. So here it goes, the why to my dislike of coffee-script.

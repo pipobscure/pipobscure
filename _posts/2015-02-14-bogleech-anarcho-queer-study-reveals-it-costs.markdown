@@ -10,8 +10,7 @@ tags: []
 
 > [anarcho-queer](http://anarcho-queer.tumblr.com/post/86938132544):
 > 
-> > ### [**Study Reveals It Costs Much Less to House The Homeless Than to Leave Them on the Street**](http://www.policymic.com/articles/86251/study-reveals-it-costs-less-to-give-the-homeless-housing-than-to-leave-them-on-the-street)
-> > 
+> > ##> > 
 > > Not only is it morally wrong to let people live desperately on the streets, but it doesn’t make much economical sense either.
 > > 
 > > A new study has found that it’s [significantly cheaper](http://www.charlotteobserver.com/2014/03/23/4787934/study-concludes-charlotte-homeless.html#.UzL-lPldUiM) to house the homeless than leave them on the streets.

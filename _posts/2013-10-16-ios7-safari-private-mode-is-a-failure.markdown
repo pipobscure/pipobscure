@@ -7,8 +7,6 @@ tags:
   - apple
   - fubar
 ---
-# iOS7 Safari private mode is a failure
-
 The private browsing mode in Safari on iOS7 is a failure of engineering so unlike what Apple is known for that they should be ashamed to ship it.
 
 The issue is that it leaves session cookies enabled while it disables sessionStore. And all due to misguided ideas what this stuff can be used for.

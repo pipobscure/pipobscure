@@ -4,8 +4,6 @@ title: The signs as comebacks/insults
 date: 2016-11-30 22:59:08 Z
 tags: []
 ---
-# The signs as comebacks/insults
-
 [astr-odiac](http://astr-odiac.tumblr.com/post/153793671623/the-signs-as-comebacksinsults):
 
 > Aries : Remember that time I said I thought you were cool? I lied.

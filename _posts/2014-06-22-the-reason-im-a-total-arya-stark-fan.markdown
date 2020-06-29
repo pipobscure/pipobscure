@@ -4,8 +4,6 @@ title: The reason I'm a total Arya Stark fan...
 date: 2014-06-22 19:02:35 Z
 tags: []
 ---
-# The reason I'm a total Arya Stark fan...
-
 …is that she takes charge of her own destiny. She’s not making excuses, she doesn’t whine; instead she shapes her fortunes and takes her opportunities.
 
 Like in the most recent episode, she wants to go north, but when she meets a Bravossi, she says fuck that, let’s check out Bravos.

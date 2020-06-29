@@ -4,8 +4,6 @@ title: I don't want to hear it anymore
 date: 2014-11-27 19:20:39 Z
 tags: []
 ---
-# I don't want to hear it anymore
-
 I really don’t want to hear this crap about “race-discrimination”, “rape-culture” and the like any more. I’m a white middle aged male and I’m sick of it!
 
   

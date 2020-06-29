@@ -4,8 +4,6 @@ title: Capture the Flag
 date: 2014-07-28 06:46:36 Z
 tags: []
 ---
-# Capture the Flag
-
 Someone painted the flags on the Brooklyn Bridge white and all Brooklyn Borough President Eric Adams has to say is:
 
 > If flying a white flag atop the Brooklyn Bridge is someone’s idea of a joke, I’m not laughing. The public safety of our city is of paramount importance, particularly our landmarks and bridges that are already known to be high-risk targets. We will not surrender our public safety to anyone, at any time. Political and social expression, whatever its message may be, has a place in our society, but not at the expense of others’ security. I am confident in the NYPD’s ability to investigate this matter.

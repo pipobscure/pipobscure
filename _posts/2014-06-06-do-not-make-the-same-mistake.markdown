@@ -4,8 +4,6 @@ title: Do not make the same mistake
 date: 2014-06-06 12:40:54 Z
 tags: []
 ---
-# Do not make the same mistake
-
 My wife never used to wear nail polish. One of her reasons was that she disliked doing her nails, because she always messed up.
 
 Then about 5 years ago, I did my own nails with black polish for my ghoul costume. Thing is, I was quicker and the results were better. Now she wears nail polish more often and I get to spend my evenings and weekends doing her nails.

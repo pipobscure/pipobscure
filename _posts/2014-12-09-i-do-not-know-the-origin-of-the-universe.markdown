@@ -5,8 +5,6 @@ title: I do not know the origin of the universe, therefore, it was created by an
 date: 2014-12-09 15:28:38 Z
 tags: []
 ---
-# I do not know the origin of the universe, therefore, it was created by an invisible guy of whom I do not know the origin.
-
 [atheistatheism](http://atheistatheism.tumblr.com/post/104747131885/i-do-not-know-the-origin-of-the-universe):
 
 > submitted by [SamHarrisFan](http://ift.tt/1waF3SM)  

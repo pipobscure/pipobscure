@@ -8,8 +8,6 @@ tags:
   - ghost
   - wordpress
 ---
-# What is Simply blogging: why Ghost is not it
-
 A bit ago I wrote [a post about Ghost](http://pipobscure.com/post/67252014534/ghost-d-o-a-i-hope) in which I made the claim that they had pretty much screwed it up. Of course this presumes that there is a common understanding of what that and “doing it right” means.
 
 I have been doing a lot of thinking about that for a while and have spoken to a few people (read non-tech, blog writers). By now I have come to some conclusions; too many to put into one post :). However a first stab at it would be a good thing.

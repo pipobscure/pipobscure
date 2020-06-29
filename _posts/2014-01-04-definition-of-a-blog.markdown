@@ -4,8 +4,6 @@ title: Definition of a Blog
 date: 2014-01-04 15:47:48 Z
 tags: []
 ---
-# Definition of a Blog
-
 Here is some I read
 
 *   fitblr

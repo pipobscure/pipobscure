@@ -4,8 +4,6 @@ title: Life is like a game of poker
 date: 2014-06-24 11:01:14 Z
 tags: []
 ---
-# Life is like a game of poker
-
 I am not really into gambling. The most I have ever gambled was playing poker for gummy-bears. But this year like does feel like a game of poker, or at least how I imagine it feeling.
 
 For years I have been talking of leaving the country and moving somewhere else. This spring life dealt me a hand that allowed me to go for it. It looked hard into my eyes and said:

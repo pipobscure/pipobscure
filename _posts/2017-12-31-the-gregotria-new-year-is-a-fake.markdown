@@ -4,8 +4,6 @@ title: The Gregotria New Year is a Fake!
 date: 2017-12-31 21:24:03 Z
 tags: []
 ---
-# The Gregotria New Year is a Fake!
-
 [savedfromsalvation](http://savedfromsalvation.tumblr.com/post/169155235381/the-gregotria-new-year-is-a-fake):
 
 > When Was the First Christmas?by D.M. Murdock/Acharya S

@@ -4,8 +4,6 @@ title: Some Champagne Thoughts for 2014
 date: 2013-12-31 23:39:16 Z
 tags: []
 ---
-# Some Champagne Thoughts for 2014
-
 This being New Years Eve, I had a couple of glasses of champagne. And as you are likely to learn, that’s a dangerous thing, because it makes me ponderous.
 
 What I am ponderous about right now, is some of the tumblrs I am following and their doubtful outlook on life. There are people doubting their self worth, people complaining about a shit year, and more negativity.

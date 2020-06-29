@@ -5,8 +5,6 @@ date: 2013-12-29 17:04:12 Z
 tags:
   - new year
 ---
-# New Year is approaching with lightening speed …
-
 … and it’s resolution time. And honestly I think new years resolutions are a huge stupid idea. You might as well call them a list of things i won’t do.
 
 In 2012 I decided I wanted to loose some weight. Started to alter my lifestyle and am now living ultra-low-carb and lost 40kg. No resolution involved.

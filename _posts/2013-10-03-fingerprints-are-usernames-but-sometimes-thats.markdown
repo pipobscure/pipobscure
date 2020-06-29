@@ -4,8 +4,6 @@ title: Fingerprints are usernames, but sometimes that's enough
 date: 2013-10-03 16:31:28 Z
 tags: []
 ---
-# Fingerprints are usernames, but sometimes that's enough
-
 Dustin Kirkland wrote a very nice piece entitled [Fingerprints are Usernames, not Passwords](http://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html). He is pretty much correct about using biometrics as an authentication mechanism. It’s a bad idea in terms of security.
 
 What annoys me about the whole biometrics conversation though is that it pretty much misses the point completely. What is happening in the discussion is that on the one hand you have the biometrics industry, pushing biometrics as a solution for all kinds of security problems, and on the other hand security experts, and other smart people like Dustin, dispute that biometrics are inherently insecure. The core problem though is that security is a matter of definition.

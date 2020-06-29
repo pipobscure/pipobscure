@@ -4,8 +4,6 @@ title: I can't believe how true this is.
 date: 2014-07-04 07:01:16 Z
 tags: []
 ---
-# I can't believe how true this is.
-
 [sir-interesting-shockleton](http://sir-interesting-shockleton.tumblr.com/post/75946650618/i-cant-believe-how-true-this-is):
 
 > [mreddiefercury](http://mreddiefercury.tumblr.com/post/11152322607/tumblr-vs-facebook-queen-edition):

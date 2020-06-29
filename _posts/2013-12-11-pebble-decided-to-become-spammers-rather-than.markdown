@@ -6,8 +6,6 @@ tags:
   - spam
   - pebble
 ---
-# Pebble decided to become spammers rather than makers
-
 ![](https://66.media.tumblr.com/583dcf2126c4cfe4409bbc4c60dcbbe5/tumblr_inline_pk5igcxkPx1snpcgy_540.png)
 
 I have just received an e-mail from [Pebble](https://getpebble.com) (their Pebble-Info list) and am really disappointed in them as a company.

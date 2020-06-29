@@ -5,8 +5,6 @@ title: Things to remember when you want to say "no," assert yourself, and ask
 date: 2014-03-22 08:48:17 Z
 tags: []
 ---
-# Things to remember when you want to say "no," assert yourself, and ask for what you want
-
 [thelesbianborderline](http://thelesbianborderline.tumblr.com/post/61846727995/things-to-remember-when-you-want-to-say-no-assert):
 
 > 1.  If I say “no” to someone and they get angry, this does not mean I should have said “yes.”

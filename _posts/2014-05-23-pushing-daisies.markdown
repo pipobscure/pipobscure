@@ -4,8 +4,6 @@ title: Pushing Daisies
 date: 2014-05-23 11:02:48 Z
 tags: []
 ---
-# Pushing Daisies
-
 I just discovered an awesome new TV series thanks to tumblr.
 
 I mean any series that contains the statement:

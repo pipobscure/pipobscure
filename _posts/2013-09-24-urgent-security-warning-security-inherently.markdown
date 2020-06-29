@@ -5,8 +5,6 @@ date: 2013-09-24 16:39:14 Z
 tags:
   - security
 ---
-# Urgent Security Warning: security inherently insecure
-
 A lot of the media seem to be appalled that there is a [way around the iPhone-5S fingerprint scanner](http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid). It gets a lot of media play, but for all the wrong reasons. The CCC did a pretty good job explaining their aim:
 
 > “We hope that this finally puts to rest the illusions people have about fingerprint biometrics. It is plain stupid to use something that you can´t change and that you leave everywhere every day as a security token”, said Frank Rieger, spokesperson of the CCC. “The public should no longer be fooled by the biometrics industry with false security claims.”

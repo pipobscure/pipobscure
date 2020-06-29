@@ -7,8 +7,6 @@ tags:
   - blogging
   - wordpress
 ---
-# Ghost: D.o.A. (i hope)
-
 [Ghost](https://ghost.org) touts itself as “just a blogging platform” and that’s a good thing. When I heard the announcement at the beginning of the year, I was psyched. Finally something a bit more sensible to replace Wordpress. And then Ghost was released.
 
 [![Beware of the Ghost!](http://farm4.staticflickr.com/3534/3916626559_ed021e944c_z.jpg)](http://www.flickr.com/photos/klearchos/3916626559/ "Beware of the Ghost! by Klearchos Kapoutsis, on Flickr")

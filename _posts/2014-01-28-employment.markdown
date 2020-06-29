@@ -4,8 +4,6 @@ title: Employment…
 date: 2014-01-28 22:25:40 Z
 tags: []
 ---
-# Employment…
-
 …the thing I no longer have.
 
 Well, it is the end of an era for me. I have been working on [this price comparison site](https://durchblicker.at) for the last four years. From today on that is no longer the case. The company now has different needs: development of new features and technological mastery is now no longer the main focus. Now it needs more of an IT manager.

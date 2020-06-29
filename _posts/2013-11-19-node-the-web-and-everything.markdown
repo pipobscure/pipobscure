@@ -8,8 +8,6 @@ tags:
   - node
   - scale
 ---
-# Node, the Web and everything
-
 Over the years, I have often heard/read the same question, or type of question: Should I use X or Y for my web app scale. X and Y are of course nifty databases, or framework thingamagics or the like. And then there would inevitably be two camps arguing the pros and cons and an original questioner none the wiser.
 
 After being in this space for decades (yes I was doing this before the first .com bubble) I learned something important, that I want to share today:

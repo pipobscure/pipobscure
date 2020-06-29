@@ -4,8 +4,6 @@ title: Some old books have hidden messages on the edge of their pages.
 date: 2014-06-04 13:24:36 Z
 tags: []
 ---
-# Some old books have hidden messages on the edge of their pages.
-
 [didyouknowblog2](http://didyouknowblog.net/post/86754236631/some-old-books-have-hidden-messages-on-the-edge-of):
 
 > ![image](https://66.media.tumblr.com/823fe37e1cd541ca774a53245d6c0aca/tumblr_inline_plnjkaGEZr1snpcgy_540.jpg)

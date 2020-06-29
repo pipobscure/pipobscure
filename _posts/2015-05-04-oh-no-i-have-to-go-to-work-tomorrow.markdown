@@ -4,8 +4,6 @@ title: Oh no I have to go to work tomorrow...
 date: 2015-05-04 13:06:05 Z
 tags: []
 ---
-# Oh no I have to go to work tomorrow...
-
 … is something I hear over and over again. And truth be told I don’t get it. If that’s your attitude to work, how do you expect anything good to ever come of it?
 
 Let me tell you something, the single thing, that all successful people have in common: they all like what they are doing.

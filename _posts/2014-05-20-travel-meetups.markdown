@@ -4,8 +4,6 @@ title: Travel Meetups
 date: 2014-05-20 18:44:00 Z
 tags: []
 ---
-# Travel Meetups
-
 Hi all,
 
 I will be in:

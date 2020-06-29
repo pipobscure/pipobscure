@@ -4,8 +4,6 @@ title: "\"I'm not a parent, but…\""
 date: 2015-06-04 21:18:43 Z
 tags: []
 ---
-# "I'm not a parent, but…"
-
 [dogwithsharperteeth](http://dogwithsharperteeth.tumblr.com/post/120721854666/im-not-a-parent-but):
 
 > I am so damn tired of seeing these kinds of comments/articles/whatever. If you’re not a parent, you are indeed allowed to have opinions, but seriously, nobody cares. Certainly not those of us with real life, flesh and blood children.

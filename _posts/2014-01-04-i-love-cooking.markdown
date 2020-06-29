@@ -4,8 +4,6 @@ title: I love cooking, …
 date: 2014-01-04 12:36:27 Z
 tags: []
 ---
-# I love cooking, …
-
 … problem is, most recipes are designed for four people. It’s no problem to alter a recipe, once you have made it a few times, but until then.
 
 Thing is, it’s not enough to simply divide the ingredients by 4. I mean what the heck is ¼ dash of salt? Also a lot of things like gratins go into the oven in a form. Yeah you can take a smaller form, but that also means less depth and less surface area. So for some things that can throw off your oven time by like 100%. For other things it doesn’t change timing, because it actually just needs time.

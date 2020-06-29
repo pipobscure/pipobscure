@@ -4,8 +4,6 @@ title: "Temporary E-Mail Addresses: The how and why"
 date: 2014-03-31 08:54:00 Z
 tags: []
 ---
-# Temporary E-Mail Addresses: The how and why
-
 I recently offered someone at the other end of the world coffee. After all: friends don’t let friends drink bad coffee. Since that person is on the other end of the world, I was thinking Starbucks gift card. Well they do that, except they need an email address to send the voucher to.
 
 So at that point I asked for their email address. I had no interest in actually getting their email address. I don’t really know them after all, but I do enjoy their blog and wanted to send them a gift card.

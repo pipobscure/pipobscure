@@ -5,9 +5,7 @@ date: 2013-10-23 15:31:31 Z
 tags:
   - yahoo
 ---
-# A month with Yahoo!
-
- [![Yahoo!](http://farm1.staticflickr.com/152/433215253_af217cf22e_z.jpg) Yahoo! by eric hayes, on Flickr](http://www.flickr.com/photos/erichayes/433215253/ "Yahoo! by eric hayes, on Flickr")
+[![Yahoo!](http://farm1.staticflickr.com/152/433215253_af217cf22e_z.jpg) Yahoo! by eric hayes, on Flickr](http://www.flickr.com/photos/erichayes/433215253/ "Yahoo! by eric hayes, on Flickr")
 
 About a month ago I wrote my first post here entitled [Giving Yahoo! another shot](http://pipobscure.com/post/61989115473/giving-yahoo-another-shot). Now it’s time to look back over the last month and record an update of how it went.
 

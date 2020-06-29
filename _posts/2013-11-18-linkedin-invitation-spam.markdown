@@ -5,8 +5,6 @@ date: 2013-11-18 12:54:00 Z
 tags:
   - linkedin
 ---
-# LinkedIn Invitation Spam
-
 Dear LinkedIn,
 
 it’s bad enough if someone I barely know wants me to join your totally overrated site and hands you my e-mail address for that purpose. I am punishing people who do so on my own, but if you then keep sending me reminders of this, it’s you being obnoxious.

@@ -4,8 +4,6 @@ title: Reblog if you are
 date: 2014-01-23 12:34:28 Z
 tags: []
 ---
-# Reblog if you are
-
 [balambwanderer](http://balambwanderer.tumblr.com/post/74202263936/reblog-if-you-are):
 
 > [florence-lana-marina](http://florence-lana-marina.tumblr.com/post/74174959029/reblog-if-you-are):

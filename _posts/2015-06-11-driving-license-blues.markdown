@@ -4,8 +4,6 @@ title: Driving License Blues
 date: 2015-06-11 14:36:55 Z
 tags: []
 ---
-# Driving License Blues
-
 I just found out that my driving license will no longer be valid in Britain after August 9th because back in 1994 I took my driving test in the U.S.
 
 So I’ll have to go and take the theoretical and practical exam and get a British license.

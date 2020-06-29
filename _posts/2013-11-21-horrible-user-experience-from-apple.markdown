@@ -8,8 +8,6 @@ tags:
   - life
   - tech
 ---
-# Horrible User Experience from Apple
-
 I love my iPhone and rely on it for many many things in my life. Because of this it pains me when a truly horrible iPhone user experience comes my way where i have to ask myself: “How did this ever get pas QA?”
 
 In iOS there is this neat feature called “Do Not Disturb”. I love it and it makes life so much nicer. It basically turns of all those bleeps and bluprs off, so that you are not disturbed.

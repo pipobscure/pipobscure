@@ -4,8 +4,6 @@ title: Ridiculously Easy.
 date: 2016-12-21 09:30:17 Z
 tags: []
 ---
-# Ridiculously Easy.
-
 [sugarforsalt](https://sugarforsalt.tumblr.com/post/154628513144/ridiculously-easy):
 
 > [2x2verse](http://2x2verse.tumblr.com/post/146141505205):

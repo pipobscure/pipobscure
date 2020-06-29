@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "> ### [\\- lol rofl wtf pics"
-date: 2013-12-30 23:36:59 Z
+title: "> ##date: 2013-12-30 23:36:59 Z
 tags: []
 ---
 ![](/media/2013/12/71685008060.jpg)
@@ -14,4 +13,4 @@ tags: []
 > 
 >   
 > 
-> ### [\- lol rofl wtf pics](http://bit.ly/1baRfpl)
+> ##

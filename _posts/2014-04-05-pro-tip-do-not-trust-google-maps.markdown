@@ -4,8 +4,6 @@ title: "Pro Tip: Do Not Trust Google Maps"
 date: 2014-04-05 12:51:53 Z
 tags: []
 ---
-# Pro Tip: Do Not Trust Google Maps
-
 About a year and a half ago I used GoogleMaps and got led to turn left the wrong way on a major thoroughfare. Well I didn’t blame Google, after all what did I expect.
 
 What I did instead is report the problem. I marked it, described the precise issue and jumped through all their hoops. In the end I was notified that my input was now part of Google Maps. YIPPEEH!!!

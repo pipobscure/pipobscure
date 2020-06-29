@@ -4,8 +4,6 @@ title: Atheist are too smart to get caught killing
 date: 2014-01-07 21:51:47 Z
 tags: []
 ---
-# Atheist are too smart to get caught killing
-
 According to a [speech by Phil Zimmerman](http://ffrf.org/publications/freethought-today/item/13467-the-goodness-of-godlessness)
 
 > \[Atheists\] are better educated and maybe even a little bit smarter.

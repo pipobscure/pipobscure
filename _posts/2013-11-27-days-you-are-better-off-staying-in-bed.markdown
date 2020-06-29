@@ -6,8 +6,6 @@ tags:
   - news
   - first world problems
 ---
-# Days you are better off staying in bed
-
 yesterday was definitely one of those. First a totally unproductive day where the height of achievement was checking on other peoples work. Then a tough evening meeting until like 5:30
 
 As if that were not enough, and I not down enough, I go by Starbucks on my way to the station, and they totally mess up my (espresso doppio con panna) by just adding extra milk. Like what’s with that?

@@ -4,8 +4,6 @@ title: Women in groups mean we failed
 date: 2013-10-14 00:04:00 Z
 tags: []
 ---
-# Women in groups mean we failed
-
 After I read [@maxogden’s tweet](https://twitter.com/maxogden/status/389081519009972224) I was debating whether I really wanted to respond. Especially because this [cartoon about these conversations](http://www.robot-hugs.com/but-men/) (thanks @izs for tweet) does have some truth to it.
 
 However, I feel that there is a point that is being missed. We are all human beings first. If we create an environment where another human being feels unwelcome or uncomfortable, or worse threatened, that is a problem. For this to be a problem it does not matter one bit whether that person be female, male, cis-, trans- or whichever label you want to apply. It matters solely that a potential member of our community does not feel welcome.

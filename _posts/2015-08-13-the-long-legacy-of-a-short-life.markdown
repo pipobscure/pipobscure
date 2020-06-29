@@ -4,8 +4,6 @@ title: The long legacy of a short life
 date: 2015-08-13 19:36:49 Z
 tags: []
 ---
-# The long legacy of a short life
-
 [jkottke](http://bonus.kottke.org/post/126598618148/the-long-legacy-of-a-short-life):
 
 > The Rosses were expecting twins but learned that one of the two, Thomas, wouldn’t live much past birth. They decided to donate Thomas’s body to science. And then, they decided to investigate just what it was they had given and how it had helped others. [Great piece by Radiolab](http://www.radiolab.org/story/grays-donation/).

@@ -4,8 +4,6 @@ title: regional differences
 date: 2015-07-14 22:35:56 Z
 tags: []
 ---
-# regional differences
-
 [idiopathicsmile](http://idiopathicsmile.tumblr.com/post/123999966218/regional-differences):
 
 > “oh hey,” she said, “it’s a really touristy area, but since you’re gonna be passing through anyway, you might as well stop by pier 29, see the dragons. also, there’s a—”

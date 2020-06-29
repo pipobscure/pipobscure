@@ -4,8 +4,6 @@ title: Virgin Media Troubles
 date: 2014-08-16 17:37:00 Z
 tags: []
 ---
-# Virgin Media Troubles
-
 Hitting another hitch in moving to London. I went to the Virgin Media shop last weekend to set up my broadband connection. They said: “No problem, here is your modem, just plug it in and activate it. After that everything will work.”
 
 Guess what, it actually worked just the way it was supposed to. At least until today. Today I get an email, that they want to do an installation appointment on the 26th sometime between 8am and 1pm. I called to cancel that, since there is simply no way I can take of a whole day from work just to get an installation done that is completely unnecessary. It’s unnecessary because everything already works.

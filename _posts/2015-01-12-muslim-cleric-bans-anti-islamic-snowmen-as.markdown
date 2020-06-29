@@ -10,8 +10,7 @@ tags: []
 
 > ![](http://msearch.zenfs.com/atomed/3785e5da-9a5c-11e4-bfad-6c3be5be5218.jfif)
 > 
-> #### Odd News
-> 
+> ###> 
 > Muslim cleric bans ‘anti-Islamic’ snowmen as flakes fall in Saudi Arabia
 > ------------------------------------------------------------------------
 > 

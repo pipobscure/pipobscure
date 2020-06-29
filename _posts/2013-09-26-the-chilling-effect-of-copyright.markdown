@@ -6,8 +6,6 @@ tags:
   - copyright
   - patents
 ---
-# The chilling effect of copyright
-
 The Atlantic published an Article titled [The Hole in Our Collective Memory](http://www.theatlantic.com/technology/archive/2013/07/the-hole-in-our-collective-memory-how-copyright-made-mid-century-books-vanish/278209/) at the end of July. The article by [Rebecca Rosen](https://twitter.com/beccarosen) presents a [study about the availability of copyrighted works](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2290181) from different decades.
 
 According to the article the study comes to the conclusion, that copyright law causes books that are still under copyright protection to be more likely to be out of print than those in the public domain.

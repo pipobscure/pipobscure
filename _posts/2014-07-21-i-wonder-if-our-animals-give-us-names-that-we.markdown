@@ -4,8 +4,6 @@ title: I wonder if our animals give us names that we don't know about
 date: 2014-07-21 03:01:03 Z
 tags: []
 ---
-# I wonder if our animals give us names that we don't know about
-
 [onceuponawholockfannibal](http://onceuponawholockfannibal.tumblr.com/post/90469439678/i-wonder-if-our-animals-give-us-names-that-we-dont):
 
 > [theotheristhedoctor](http://theotheristhedoctor.tumblr.com/post/90449726796/i-wonder-if-our-animals-give-us-names-that-we-dont):

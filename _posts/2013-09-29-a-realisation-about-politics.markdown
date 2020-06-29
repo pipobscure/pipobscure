@@ -4,8 +4,6 @@ title: A realisation about politics
 date: 2013-09-29 19:22:42 Z
 tags: []
 ---
-# A realisation about politics
-
 when Carl von Clausewitz (1780-1831) said:
 
 > War is the continuation of politics by other means.

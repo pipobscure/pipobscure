@@ -4,8 +4,6 @@ title: tolerance vs. acceptance
 date: 2015-11-30 22:04:03 Z
 tags: []
 ---
-# tolerance vs. acceptance
-
 Maybe it is time to reacquaint ourselves with the definitions of some words.
 
 [tolerance](http://www.oxforddictionaries.com/definition/english/tolerance) (noun)

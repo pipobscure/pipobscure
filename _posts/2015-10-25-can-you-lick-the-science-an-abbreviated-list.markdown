@@ -4,8 +4,6 @@ title: Can you lick the science? An abbreviated list.
 date: 2015-10-25 17:51:11 Z
 tags: []
 ---
-# Can you lick the science? An abbreviated list.
-
 [small-home-repair-vikings](http://small-home-repair-vikings.tumblr.com/post/130954920456):
 
 > [spooky-son-of-rome](http://spooky-son-of-rome.tumblr.com/post/130954328260):

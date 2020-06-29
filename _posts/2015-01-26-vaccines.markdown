@@ -4,8 +4,6 @@ title: Vaccines
 date: 2015-01-26 22:32:29 Z
 tags: []
 ---
-# Vaccines
-
 I think requiring a certificate of vaccination (or certificate that vaccination is medically counter indicated) to enter places such as amusement parks, public transport, sports arenas, theatres, shopping centres and the like would be entirely justified and reasonable.
 
 Of course you can choose to not get vaccinated, but the consequence is that this choice also means you choose not to enter areas where other humans congregate.

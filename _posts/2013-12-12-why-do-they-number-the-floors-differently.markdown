@@ -4,8 +4,6 @@ title: Why do they number the floors differently?
 date: 2013-12-12 21:51:37 Z
 tags: []
 ---
-# Why do they number the floors differently?
-
 [![hotel elevator](http://farm1.staticflickr.com/21/30258899_1b2147b51b_z.jpg)](http://www.flickr.com/photos/derb/30258899/ "hotel elevator by D & D, on Flickr")
 
 I’m hanging out in Budapest for the weekend. While in the hotel elevator, I overheard this American couple asking the same stupid question that every American that leaves her country for the first time asks:

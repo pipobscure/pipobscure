@@ -4,8 +4,6 @@ title: The joys of a moving Sunday
 date: 2014-08-17 09:43:54 Z
 tags: []
 ---
-# The joys of a moving Sunday
-
 After getting the Virgin Media stuff sorted, today is going to be painfully busy. First there is a whole lot of shopping to do …
 
 *   Bath Mats

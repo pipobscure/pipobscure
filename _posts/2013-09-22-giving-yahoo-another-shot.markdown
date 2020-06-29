@@ -4,8 +4,6 @@ title: Giving Yahoo! another shot
 date: 2013-09-22 19:51:00 Z
 tags: []
 ---
-# Giving Yahoo! another shot
-
 I recently met @davglass at NodeConf.eu.
 
 …

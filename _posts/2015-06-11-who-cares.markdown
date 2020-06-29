@@ -4,5 +4,3 @@ title: Who cares
 date: 2015-06-11 18:13:24 Z
 tags: []
 ---
-# Who cares
-

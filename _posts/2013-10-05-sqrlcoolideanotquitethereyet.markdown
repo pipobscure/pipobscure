@@ -4,8 +4,6 @@ title: sqrl://cool.idea/not/quite/there/yet
 date: 2013-10-05 16:31:40 Z
 tags: []
 ---
-# sqrl://cool.idea/not/quite/there/yet
-
 Today I looked at a very cool idea, by a very cool guy. [Steve Gibson](https://twitter.com/sggrc) came up with [a way to securely authenticate](https://www.grc.com/sqrl/sqrl.htm) over the web.
 
 He describes his idea quite eloquently and invites everyone to have a discussion about it; to prod and poke at it; to test it for soundness. While I find the idea quite brilliant, I do have a couple of issues, that make it a no go for me in terms of becoming the future standard for web-authentication:

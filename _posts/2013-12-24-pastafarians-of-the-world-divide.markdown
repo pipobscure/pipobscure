@@ -7,8 +7,6 @@ tags:
   - low-carb
   - humour
 ---
-# Pastafarians of the world divide!
-
 Pastafarians of the world, how can you expect your religion to be taken seriously or even seriously unseriously or even at all? Ever religion worth its salt needs to have at least two, better more, sects!
 
 [![the gospel...](http://farm1.staticflickr.com/34/96691107_63f2be0b17.jpg)](http://www.flickr.com/photos/workinpana/96691107/ "the gospel... by workinpana, on Flickr")

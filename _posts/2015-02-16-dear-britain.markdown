@@ -4,8 +4,6 @@ title: Dear Britain,
 date: 2015-02-16 09:18:21 Z
 tags: []
 ---
-# Dear Britain,
-
 I want to tell you a story; a joke really. A joke that has turned sour in our collective mouths. You see I’m from Austria. My grandfather told me this joke when I was younger and it stuck with me. It’s a joke that is quite dated as it stems from my grandfather’s youth in the 1920s and 1930s.
 
 > **Teacher:** Class, can you name three of the most important scientists and cultural luminaries of Austria?  

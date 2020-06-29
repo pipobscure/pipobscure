@@ -6,8 +6,6 @@ tags:
   - posture
   - confidence
 ---
-# An experiment in posture
-
 [![Posture!](http://farm4.staticflickr.com/3126/2634700955_b4f25dcd9e_z.jpg)](http://www.flickr.com/photos/carbonnyc/2634700955/ "Posture! by CarbonNYC, on Flickr")
 
 Over the last few days I have done an experiment. The basic premise was that the way you hold your body directly impacts how people react to you. If that is true, then any change, conscious or not to your bearing should alter the reaction of the world at large towards you.

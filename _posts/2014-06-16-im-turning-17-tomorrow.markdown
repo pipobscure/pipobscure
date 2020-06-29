@@ -4,8 +4,6 @@ title: I'm turning 17 tomorrow!!!!
 date: 2014-06-16 13:37:23 Z
 tags: []
 ---
-# I'm turning 17 tomorrow!!!!
-
 [kirstyintheskywithbutter](http://kirstyintheskywithbutter.tumblr.com/post/88955466909/im-turning-17-tomorrow):
 
 > [successful-rosi](http://successful-rosi.tumblr.com/post/88955358157/im-turning-17-tomorrow):

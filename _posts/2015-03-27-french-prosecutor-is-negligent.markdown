@@ -4,8 +4,6 @@ title: French Prosecutor is Negligent
 date: 2015-03-27 21:40:04 Z
 tags: []
 ---
-# French Prosecutor is Negligent
-
 We have all heard the recent news of the Germanwings aeroplane that crashed into the French alps. A tragedy that cost 150 lives and seems more than just senseless. Something like this is incredibly hard to investigate and to draw valid conclusions from. And the French prosecutor Brice Robin has made it even harder.
 
 While it’s entirely possible that Andreas Lubitz did in fact willfully crash a plane full of people into a mountain, there are actually a number of alternative explanations (even without descending into conspiracy theories) for what happened.

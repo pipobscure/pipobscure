@@ -5,8 +5,6 @@ date: 2013-10-18 16:31:05 Z
 tags:
   - distributed team
 ---
-# Distributed Startups
-
 Shanley wrote an interesting article on [Downfalls of Distributed Startups](https://medium.com/about-work/c0715b8a7c93). I have done distributed and I am currently doing all in one place. There are problems with either and the debate around distributed teams is finally getting to a point where it gets from fanboyism to an actual intellectual debate.
 
 [![Team meeting](http://farm2.staticflickr.com/1020/1306860597_d3efab1073_n.jpg)  
