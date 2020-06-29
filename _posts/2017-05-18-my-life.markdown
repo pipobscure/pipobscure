@@ -1,0 +1,8 @@
+---
+layout: post
+title: My life!
+date: 2017-05-18 13:00:52 Z
+tags: []
+---
+![](/media/2017/05/160801993196.jpg)
+My life!

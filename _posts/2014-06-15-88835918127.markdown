@@ -1,0 +1,8 @@
+---
+layout: post
+title: Video 2014-06-15 07:01:33
+date: 2014-06-15 07:01:33 Z
+tags: []
+---
+<video autoplay="autoplay" controls="controls"><source src="http://youtu.be/tTpCUAK4ypA"></video>
+

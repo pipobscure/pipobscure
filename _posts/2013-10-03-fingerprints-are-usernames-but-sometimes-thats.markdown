@@ -1,0 +1,27 @@
+---
+layout: post
+title: Fingerprints are usernames, but sometimes that's enough
+date: 2013-10-03 16:31:28 Z
+tags: []
+---
+# Fingerprints are usernames, but sometimes that's enough
+
+Dustin Kirkland wrote a very nice piece entitled [Fingerprints are Usernames, not Passwords](http://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html). He is pretty much correct about using biometrics as an authentication mechanism. It’s a bad idea in terms of security.
+
+What annoys me about the whole biometrics conversation though is that it pretty much misses the point completely. What is happening in the discussion is that on the one hand you have the biometrics industry, pushing biometrics as a solution for all kinds of security problems, and on the other hand security experts, and other smart people like Dustin, dispute that biometrics are inherently insecure. The core problem though is that security is a matter of definition.
+
+Let’s think about security in terms of the physical world. How do we secure our homes. We have locks, that can easily be picked; windows that shatter at the toss of a stone; doors that will not resist the boot of a determined intruder. And yet we are satisfied with the security provided by these measures.
+
+Thinking now in terms of IT systems, especially phones; Fingerprints are obviously insufficient security for the proverbial nuclear launch-codes. But then so are dinky locks insufficient for Fort-Knox.
+
+Are fingerprints sufficient for my smartphone though? Well that kind of depends on the information stored in there. For most of it, a fingerprint is enough. Just like a regular door and lock are sufficient for most parts of my house. But then there are small pieces of information, that may need to be on my phone secured by additional means, just like I have a safe at my house to better protect especially valuable items.
+
+You see, it really is a matter of degrees. For the most part, securing a phone, or laptop with a fingerprint is ok; it’s a sufficient deterrent to the casual intruder.
+
+And then there are pieces of data, that are a bit more sensitive. Those I’ll have to protect in addition to the regular access control. Passwords might be a good choice for a lot of that. However passwords aren’t all that great a solution either. They really are too weak for real security.
+
+If the proverbial nuclear launch-codes were protected with a simple password system, I’d be really scared. Nope, they are protected by multi-factor systems. For really sensitive data, that is a must.
+
+So security really is a matter of degrees; a matter of what needs to be secured and against what threats.
+
+And that’s why I’m so annoyed at the simplistic conversation going on about biometrics in security. To really provide us with good security, we will need to think about security much more in detail.

@@ -1,0 +1,23 @@
+---
+layout: post
+title: noelanilalin southernlist
+date: 2015-02-07 10:52:05 Z
+tags: []
+---
+[noelanilalin](http://noelanilalin.tumblr.com/post/93015706444/southernlist-cloudcuckoolander527):
+
+> [southernlist](http://southernlist.tumblr.com/post/92964246656/cloudcuckoolander527-tokilladm-what-if):
+> 
+> > [cloudcuckoolander527](http://cloudcuckoolander527.tumblr.com/post/57766462056/tokilladm-what-if-colleges-only-made-you-pay):
+> > 
+> > > [tokilladm](http://tokilladm.tumblr.com/post/57320097951/what-if-colleges-only-made-you-pay-the-percentage):
+> > > 
+> > > > What if colleges only made you pay the percentage of tuition that you failed, so if you got an average of 86 for the year you’d only have to pay 14% of the tuition, but if you got a 94 then it’d only be 6%. That way we’d be rewarding the success and even if you flunked the semester, you still wouldn’t have to pay for ALL of the tuition
+> > > 
+> > > You are the future. 
+> > 
+> > Please run for president
+> 
+> that would actually be amazing
+
+That would actually be really bad, because they need that money. So they would then have an interest in you failing. You can bet that they would instruct the professors to grade in such a way that only the very top would even get 60%. In addition they would raise tuition by 200% to make up the difference, except that means a lot of people could not take the risk of getting a bad grade, because that would be expensive. So then you’d just take classes you are already good at, because you’d get good grades without hassle rather than classes that teach something new, because those are risky. Imagine finding out you suck at something. That 20% grade is going to really ruin you summer, because in addition to making it up you’ll need a really well paying summer job to pay off that class. So you see this might not be that great an idea after all.

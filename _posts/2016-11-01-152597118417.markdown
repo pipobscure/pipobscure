@@ -1,0 +1,8 @@
+---
+layout: post
+title: Video 2016-11-01 14:00:38
+date: 2016-11-01 14:00:38 Z
+tags: []
+---
+<video autoplay="autoplay" controls="controls"><source src="https://vine.co/v/e0nKLwDurXn"></video>
+

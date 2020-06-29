@@ -1,0 +1,6 @@
+---
+layout: post
+title: the talk
+date: 2014-05-20 20:14:00 Z
+tags: []
+---

@@ -1,0 +1,12 @@
+---
+layout: post
+title: im coming to london on the 9th of december till
+date: 2015-10-04 20:31:10 Z
+tags: []
+---
+*Question: *I'm coming to London on the 9th of December till the 12th, will there be very many festive things I could check out ?! Shops decorated really nicely or any sort of recommendations ? Xx
+
+*Answer: *Definitely! You must take a trip to Winter Wonderland (go in the afternoon and stay until near closing) - it’s pretty wonderful. You should also go skating at one of the pop-up skating rinks that are in place purely for the festive season. I recommend the ones at the Natural History Museum (though it’s pretty small), Somerset House (stunning location) and, of course, the one at Winter Wonderland too! You should also take a stroll along Oxford Street and Regent Street to see the Xmas lights and then head to Trafalgar Square to see the Norwegian Xmas tree which is given to London by Oslo every single year since 1947 for our support during WWII. It’s spectacular!
+
+I hope you have a great time visiting London. Happy holidays! Xo
+
