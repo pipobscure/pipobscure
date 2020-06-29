@@ -10,10 +10,6 @@ collections:
     output: true
 description: Personal Site of Philipp Dunkel
 plugins:
-- jekyll-paginate
-highlighter: pygments
+  - jekyll-paginate
+highlighter: rouge
 paginate: 20
-markdown: rdiscount
-rdiscount:
-  extensions:
-  - smart
