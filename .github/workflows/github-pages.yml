@@ -6,11 +6,22 @@ on:
       - siteleaf
 
 jobs:
-  github-pages:
-    runs-on: ubuntu-16.04
+  rende-pages:
+    runs-on: ubuntu-16.04 # can change this to ubuntu-latest if you prefer
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@2.0.1
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-          GITHUB_REPOSITORY: pipobscure/pipobscure.github.io
+      - name: 📂 setup
+        uses: actions/checkout@v2
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6 # can change this to 2.7 or whatever version you prefer
+      - name: 🔨 install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.JEKYLL_PAT }}
+          publish_dir: ./_site
+          publish_branch: master
