@@ -13,3 +13,8 @@ plugins:
   - jekyll-paginate
 highlighter: rouge
 paginate: 20
+paginate_path: "blog/page:num"
+exclude:
+  - .gitignore
+  - Gemfile
+  - README.md
