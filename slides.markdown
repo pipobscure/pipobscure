@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Slide Decks
 date: 2020-06-28 23:42:00 Z
 ---

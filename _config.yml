@@ -10,11 +10,25 @@ collections:
     output: true
 description: Personal Site of Philipp Dunkel
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
 highlighter: rouge
-paginate: 20
-paginate_path: "blog/page:num"
 exclude:
   - .gitignore
   - Gemfile
   - README.md
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num.html' # Pages are html files, linked jekyll extensionless permalink style.
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  trail: 
+      before: 2
+      after: 2
+  indexpage: 'index'
+  
