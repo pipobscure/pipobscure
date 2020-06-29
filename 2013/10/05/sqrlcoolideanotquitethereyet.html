@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>sqrl://cool.idea/not/quite/there/yet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="http://fonts.googleapis.com/css?family=Playball" rel="stylesheet"/>
+    <link href="/assets/css/jekyllthemes.css" rel="stylesheet" />
+    <link href="/assets/css/syntax.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header id="header">
+      <div class="wrap">
+        <h1 id="logo"><a href="/">pipobscure.dev</a></h1>
+      </div>
+    </header>
+    <div id="pagecontainer" class="container">
+      <div id="content"><div id="post" class="container">
+    <h1>sqrl://cool.idea/not/quite/there/yet</h1>
+    <div class="post-content">
+        <h1 id="sqrlcoolideanotquitethereyet">sqrl://cool.idea/not/quite/there/yet</h1>
+
+<p>Today I looked at a very cool idea, by a very cool guy. <a href="https://twitter.com/sggrc">Steve Gibson</a> came up with <a href="https://www.grc.com/sqrl/sqrl.htm">a way to securely authenticate</a> over the web.</p>
+
+<p>He describes his idea quite eloquently and invites everyone to have a discussion about it; to prod and poke at it; to test it for soundness. While I find the idea quite brilliant, I do have a couple of issues, that make it a no go for me in terms of becoming the future standard for web-authentication:</p>
+
+<ol>
+  <li>
+    <p><em>URL-Specificity:</em> requiring the thing to use https:// or http:// or whatever is not a good idea. Who knows what protocol we will all be using a couple of years from now. SQRL should be possible over <a href="https://www.grc.com/x/news.exe?cmd=article&amp;group=grc.sqrl&amp;item=193">carrier pigeon</a></p>
+  </li>
+  <li>
+    <p><em>Algorithm-Specificity:</em> requiring the thing to use <a href="http://ed25519.cr.yp.to/index.html">ed25519</a> is silly. It’s not ubiquitous enough, to make it easy for websites to implement, nor can we be sure that it will remain strong long enough. The algorithm needs to be negotiable for this to become standard.</p>
+  </li>
+  <li>
+    <p><em>QR-Codes:</em> are already an outdated technology. It might be ok as one way to represent the URL to be encrypted right now, but it will be obsolete before it has even gained adoption.</p>
+  </li>
+</ol>
+
+<p>This is sad, because the fundamental idea is very good:</p>
+
+<ol>
+  <li>have a site present a nonce and a URL where to send authentication</li>
+  <li>derive from that and a master-key a site unique private/public key-pair</li>
+  <li>sign the nonce and the URL and send the result with the public key to the endpoint specified</li>
+  <li>the public key is the unique identifier of the user</li>
+</ol>
+
+<p>All of that is sound. Even the suggested user experience is good, especially when combined with a browser plugin as suggested in <a href="http://twit.tv/show/security-now/424">Security Now: 424</a>. What is definitely not sound is the description of the protocol.</p>
+
+<p>I have to note though that it’s early days yet. Not just is the current state not a full suggestion of a protocol, it’s not even a fully fleshed out idea yet, which you can see by the plethora of missing/to-be-done pages on <a href="https://www.grc.com">grc.com</a>.</p>
+
+<p>So for now, it’s <strong>kudos to @sggrc</strong>, let’s work on getting this thing specified and fleshed out. It’s important to make sure this get’s done well, after all we don’t want to create an incompatibility nightmare here.</p>
+
+    </div>
+</div></div>
+    </div>
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="span6 copyright">
+            Copyright &copy; 2020 Philipp Dunkel.
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

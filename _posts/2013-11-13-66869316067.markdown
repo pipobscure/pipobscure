@@ -1,8 +1,0 @@
----
-layout: post
-title: Photo 2013-11-13 13:04:05
-date: 2013-11-13 13:04:05 Z
-tags:
-  - true that
----
-![](/media/2013/11/66869316067.png)

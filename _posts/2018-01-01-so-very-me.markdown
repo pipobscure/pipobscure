@@ -1,8 +1,0 @@
----
-layout: post
-title: So very me!
-date: 2018-01-01 13:35:00 Z
-tags: []
----
-![](/media/2018/01/169183837544.jpg)
-So very me!

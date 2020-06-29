@@ -1,6 +1,0 @@
----
-layout: post
-title: entitled
-date: 2014-05-17 14:01:38 Z
-tags: []
----

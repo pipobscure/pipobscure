@@ -1,8 +1,0 @@
----
-layout: post
-title: Video 2015-08-18 20:48:13
-date: 2015-08-18 20:48:13 Z
-tags: []
----
-<video autoplay="autoplay" controls="controls"><source src="https://vimeo.com/136606856"></video>
-

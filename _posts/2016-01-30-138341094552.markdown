@@ -1,8 +1,0 @@
----
-layout: post
-title: Video 2016-01-30 13:55:27
-date: 2016-01-30 13:55:27 Z
-tags: []
----
-<video autoplay="autoplay" controls="controls"><source src="http://youtu.be/K7cFXSDN\_5k"></video>
-

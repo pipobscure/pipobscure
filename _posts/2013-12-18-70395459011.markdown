@@ -1,6 +1,0 @@
----
-layout: post
-title: Postcard 2013-12-18 15:51:47
-date: 2013-12-18 15:51:47 Z
-tags: []
----

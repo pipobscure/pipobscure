@@ -1,8 +1,0 @@
----
-layout: post
-title: Video 2018-07-10 20:31:06
-date: 2018-07-10 20:31:06 Z
-tags: []
----
-<video autoplay="autoplay" controls="controls"><source src="https://youtu.be/BkvEp\_B5Kq8"></video>
-

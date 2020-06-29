@@ -1,6 +1,0 @@
----
-layout: post
-title: Video 2014-06-05 03:48:29
-date: 2014-06-05 03:48:29 Z
-tags: []
----

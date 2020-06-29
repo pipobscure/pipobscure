@@ -1,8 +1,0 @@
----
-layout: post
-title: Photo 2013-11-17 13:06:15
-date: 2013-11-17 13:06:15 Z
-tags:
-  - religion
----
-![](/media/2013/11/67252169036.jpg)
