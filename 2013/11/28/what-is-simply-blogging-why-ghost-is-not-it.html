@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>What is Simply blogging: why Ghost is not it</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="http://fonts.googleapis.com/css?family=Playball"
+      rel="stylesheet"
+    />
+    <link href="/assets/css/jekyllthemes.css" rel="stylesheet" />
+    <link href="/assets/css/syntax.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header id="header">
+      <div class="wrap">
+        <h1 id="logo"><a href="/">pipobscure.dev</a></h1>
+      </div>
+    </header>
+    <div id="pagecontainer" class="container">
+      <div id="content"><div id="post" class="container">
+    <div class="postthumb"><img src="/thumbnails/" /></div>
+    <h1>What is Simply blogging: why Ghost is not it</h1>
+    <div class="meta clearfix">
+        <strong>Author:</strong>  <br /><br />    
+    </div>
+    <div class="post-content">
+        <!-- <h1 id="what-is-simply-blogging-why-ghost-is-not-it">What is Simply blogging: why Ghost is not it</h1>
+
+<p>A bit ago I wrote <a href="http://pipobscure.com/post/67252014534/ghost-d-o-a-i-hope">a post about Ghost</a> in which I made the claim that they had pretty much screwed it up. Of course this presumes that there is a common understanding of what that and “doing it right” means.</p>
+
+<p>I have been doing a lot of thinking about that for a while and have spoken to a few people (read non-tech, blog writers). By now I have come to some conclusions; too many to put into one post :). However a first stab at it would be a good thing.</p>
+
+<p>There are really two distinct facades to the issue:</p>
+
+<ol>
+  <li>The features and capabilities</li>
+  <li>The technical system and its design</li>
+</ol>
+
+<p>The first is really <strong>what</strong> and the second <strong>how</strong>. The what, according to the <a href="http://ghost.org/about/">Ghost About Page</a> is “Just Blogging”. And I take that quite literally. To me that means “authoring blog posts” and that’s it. It means:</p>
+
+<ul>
+  <li>No User-Management</li>
+  <li>No Administration</li>
+  <li>No Media-Management</li>
+  <li>No <em>built in</em> visual frippery (read custom theme engine)</li>
+  <li>Literally <em>nothing that is not directly necessary for authoring posts</em></li>
+</ul>
+
+<p>In fact, there is such a system (almost). It’s tumblr minus the social aspects. If you take tumblr and remove the like and follow features, that’s pretty much it.</p>
+
+<hr />
+
+<p>Now if that is the yard-stick that I measure the meaning of “simply blogging” by then Ghost is <em>close but no cigar</em>. Here are the things Ghost does that are too much:</p>
+
+<ul>
+  <li>User Management / Authentication</li>
+  <li>Visual Frippery</li>
+</ul>
+
+<hr />
+
+<p>From a technical perspective, there are alos ways to build such a system, and ways to avoid. Wordpress is one of the “ways to avoid”. I am certain that the wordpress developers feel a lot of code-shame about a lot of parts of wordpress. The system was originally conceived of by <em>a kid</em> and <em>for fun</em>. Given those origins, wordpress is quite impressive, but years later as adults knowing wordpress you should be able to come up with a better system design.</p>
+
+<p><a href="http://www.wired.co.uk/news/archive/2013-05/10/ghost">Wired wrote</a>:</p>
+
+<blockquote>
+  <p>Ghost aims to reboot blogging…</p>
+</blockquote>
+
+<p>Ghost made many of the same mistakes as wordpress. For one they looked at the problem from the perspective of wordpress and simply said: “that but without the cruft”. They obviously did not think of <em>why is there all this cruft</em>?</p>
+
+<blockquote>
+  <p>Sometimes it’s not a reboot, but a complete system reinstall you need.</p>
+</blockquote>
+
+<p>Let me take a stab at that <em>why is there so much cruft</em>: because the original software lacked a feature that would have prevented someone from using it. In consequence they added the feature. This happened too many times to count. At some point plugins were put conceived, but that just changed the question from “do we put it in” to “do we put it into core or leave it as a plugin”.</p>
+
+<p>In other words people needed a specific feature. Sounds pretty much the atithesis of what Ghost wants. Guess what though: wordpress started out as <em>just blogging</em> as well. It obviously failed at remaining that, and there is no reason to believe that Ghost will fare any better.</p>
+
+<p>So why not turn the question around? Ghost has explicitely decided that comments are not part of “simple blogging”. Luckily there are systems that do “just commenting” out there, so just integrate those. Why not do something similar for the <em>core blogging part</em> as well. Don’t build a system that can take plugins, be a generic blogging plugin.</p>
+
+<p>What would this look like? Well just provide an API that can deal with blog related actions. It does nothing other that create, update, delete and fetch blog posts. When you start it you have to provide it with a method to access storage, and a method to request user information from a credential it was handed. It should also be attachable to some publish/subscribe messaging system, to notify other system parts that an action had taken place. That’s it: no rendering posts, no lists, no commenting, no tags, <em>just blogging</em>.</p>
+
+<p>Then you have a second piece of software that subscribes to post events and provides an api for tagging. It automatically indexes new posts and provides an api to add and remove tags from a post as well as find posts that have a set of tags. That’s it, nothing else.</p>
+
+<p>Then you have a service that listens to post and tag events, and does indexing for full text search. And you could have any number of these services and interconnect them as you want.</p>
+
+<p><em>But how do you read that blog</em> you may ask. Well that really depends. You could have a highly complex website, where the blog post is simply a piece of the whole. That backend could then fetch the article from the Blog-API and render it any way the site wants. You could not publish it on your own at all, but instead submit it to other blogs/micro-blogs. You could simply provide an RSS-Feed. You could be using it as a nicer interface to wordpress for all the software cares. The point is, that the actual display functionality is just another part of interconnected entities.</p>
+
+<p><em>And now you have also built something that will scale</em>. Since you have systems that are not tightly coupled, but can be on may different machines, you can scale horizontally very easily. SQLite is no longer sufficient for your storage needs, simply point your blogging piece at Amazon-S3. you have too many people readin your stuff (as if that was possible), host your site ona. cloud service and attach multiple API servers at the back. You gain total flexibility to do anything you need and it will remain about “just blogging”</p>
+
+<hr />
+
+<p>There are a lot more thoughts and a lot more details that did not make it into this post, but I hope it is sufficient to capture where I think things should be heading.</p>
+
+<p>It’s also a start on explaining why I think Ghost is not the way forward. As much as I love the editing UI. I just think bloggig does not need a reboot, it needs a completely fresh start.</p>
+ -->
+    </div>
+</div></div>
+    </div>
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="span5 copyright">
+            Copyright &copy; 2020 Philipp Dunkel.
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

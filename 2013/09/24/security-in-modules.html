@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Security in Modules</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="http://fonts.googleapis.com/css?family=Playball"
+      rel="stylesheet"
+    />
+    <link href="/assets/css/jekyllthemes.css" rel="stylesheet" />
+    <link href="/assets/css/syntax.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header id="header">
+      <div class="wrap">
+        <h1 id="logo"><a href="/">pipobscure.dev</a></h1>
+      </div>
+    </header>
+    <div id="pagecontainer" class="container">
+      <div id="content"><div id="post" class="container">
+    <div class="postthumb"><img src="/thumbnails/" /></div>
+    <h1>Security in Modules</h1>
+    <div class="meta clearfix">
+        <strong>Author:</strong>  <br /><br />    
+    </div>
+    <div class="post-content">
+        <!-- <h1 id="security-in-modules">Security in Modules</h1>
+
+<p>At NodeConf.eu, there was a great talk by @adam_baldwin on node security and the <a href="https://nodesecurity.io">Node-Security Project</a>. After the talk while watching a bunch of nodecopters crash, I got to talking with Adam about security bugs in modules and the fact that he seems to me to be an incorrigible optimist thinking he can actually make things safe. You know the way people talk when they have a beer/cider in hand it it ain’t the first night out ;)</p>
+
+<p>Well Adam made a comment, that I should write a blog-post about it. I said that I’m not really into blogging. Well I’m not, but I try and try again. So this endeavour on tumblr is actually Adam’s fault.</p>
+
+<p>So here goes nothing.</p>
+
+<p>The <a href="http://andrewkelley.me/post/do-not-use-bodyparser-with-express-js.html">Problem with Express/bodyParser</a> was discussed heatedly up and down twitter. (If you missed it, be happy)</p>
+
+<p>I have a problem with the statements made in the article, because it misses the most important point. He writes a short piece of code, and then claims that it’s dangerous. <strong>And he is right</strong> however, I can do the very same thing with any API.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>while (42) setInterval(console.log.bind(console, 'Hallo'), 1)
+</code></pre></div></div>
+
+<p>is pretty <em>dangerous</em> as well. (Go try it in your node-REPL and come back when you killed it ;) )</p>
+
+<p>The point here is that any API, can be dangerous if you don’t know what you are doing. If you don’t think about what the module you want to use actually does, and don’t think about what you are doing, then well you are never going to write anything that is even remotely secure.</p>
+
+<p>Of course Andrew realises this and he says:</p>
+
+<blockquote>
+  <p>You can prevent this attack by always checking whether req.files is present for endpoints in which you use bodyParser or multipart, and then deleting the temp files. Note that this is every POST endpoint if you did something like app.use(express.bodyParser()).</p>
+</blockquote>
+
+<p>Which makes it even sadder that he chose the title he did, because it is hyperbole and doesn’t add to the security conversation. What we should be thinking about is how we can get people to educate themselves about what they are doing.</p>
+
+<p>Which is why I love what Adam is doing at the <a href="https://nodesecurity.io">Node-Security Project</a>. This will be a great boon to the NodeJS community.</p>
+ -->
+    </div>
+</div></div>
+    </div>
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="span5 copyright">
+            Copyright &copy; 2020 Philipp Dunkel.
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
