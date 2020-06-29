@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[We must have perseverance and above all confidence in ourselves. We
+title: "\\[We must have perseverance and above all confidence in ourselves. We
   must believe that we are gifted for something and that this thing must be
   attained. — Marie Curie\\]"
 date: 2016-11-13 18:30:26 Z

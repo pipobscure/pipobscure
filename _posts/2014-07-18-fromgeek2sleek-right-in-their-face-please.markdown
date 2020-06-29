@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Right in their face please."
+title: "Right in their face please."
 date: 2014-07-18 03:00:59 Z
 tags: []
 ---

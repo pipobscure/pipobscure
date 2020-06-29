@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Why don’t you tell us how you REALLY feel, Mr. Nietzsche? :)"
+title: "Why don’t you tell us how you REALLY feel, Mr. Nietzsche? :)"
 date: 2014-06-13 19:02:10 Z
 tags: []
 ---

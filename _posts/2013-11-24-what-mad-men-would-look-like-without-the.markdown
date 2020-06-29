@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> What Mad Men Would Look Like Without The Cigarettes"
+title: "What Mad Men Would Look Like Without The Cigarettes"
 date: 2013-11-24 13:03:11 Z
 tags:
   - smoking

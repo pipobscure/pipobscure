@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Aziz Ansari is like the king of callouts."
+title: "Aziz Ansari is like the king of callouts."
 date: 2014-10-23 10:50:45 Z
 tags: []
 ---

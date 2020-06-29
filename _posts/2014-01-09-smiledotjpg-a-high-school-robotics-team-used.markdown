@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> PAINTING THE NAILS PINK THO"
+title: "PAINTING THE NAILS PINK THO"
 date: 2014-01-09 18:00:36 Z
 tags: []
 ---

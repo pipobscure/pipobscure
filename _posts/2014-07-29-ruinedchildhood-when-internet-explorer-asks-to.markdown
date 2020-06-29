@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> When Internet Explorer asks to be your default browser."
+title: "When Internet Explorer asks to be your default browser."
 date: 2014-07-29 05:23:31 Z
 tags: []
 ---

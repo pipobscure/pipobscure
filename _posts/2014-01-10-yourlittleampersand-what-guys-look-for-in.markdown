@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Much love, followers. Have a lovely day!"
+title: "Much love, followers. Have a lovely day!"
 date: 2014-01-10 17:59:41 Z
 tags: []
 ---

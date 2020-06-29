@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Let’s talk about the fact that the receptionist is Jodie Benson, the
+title: "Let’s talk about the fact that the receptionist is Jodie Benson, the
   voice of Ariel."
 date: 2014-06-04 17:05:36 Z
 tags: []

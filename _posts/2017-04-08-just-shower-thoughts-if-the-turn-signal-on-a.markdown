@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts if the turn signal on a
+title: If the turn signal on a BMW could cure cancer, the world would never know
 date: 2017-04-08 08:30:14 Z
 tags: []
 ---

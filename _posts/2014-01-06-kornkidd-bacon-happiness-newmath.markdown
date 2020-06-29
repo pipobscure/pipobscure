@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #bacon #happiness #newmath"
+title: "#bacon #happiness #newmath"
 date: 2014-01-06 21:03:22 Z
 tags: []
 ---

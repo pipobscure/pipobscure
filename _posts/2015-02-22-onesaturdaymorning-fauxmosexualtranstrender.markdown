@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> holy."
+title: "holy."
 date: 2015-02-22 05:23:04 Z
 tags: []
 ---

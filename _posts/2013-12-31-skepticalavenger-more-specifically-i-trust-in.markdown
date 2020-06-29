@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Given time, the scientific method will lead to more accurate pictures
+title: "Given time, the scientific method will lead to more accurate pictures
   of the truth.  And it’s a hella lot better than taking wild ass guesses or
   relying on ancient texts for information about how the world works."
 date: 2013-12-31 17:03:59 Z

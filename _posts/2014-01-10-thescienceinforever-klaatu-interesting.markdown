@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I love this. This is brilliant."
+title: "I love this. This is brilliant."
 date: 2014-01-10 22:20:45 Z
 tags: []
 ---

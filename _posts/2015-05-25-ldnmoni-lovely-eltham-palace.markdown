@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Lovely Eltham Palace"
+title: "Lovely Eltham Palace"
 date: 2015-05-25 19:58:56 Z
 tags: []
 ---

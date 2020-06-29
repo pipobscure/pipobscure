@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Good Morning London!"
+title: "Good Morning London!"
 date: 2014-12-09 08:32:09 Z
 tags: []
 ---

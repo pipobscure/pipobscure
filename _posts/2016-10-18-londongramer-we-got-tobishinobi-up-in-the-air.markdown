@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> We got @TobiShinobi up in the air with @TheLondonHeli! Winning combo!
+title: "We got @TobiShinobi up in the air with @TheLondonHeli! Winning combo!
   😍🚁❤️ || #londoneye #waterloo #thisislondon [http://ift.tt/2e21B7h"
 date: 2016-10-18 12:53:00 Z
 tags: []

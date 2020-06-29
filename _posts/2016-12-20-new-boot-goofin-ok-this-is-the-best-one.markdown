@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Ok this is the best one."
+title: "Ok this is the best one."
 date: 2016-12-20 09:30:32 Z
 tags: []
 ---

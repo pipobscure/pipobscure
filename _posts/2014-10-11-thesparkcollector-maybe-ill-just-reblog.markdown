@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Maybe I’ll just reblog nothing but this for the rest of today."
+title: "Maybe I’ll just reblog nothing but this for the rest of today."
 date: 2014-10-11 22:25:29 Z
 tags: []
 ---

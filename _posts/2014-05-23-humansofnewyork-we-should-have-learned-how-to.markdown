@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “We should have learned how to make apps.”"
+title: "“We should have learned how to make apps.”"
 date: 2014-05-23 07:18:00 Z
 tags: []
 ---

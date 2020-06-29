@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “if God wanted us to believe in him, he’d exist” - Linda Smith"
+title: "“if God wanted us to believe in him, he’d exist” - Linda Smith"
 date: 2016-11-13 14:00:41 Z
 tags: []
 ---

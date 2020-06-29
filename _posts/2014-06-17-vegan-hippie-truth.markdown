@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> truth"
+title: "truth"
 date: 2014-06-17 19:02:15 Z
 tags: []
 ---

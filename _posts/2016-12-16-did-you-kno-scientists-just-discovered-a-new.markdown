@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Scientists just discovered a new kind of spider that looks like the
+title: "Scientists just discovered a new kind of spider that looks like the
   Sorting Hat from Harry Potter. They named it Eriovixia gryffindori, and
   received personal congratulations from J.K. Rowling on ‘discovering another
   fantastic beast.’

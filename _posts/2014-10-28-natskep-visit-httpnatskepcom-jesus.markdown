@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - #jesus #lastsupper #DinDin #NineInchNails
+title: "Visit [http://natskep.com - #jesus #lastsupper #DinDin #NineInchNails
   #atheist #agnostic #antitheist #godfree #atheism #agnosticism #religion
   #igatheist #igatheists #godless #freethinker #atheistsOfInstagram
   atheistcat\\_"

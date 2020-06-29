@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - #atheist #atheism #atheists #church
+title: "Visit [http://natskep.com - #atheist #atheism #atheists #church
   #christian #religion #catholic #baptist #heaven #hell #jew #agnostic
   #agnostics #theist #theism #godless #freethinker #bible #faith"
 date: 2014-07-29 20:37:41 Z

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The Care Bear Stare Prayer"
+title: "The Care Bear Stare Prayer"
 date: 2016-07-11 13:28:53 Z
 tags: []
 ---

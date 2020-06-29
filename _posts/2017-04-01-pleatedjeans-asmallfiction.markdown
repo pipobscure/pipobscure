@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [@asmallfiction"
+title: "[@asmallfiction"
 date: 2017-04-01 08:30:14 Z
 tags: []
 ---

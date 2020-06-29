@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Lunch at the office"
+title: "Lunch at the office"
 date: 2015-04-14 13:24:27 Z
 tags: []
 ---

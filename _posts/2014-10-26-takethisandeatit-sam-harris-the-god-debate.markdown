@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Watch the full debate [here"
+title: "Watch the full debate [here"
 date: 2014-10-26 18:25:37 Z
 tags: []
 ---

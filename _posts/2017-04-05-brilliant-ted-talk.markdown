@@ -1,6 +1,6 @@
 ---
 layout: post
-title: brilliant ted talk
+title: Brilliant TED Talk
 date: 2017-04-05 08:30:13 Z
 tags: []
 ---

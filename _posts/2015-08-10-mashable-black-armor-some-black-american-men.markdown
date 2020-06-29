@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **[Find out how men are using fashion as a means of survival here.**"
+title: "**[Find out how men are using fashion as a means of survival here.**"
 date: 2015-08-10 21:08:41 Z
 tags: []
 ---

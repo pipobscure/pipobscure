@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [WHAT GUYS LOOK FOR IN
+title: "[WHAT GUYS LOOK FOR IN
   GIRLS](https://www.youtube.com/watch?v=NWsrmT0btGw) (by [neonfiona)"
 date: 2014-01-16 17:57:12 Z
 tags: []

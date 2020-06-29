@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\-_Creighton_"
+title: "\\-_Creighton_"
 date: 2014-01-10 16:06:19 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Today’s [daily cartoon by **Emily Flake**."
+title: "Today’s [daily cartoon by **Emily Flake**."
 date: 2015-02-16 19:11:06 Z
 tags: []
 ---

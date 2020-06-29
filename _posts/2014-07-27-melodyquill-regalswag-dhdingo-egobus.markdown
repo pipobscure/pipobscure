@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The best part is how even though I’m South Australian, I read that in
+title: "The best part is how even though I’m South Australian, I read that in
   a Northern Territory accent."
 date: 2014-07-27 15:05:21 Z
 tags: []

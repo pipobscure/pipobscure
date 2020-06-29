@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Can we talk about how much freaking effort it took for that diver to
+title: "Can we talk about how much freaking effort it took for that diver to
   get into all of that gear just to take that stupid picture in the hot tub?
   You’re all fucking losers and I love you"
 date: 2014-08-21 06:53:33 Z

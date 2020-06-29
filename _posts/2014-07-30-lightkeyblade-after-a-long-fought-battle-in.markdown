@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> National Geographic identified the snake as an olive python and the
+title: "National Geographic identified the snake as an olive python and the
   croc as a Johnson’s crocodile, both of which are native to Australia. After
   its hefty meal, the python should be full for at least a month."
 date: 2014-07-30 19:14:22 Z

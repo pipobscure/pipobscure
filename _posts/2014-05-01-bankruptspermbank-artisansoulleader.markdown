@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> My jaw is legit on the floor right about now :D"
+title: "My jaw is legit on the floor right about now :D"
 date: 2014-05-01 21:45:29 Z
 tags: []
 ---

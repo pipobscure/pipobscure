@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [ExposingReligion"
+title: "via [ExposingReligion"
 date: 2014-08-11 08:09:47 Z
 tags: []
 ---

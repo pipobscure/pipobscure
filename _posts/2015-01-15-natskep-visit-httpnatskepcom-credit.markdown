@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #atheist #atheism #agnostic #freethinker #godless #god #faith
+title: "#atheist #atheism #agnostic #freethinker #godless #god #faith
   #religion #godsnotdead #teamjesus #Islam #Islamic #liberal #conservative
   #legendaryleagueoflogic #charliehebdo #jesuischarlie #paris #france"
 date: 2015-01-15 19:41:58 Z

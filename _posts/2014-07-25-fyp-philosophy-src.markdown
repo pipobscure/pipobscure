@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[src\\]"
+title: "\\[src\\]"
 date: 2014-07-25 05:23:46 Z
 tags: []
 ---

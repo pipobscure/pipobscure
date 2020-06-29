@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> T’is my motto."
+title: "T’is my motto."
 date: 2014-12-02 23:12:23 Z
 tags: []
 ---

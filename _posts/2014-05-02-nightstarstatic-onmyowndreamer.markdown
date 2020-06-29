@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> idk what kinda rich high schools these people went to cause I’m a
+title: "idk what kinda rich high schools these people went to cause I’m a
   sophomore in college and we were still using these when I graduated"
 date: 2014-05-02 14:01:51 Z
 tags: []

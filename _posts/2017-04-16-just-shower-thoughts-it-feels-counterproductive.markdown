@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts it feels counterproductive
+title: It feels counterproductive to fertilize...
 date: 2017-04-16 17:30:33 Z
 tags: []
 ---

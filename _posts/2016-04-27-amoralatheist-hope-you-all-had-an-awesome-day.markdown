@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #Atheism #Atheist #DanielDennett #Humanist #Humanism"
+title: "#Atheism #Atheist #DanielDennett #Humanist #Humanism"
 date: 2016-04-27 11:42:05 Z
 tags: []
 ---

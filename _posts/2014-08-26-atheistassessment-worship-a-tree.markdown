@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Worship a tree [http://ift.tt/1mSaS0D"
+title: "Worship a tree [http://ift.tt/1mSaS0D"
 date: 2014-08-26 20:29:50 Z
 tags: []
 ---

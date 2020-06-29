@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Tax religion! [](http://ift.tt/1amDenM)[http://ift.tt/1amDenM"
+title: "Tax religion! [](http://ift.tt/1amDenM)[http://ift.tt/1amDenM"
 date: 2014-01-19 15:02:07 Z
 tags: []
 ---

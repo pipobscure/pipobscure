@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Always reblog Newtonian nose-boop."
+title: "Always reblog Newtonian nose-boop."
 date: 2014-05-24 08:36:29 Z
 tags: []
 ---

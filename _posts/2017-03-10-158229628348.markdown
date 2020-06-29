@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo 2017-03-10 14:00:36
+title: The planet is fine
 date: 2017-03-10 14:00:36 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> — Dan Barker"
+title: "— Dan Barker"
 date: 2014-11-14 14:53:18 Z
 tags: []
 ---

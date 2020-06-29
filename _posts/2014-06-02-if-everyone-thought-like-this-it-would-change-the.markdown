@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> If everyone thought like this, it would change the world."
+title: "If everyone thought like this, it would change the world."
 date: 2014-06-02 13:24:34 Z
 tags: []
 ---

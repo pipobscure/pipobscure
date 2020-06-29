@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Seth Godin with some wise words on the importance of courage,
+title: "[Seth Godin with some wise words on the importance of courage,
   curiosity, and iteration."
 date: 2014-01-10 15:01:48 Z
 tags: []

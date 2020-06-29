@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Soooo…I guess what is natural is in the eye of the beholder.  It is
+title: "Soooo…I guess what is natural is in the eye of the beholder.  It is
   very important that your unnaturals align well with your bigotries."
 date: 2014-01-03 00:01:53 Z
 tags: []

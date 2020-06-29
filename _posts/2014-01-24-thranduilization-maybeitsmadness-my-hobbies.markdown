@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Balrog leggings!!!!!!!!"
+title: "Balrog leggings!!!!!!!!"
 date: 2014-01-24 11:55:13 Z
 tags: []
 ---

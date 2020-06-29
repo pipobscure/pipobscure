@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Six hundred goddamn AD"
+title: "Six hundred goddamn AD"
 date: 2014-03-26 12:40:29 Z
 tags: []
 ---

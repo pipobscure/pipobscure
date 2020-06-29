@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Sincerely, reason"
+title: "Sincerely, reason"
 date: 2013-12-08 13:03:28 Z
 tags:
   - reason

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> > _Above: Nathan Fielder comes forward as the creator of Dumb
+title: "> _Above: Nathan Fielder comes forward as the creator of Dumb
   Starbucks. Photograph by Nick Ut/AP._"
 date: 2014-02-18 15:02:36 Z
 tags: []

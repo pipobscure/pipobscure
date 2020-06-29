@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “their”"
+title: "“their”"
 date: 2014-07-26 17:51:24 Z
 tags: []
 ---

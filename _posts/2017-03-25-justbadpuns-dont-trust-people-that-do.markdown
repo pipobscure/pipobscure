@@ -1,6 +1,6 @@
 ---
 layout: post
-title: justbadpuns dont trust people that do
+title: "Don’t trust people that do acupuncture, ..."
 date: 2017-03-25 09:30:16 Z
 tags:
   - mom

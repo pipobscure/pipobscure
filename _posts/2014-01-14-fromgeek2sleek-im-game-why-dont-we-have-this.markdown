@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I’m game, why don’t we have this yet?"
+title: "I’m game, why don’t we have this yet?"
 date: 2014-01-14 23:46:38 Z
 tags: []
 ---

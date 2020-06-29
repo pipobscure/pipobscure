@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #oneorbit"
+title: "#oneorbit"
 date: 2016-12-23 09:30:33 Z
 tags: []
 ---

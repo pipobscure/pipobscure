@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> HAHAHAHA THE QUOTE IS SO PERFECT"
+title: "HAHAHAHA THE QUOTE IS SO PERFECT"
 date: 2014-05-13 17:02:03 Z
 tags: []
 ---

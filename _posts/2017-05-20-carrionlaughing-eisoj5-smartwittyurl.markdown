@@ -1,11 +1,9 @@
 ---
 layout: post
-title: carrionlaughing eisoj5 smartwittyurl
+title: If you’re a UK blog who relentlessly reminded people vote in the US election, ...
 date: 2017-05-20 23:07:49 Z
 tags: []
 ---
-[carrionlaughing](http://carrionlaughing.tumblr.com/post/160884151678/eisoj5-smartwittyurl):
-
 > [eisoj5](http://eisoj5.tumblr.com/post/160817917249/smartwittyurl-fishcustardandclintbarton-if):
 > 
 > > [smartwittyurl](http://smartwittyurl.tumblr.com/post/160773614203/fishcustardandclintbarton-if-youre-a-uk-blog):

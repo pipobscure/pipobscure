@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I don’t know shit about photography, but the person who took this shot
+title: "I don’t know shit about photography, but the person who took this shot
   must be given the highest award of them all."
 date: 2014-08-15 12:18:50 Z
 tags: []

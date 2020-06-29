@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [](http://srsfunny.tumblr.com/)[http://srsfunny.tumblr.com/"
+title: "[](http://srsfunny.tumblr.com/)[http://srsfunny.tumblr.com/"
 date: 2015-10-24 05:23:26 Z
 tags: []
 ---

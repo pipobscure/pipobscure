@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Happy Birthday Anna!"
+title: "Happy Birthday Anna!"
 date: 2015-07-24 20:41:53 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> AMEN"
+title: "AMEN"
 date: 2014-05-29 13:24:36 Z
 tags: []
 ---

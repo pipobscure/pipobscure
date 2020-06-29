@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> also a great way to punish the unknown break room thief at work."
+title: "also a great way to punish the unknown break room thief at work."
 date: 2014-03-22 19:21:09 Z
 tags: []
 ---

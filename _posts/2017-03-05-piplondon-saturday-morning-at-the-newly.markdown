@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Saturday morning at the newly refurbished Station Pub"
+title: "Saturday morning at the newly refurbished Station Pub"
 date: 2017-03-05 14:00:38 Z
 tags: []
 ---

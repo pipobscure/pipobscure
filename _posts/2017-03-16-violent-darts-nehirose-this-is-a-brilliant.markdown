@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I cackled so hard at this part."
+title: "I cackled so hard at this part."
 date: 2017-03-16 14:00:47 Z
 tags: []
 ---

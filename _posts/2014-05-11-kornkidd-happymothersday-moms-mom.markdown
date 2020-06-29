@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #happymothersday #moms #mom #mothersday"
+title: "#happymothersday #moms #mom #mothersday"
 date: 2014-05-11 21:19:09 Z
 tags: []
 ---

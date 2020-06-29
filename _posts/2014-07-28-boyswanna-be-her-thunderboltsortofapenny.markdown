@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “but actually FUCK OLD PEOPLE”"
+title: "“but actually FUCK OLD PEOPLE”"
 date: 2014-07-28 20:37:25 Z
 tags: []
 ---

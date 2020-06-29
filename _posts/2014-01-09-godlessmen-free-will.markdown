@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Free Will"
+title: "Free Will"
 date: 2014-01-09 18:05:34 Z
 tags: []
 ---

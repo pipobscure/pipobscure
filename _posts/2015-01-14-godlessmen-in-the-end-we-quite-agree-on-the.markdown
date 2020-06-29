@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [reddit"
+title: "via [reddit"
 date: 2015-01-14 04:46:04 Z
 tags: []
 ---

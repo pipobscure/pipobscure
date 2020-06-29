@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “My child is a plant.”"
+title: "“My child is a plant.”"
 date: 2014-01-24 12:01:20 Z
 tags: []
 ---

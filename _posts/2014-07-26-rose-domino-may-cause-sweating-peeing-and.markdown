@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “May cause sweating, peeing, and adequate hydration”"
+title: "“May cause sweating, peeing, and adequate hydration”"
 date: 2014-07-26 09:33:03 Z
 tags: []
 ---

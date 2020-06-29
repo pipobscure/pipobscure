@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\*ahem\\* iPads, laptops \\*ahem\\*"
+title: "\\*ahem\\* iPads, laptops \\*ahem\\*"
 date: 2014-06-21 03:00:54 Z
 tags: []
 ---

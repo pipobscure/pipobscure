@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Raw Toast."
+title: "Raw Toast."
 date: 2014-10-29 21:44:36 Z
 tags: []
 ---

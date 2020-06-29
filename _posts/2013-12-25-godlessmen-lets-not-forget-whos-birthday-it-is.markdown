@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Lets not forget who’s birthday it is tomorrow. Good guy Isaac Newton
+title: "Lets not forget who’s birthday it is tomorrow. Good guy Isaac Newton
   everybody"
 date: 2013-12-25 19:02:36 Z
 tags: []

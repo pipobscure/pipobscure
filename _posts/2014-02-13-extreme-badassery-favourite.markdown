@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> favourite"
+title: "favourite"
 date: 2014-02-13 10:46:40 Z
 tags: []
 ---

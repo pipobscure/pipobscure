@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Neil deGrasse Tyson on Creationism, Celebrity, and Kids"
+title: "Neil deGrasse Tyson on Creationism, Celebrity, and Kids"
 date: 2014-06-14 19:02:24 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via  [Yes I am an atheist"
+title: Religion is the practice of using nonsense, ...
 date: 2017-12-31 21:20:56 Z
 tags: []
 ---

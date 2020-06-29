@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> okay but number 6 and the 2nd last one have fabulous legs"
+title: "okay but number 6 and the 2nd last one have fabulous legs"
 date: 2014-03-21 09:54:30 Z
 tags: []
 ---

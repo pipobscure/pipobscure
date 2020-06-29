@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> What a gorgeous morning on the Woolwich ferry."
+title: "What a gorgeous morning on the Woolwich ferry."
 date: 2016-07-12 07:30:57 Z
 tags: []
 ---

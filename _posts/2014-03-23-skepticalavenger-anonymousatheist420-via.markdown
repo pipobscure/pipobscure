@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I personally can’t stand it when the blood of Jesus gets all over my
+title: "I personally can’t stand it when the blood of Jesus gets all over my
   car.  Give that man a band-aid for Christ’s sake."
 date: 2014-03-23 12:51:23 Z
 tags: []

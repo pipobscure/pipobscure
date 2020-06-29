@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [via"
+title: "[via"
 date: 2014-11-27 22:03:21 Z
 tags: []
 ---

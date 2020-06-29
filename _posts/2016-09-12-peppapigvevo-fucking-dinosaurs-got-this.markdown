@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> fucking dinosaurs got this"
+title: "fucking dinosaurs got this"
 date: 2016-09-12 08:30:26 Z
 tags: []
 ---

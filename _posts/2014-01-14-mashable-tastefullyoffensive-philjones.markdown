@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> We see what you did there!"
+title: "We see what you did there!"
 date: 2014-01-14 15:02:43 Z
 tags: []
 ---

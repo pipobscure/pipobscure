@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> i love this so much"
+title: "i love this so much"
 date: 2014-06-30 19:02:05 Z
 tags: []
 ---

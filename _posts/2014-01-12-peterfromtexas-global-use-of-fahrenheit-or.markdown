@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Global use of ‘Fahrenheit’ or ‘Celsius’"
+title: "Global use of ‘Fahrenheit’ or ‘Celsius’"
 date: 2014-01-12 21:03:11 Z
 tags: []
 ---

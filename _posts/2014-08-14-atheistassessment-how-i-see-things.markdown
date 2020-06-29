@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> How I see Things [http://ift.tt/1r6XMxR"
+title: "How I see Things [http://ift.tt/1r6XMxR"
 date: 2014-08-14 06:46:32 Z
 tags: []
 ---

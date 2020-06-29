@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is my favourite"
+title: "This is my favourite"
 date: 2014-06-10 15:02:10 Z
 tags: []
 ---

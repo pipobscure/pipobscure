@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I have just voted for Mayor of London, London Assembly Members for
+title: "I have just voted for Mayor of London, London Assembly Members for
   Greenwich and London Assembly Members."
 date: 2016-04-26 18:33:02 Z
 tags: []

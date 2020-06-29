@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Words. To. Live. By."
+title: "Words. To. Live. By."
 date: 2014-01-02 22:26:15 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Greenwich, London"
+title: "Greenwich, London"
 date: 2016-12-05 09:30:16 Z
 tags: []
 ---

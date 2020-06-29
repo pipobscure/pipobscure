@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - #Athiest #Jesus #JesusChrist #Athiesm #God
+title: "Visit [http://natskep.com - #Athiest #Jesus #JesusChrist #Athiesm #God
   #Godless #Love #Peace #Heaven #Hell #JesusLoves"
 date: 2014-07-21 21:57:51 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Jazz, Comedy & Auctions for a good cause."
+title: "Jazz, Comedy & Auctions for a good cause."
 date: 2015-03-25 20:39:37 Z
 tags: []
 ---

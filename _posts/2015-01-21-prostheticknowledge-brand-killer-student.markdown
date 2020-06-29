@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [More Here"
+title: "[More Here"
 date: 2015-01-21 23:38:10 Z
 tags: []
 ---

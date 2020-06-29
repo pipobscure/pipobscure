@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> If anyone ever asks me to define love, I’m just going to show them this."
+title: "If anyone ever asks me to define love, I’m just going to show them this."
 date: 2014-01-08 22:13:20 Z
 tags: []
 ---

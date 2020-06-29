@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> 😂 the disclaimer killed me"
+title: "😂 the disclaimer killed me"
 date: 2014-06-29 07:01:01 Z
 tags: []
 ---

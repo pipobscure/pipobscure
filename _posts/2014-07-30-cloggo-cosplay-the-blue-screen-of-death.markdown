@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **[From HERE**"
+title: "**[From HERE**"
 date: 2014-07-30 17:51:34 Z
 tags: []
 ---

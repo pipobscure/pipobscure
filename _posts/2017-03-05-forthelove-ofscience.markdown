@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> 🙌🏻"
+title: "I'm not an atheist because I'm ignorant..."
 date: 2017-03-05 09:30:18 Z
 tags:
   - anti religion

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Steampunk Violin Handpainted by [Hollow Moon Art"
+title: "Steampunk Violin Handpainted by [Hollow Moon Art"
 date: 2014-06-19 18:43:40 Z
 tags: []
 ---

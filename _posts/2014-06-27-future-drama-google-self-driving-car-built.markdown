@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Google self-driving car, built from the ground up, with no steering wheel"
+title: "Google self-driving car, built from the ground up, with no steering wheel"
 date: 2014-06-27 19:02:46 Z
 tags: []
 ---

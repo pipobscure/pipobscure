@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> i’m crying"
+title: "i’m crying"
 date: 2014-05-21 12:46:20 Z
 tags: []
 ---

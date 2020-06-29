@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The goal."
+title: "The goal."
 date: 2014-01-23 18:02:10 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [How to read an academic paper"
+title: "[How to read an academic paper"
 date: 2017-02-24 14:00:29 Z
 tags: []
 ---

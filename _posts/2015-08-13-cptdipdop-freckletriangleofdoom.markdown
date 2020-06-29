@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> YES"
+title: "YES"
 date: 2015-08-13 17:40:52 Z
 tags: []
 ---

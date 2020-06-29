@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> One time in like 5th grade I had this teacher and she gave us all
+title: "One time in like 5th grade I had this teacher and she gave us all
   bottles of shit like this and told us to squeeze it all out and of course we
   were like fuck yeah and did it and then she said, “Now, try and shove it all
   back in the container.” Of course we all tried, and then stared at her

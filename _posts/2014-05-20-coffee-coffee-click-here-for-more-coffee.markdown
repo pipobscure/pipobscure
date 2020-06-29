@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Click here for more coffee!"
+title: "Click here for more coffee!"
 date: 2014-05-20 18:13:07 Z
 tags: []
 ---

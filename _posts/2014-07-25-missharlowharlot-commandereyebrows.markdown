@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is how all those pretty pin up girls you reblog act in real life.."
+title: "This is how all those pretty pin up girls you reblog act in real life.."
 date: 2014-07-25 09:32:54 Z
 tags: []
 ---

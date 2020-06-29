@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This needs to be en-grained in every single living human."
+title: "This needs to be en-grained in every single living human."
 date: 2014-01-03 16:36:45 Z
 tags: []
 ---

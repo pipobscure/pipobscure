@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Don’t travel **_a l o n e_**"
+title: "Don’t travel **_a l o n e_**"
 date: 2014-09-03 19:36:13 Z
 tags: []
 ---

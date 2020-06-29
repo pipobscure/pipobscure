@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [brainsx"
+title: "[brainsx"
 date: 2015-04-12 21:43:14 Z
 tags: []
 ---

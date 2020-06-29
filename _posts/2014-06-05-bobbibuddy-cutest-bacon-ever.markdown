@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Cutest bacon ever."
+title: "Cutest bacon ever."
 date: 2014-06-05 15:02:10 Z
 tags: []
 ---

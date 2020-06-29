@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Hm. Cool."
+title: "Hm. Cool."
 date: 2014-07-29 17:51:33 Z
 tags: []
 ---

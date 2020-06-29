@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [My Modern Metropolis for additional photos."
+title: "Visit [My Modern Metropolis for additional photos."
 date: 2014-05-30 18:12:32 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Clever Illustrations by Danish illustrator HuskMitNavn"
+title: "Clever Illustrations by Danish illustrator HuskMitNavn"
 date: 2017-01-17 18:30:43 Z
 tags: []
 ---

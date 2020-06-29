@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I have a physics textbook from before the electron was discovered and
+title: "I have a physics textbook from before the electron was discovered and
   they just sound so frustrated it’s hilarious"
 date: 2014-07-11 07:01:26 Z
 tags: []

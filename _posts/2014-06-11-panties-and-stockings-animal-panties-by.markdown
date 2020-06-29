@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> animal panties by [knickerocker!"
+title: "animal panties by [knickerocker!"
 date: 2014-06-11 15:01:57 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> YES THANK YOU"
+title: "YES THANK YOU"
 date: 2014-07-23 07:40:36 Z
 tags: []
 ---

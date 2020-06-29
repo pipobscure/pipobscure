@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> BRB, crying."
+title: "BRB, crying."
 date: 2014-12-02 23:29:13 Z
 tags: []
 ---

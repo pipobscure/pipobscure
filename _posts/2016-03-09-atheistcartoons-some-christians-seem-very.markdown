@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Some Christians seem very concerned about how atheists can be moral. A
+title: "Some Christians seem very concerned about how atheists can be moral. A
   better question would be: “How can Christians be moral?”"
 date: 2016-03-09 13:57:35 Z
 tags: []

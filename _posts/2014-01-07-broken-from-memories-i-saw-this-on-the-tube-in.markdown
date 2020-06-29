@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I saw this on the tube in London once. I almost stood up and clapped."
+title: "I saw this on the tube in London once. I almost stood up and clapped."
 date: 2014-01-07 18:25:53 Z
 tags: []
 ---

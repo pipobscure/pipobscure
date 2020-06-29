@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> She’s not going to so its fine"
+title: "She’s not going to so its fine"
 date: 2015-05-09 15:08:20 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> that girl’s a true friend"
+title: "that girl’s a true friend"
 date: 2014-01-02 09:38:33 Z
 tags: []
 ---

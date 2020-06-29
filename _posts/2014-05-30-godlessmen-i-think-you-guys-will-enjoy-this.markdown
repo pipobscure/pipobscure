@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Source: [Source and comments"
+title: "Source: [Source and comments"
 date: 2014-05-30 19:20:38 Z
 tags: []
 ---

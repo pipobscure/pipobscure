@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Gabriel Sarda"
+title: "via [Gabriel Sarda"
 date: 2015-01-21 23:29:31 Z
 tags: []
 ---

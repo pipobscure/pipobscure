@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> To someone who doesn’t believe it already, it sounds ludicrous."
+title: "To someone who doesn’t believe it already, it sounds ludicrous."
 date: 2017-02-22 09:30:25 Z
 tags: []
 ---

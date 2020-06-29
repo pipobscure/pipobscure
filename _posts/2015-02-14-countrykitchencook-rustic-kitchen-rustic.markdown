@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> rustic kitchen rustic kitchen rustic kitchen"
+title: "rustic kitchen rustic kitchen rustic kitchen"
 date: 2015-02-14 14:08:43 Z
 tags: []
 ---

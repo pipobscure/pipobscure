@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **Great message and some Tangled too!**"
+title: "**Great message and some Tangled too!**"
 date: 2014-01-15 12:01:36 Z
 tags: []
 ---

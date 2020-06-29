@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[[TL;DR of your country’s
+title: "\\[[TL;DR of your country’s
   history](http://www.reddit.com/r/AskReddit/comments/1xjv73/reddit_whats_the_t\
   ldr_of_your_countrys_entire/?sort=top)\\] \\[maps via [think0\\]"
 date: 2014-02-12 21:53:14 Z

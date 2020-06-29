@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I’m late to the party on this one, but holy crap John Oliver nails it."
+title: "I’m late to the party on this one, but holy crap John Oliver nails it."
 date: 2014-06-04 18:32:54 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Ok, even I have to admit that this is pretty damn bad ass."
+title: "Ok, even I have to admit that this is pretty damn bad ass."
 date: 2013-12-26 20:23:29 Z
 tags: []
 ---

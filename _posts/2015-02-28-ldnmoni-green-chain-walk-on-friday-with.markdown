@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Green Chain Walk on Friday with Wellingtons on a lovely sunny day from
+title: "Green Chain Walk on Friday with Wellingtons on a lovely sunny day from
   Elm stead Woods to Mottingham"
 date: 2015-02-28 23:07:38 Z
 tags: []

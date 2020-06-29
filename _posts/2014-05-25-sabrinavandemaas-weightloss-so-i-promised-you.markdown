@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> i hope you’ll like them!"
+title: "i hope you’ll like them!"
 date: 2014-05-25 06:18:33 Z
 tags: []
 ---

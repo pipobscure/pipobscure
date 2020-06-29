@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> _Image: [Deena Shoemaker_"
+title: "_Image: [Deena Shoemaker_"
 date: 2017-01-24 09:30:31 Z
 tags: []
 ---

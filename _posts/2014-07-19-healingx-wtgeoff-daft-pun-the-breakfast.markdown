@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I couldn’t not reblog this."
+title: "I couldn’t not reblog this."
 date: 2014-07-19 11:01:17 Z
 tags: []
 ---

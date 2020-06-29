@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts i think its safe to say
+title: I think it’s safe to say...
 date: 2017-04-03 17:30:27 Z
 tags: []
 ---

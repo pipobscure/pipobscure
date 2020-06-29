@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> AsphaltAngel-1.tumblr.com"
+title: "AsphaltAngel-1.tumblr.com"
 date: 2016-05-19 14:31:44 Z
 tags: []
 ---

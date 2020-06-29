@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Someone take me here."
+title: "Someone take me here."
 date: 2014-07-02 19:02:20 Z
 tags: []
 ---

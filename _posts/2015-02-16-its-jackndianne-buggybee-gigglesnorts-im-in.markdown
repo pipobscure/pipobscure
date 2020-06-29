@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I’m in the market for a new doormat."
+title: "I’m in the market for a new doormat."
 date: 2015-02-16 19:14:51 Z
 tags: []
 ---

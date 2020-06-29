@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> More inspiration at [Become Lean"
+title: "More inspiration at [Become Lean"
 date: 2014-01-18 12:01:29 Z
 tags: []
 ---

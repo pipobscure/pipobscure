@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [](http://proud-atheist.tumblr.com)[http://proud-atheist.tumblr.com"
+title: "[](http://proud-atheist.tumblr.com)[http://proud-atheist.tumblr.com"
 date: 2014-11-27 18:50:11 Z
 tags: []
 ---

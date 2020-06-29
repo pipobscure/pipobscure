@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> the darkest part of this comic is the realization that they were both right"
+title: "the darkest part of this comic is the realization that they were both right"
 date: 2014-03-05 18:02:07 Z
 tags: []
 ---

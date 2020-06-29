@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I need a moment."
+title: "I need a moment."
 date: 2014-07-27 12:18:50 Z
 tags: []
 ---

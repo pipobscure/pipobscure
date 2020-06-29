@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> These beloved [quotes from historic thinkers and famous celebrities
+title: "These beloved [quotes from historic thinkers and famous celebrities
   were overdue for an upgrade, so we translated them for the modern age."
 date: 2014-03-19 17:10:08 Z
 tags: []

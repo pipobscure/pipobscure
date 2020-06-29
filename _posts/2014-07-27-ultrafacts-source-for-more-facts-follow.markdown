@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Source](http://en.m.wikipedia.org/wiki/Moment_%28time%29) **For more
+title: "[Source](http://en.m.wikipedia.org/wiki/Moment_%28time%29) **For more
   facts [follow Ultrafacts**"
 date: 2014-07-27 06:46:44 Z
 tags: []

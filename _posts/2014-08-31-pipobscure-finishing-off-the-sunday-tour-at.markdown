@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Finishing off the Sunday tour at Manor House Park near our home."
+title: "Finishing off the Sunday tour at Manor House Park near our home."
 date: 2014-08-31 15:29:36 Z
 tags: []
 ---

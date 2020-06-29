@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Post-it doodle by Ben Watheit via [LAEM"
+title: "Post-it doodle by Ben Watheit via [LAEM"
 date: 2014-06-04 20:19:09 Z
 tags: []
 ---

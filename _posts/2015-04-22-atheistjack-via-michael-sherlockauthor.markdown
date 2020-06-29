@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via  [Michael Sherlock:Author"
+title: "via  [Michael Sherlock:Author"
 date: 2015-04-22 18:14:28 Z
 tags: []
 ---

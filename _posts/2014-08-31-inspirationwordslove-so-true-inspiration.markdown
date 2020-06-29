@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> So True! inspiration positive words"
+title: "So True! inspiration positive words"
 date: 2014-08-31 09:37:55 Z
 tags: []
 ---

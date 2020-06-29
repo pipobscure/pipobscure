@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> In the end, it boils down to this: You’ve touched my heart. And
+title: "In the end, it boils down to this: You’ve touched my heart. And
   therefore the symbolism in the act is perfect."
 date: 2014-03-05 15:02:01 Z
 tags: []

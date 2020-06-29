@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> a small handful of vague verses and infinite confirmation bias."
+title: "a small handful of vague verses and infinite confirmation bias."
 date: 2016-02-12 18:00:09 Z
 tags: []
 ---

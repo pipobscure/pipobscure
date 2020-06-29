@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> If it’s safe for you to do so, make some noise."
+title: "If it’s safe for you to do so, make some noise."
 date: 2016-09-07 17:30:34 Z
 tags: []
 ---

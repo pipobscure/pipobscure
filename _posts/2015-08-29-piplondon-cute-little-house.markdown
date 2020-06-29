@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Cute little house"
+title: "Cute little house"
 date: 2015-08-29 14:44:54 Z
 tags: []
 ---

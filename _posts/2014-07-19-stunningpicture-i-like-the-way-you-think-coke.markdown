@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I like the way you think, Coke."
+title: "I like the way you think, Coke."
 date: 2014-07-19 19:02:19 Z
 tags: []
 ---

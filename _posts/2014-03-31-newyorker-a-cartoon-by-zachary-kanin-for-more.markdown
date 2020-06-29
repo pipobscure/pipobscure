@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A cartoon by **Zachary Kanin**. For more cartoons from this week’s
+title: "A cartoon by **Zachary Kanin**. For more cartoons from this week’s
   issue of the magazine: [http://nyr.kr/1hsw1Kv"
 date: 2014-03-31 19:52:10 Z
 tags: []

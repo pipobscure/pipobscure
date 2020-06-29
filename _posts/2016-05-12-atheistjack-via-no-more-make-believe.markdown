@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [No More Make Believe"
+title: "via [No More Make Believe"
 date: 2016-05-12 22:14:50 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> what were dora’s bedtime wishes"
+title: "what were dora’s bedtime wishes"
 date: 2014-05-12 14:01:43 Z
 tags: []
 ---

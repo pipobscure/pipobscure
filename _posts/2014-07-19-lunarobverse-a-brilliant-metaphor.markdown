@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A brilliant metaphor"
+title: "A brilliant metaphor"
 date: 2014-07-19 03:01:08 Z
 tags: []
 ---

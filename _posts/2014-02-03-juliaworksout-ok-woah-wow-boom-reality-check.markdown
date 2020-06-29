@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> ok woah wow boom reality check"
+title: "ok woah wow boom reality check"
 date: 2014-02-03 12:01:33 Z
 tags: []
 ---

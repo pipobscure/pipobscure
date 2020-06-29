@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Some of Ellen’s favorite tweets of the week. \\[[video\\]"
+title: "Some of Ellen’s favorite tweets of the week. \\[[video\\]"
 date: 2014-03-27 16:22:40 Z
 tags: []
 ---

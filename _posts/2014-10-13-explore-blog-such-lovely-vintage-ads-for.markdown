@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Such lovely [vintage ads for libraries and reading"
+title: "Such lovely [vintage ads for libraries and reading"
 date: 2014-10-13 20:26:22 Z
 tags: []
 ---

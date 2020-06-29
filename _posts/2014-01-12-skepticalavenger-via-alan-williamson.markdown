@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Alan Williamson"
+title: "via [Alan Williamson"
 date: 2014-01-12 19:05:46 Z
 tags: []
 ---

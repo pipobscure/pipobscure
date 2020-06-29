@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> And again here
+title: "And again here
   [http://dogwithsharperteeth.tumblr.com/post/147305288951/ive-hit-my-productiv\
   ity-wall-for-the-day"
 date: 2016-07-12 21:12:06 Z

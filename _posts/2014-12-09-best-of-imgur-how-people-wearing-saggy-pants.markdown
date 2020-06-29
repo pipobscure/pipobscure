@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [http://best-of-imgur.tumblr.com"
+title: "[http://best-of-imgur.tumblr.com"
 date: 2014-12-09 08:31:13 Z
 tags: []
 ---

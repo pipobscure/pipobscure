@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I adore Pink."
+title: "I adore Pink."
 date: 2014-07-07 11:01:22 Z
 tags: []
 ---

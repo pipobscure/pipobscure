@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Can you relate to this? Which are you most days - the user or the
+title: "Can you relate to this? Which are you most days - the user or the
   programmer?"
 date: 2013-12-05 13:03:37 Z
 tags:

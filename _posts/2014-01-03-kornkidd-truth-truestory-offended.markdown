@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #truth #truestory #offended"
+title: "#truth #truestory #offended"
 date: 2014-01-03 12:01:31 Z
 tags: []
 ---

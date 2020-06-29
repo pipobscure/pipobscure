@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - #godfree #nogod #morals #nontheist
+title: "Visit [http://natskep.com - #godfree #nogod #morals #nontheist
   #nonreligious #logic #faithinscience #nofaith #thinkforyourself #fairytales
   #reason #proudatheist #evolution #science #religionfree #freewill
   #questioneverything #antitheist #atheist #atheism #indoctrination #freethinker

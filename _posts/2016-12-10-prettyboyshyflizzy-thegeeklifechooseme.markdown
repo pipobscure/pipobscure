@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> lmaooooooo"
+title: "lmaooooooo"
 date: 2016-12-10 09:30:19 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[[via\\]"
+title: "\\[[via\\]"
 date: 2014-10-19 09:54:29 Z
 tags: []
 ---

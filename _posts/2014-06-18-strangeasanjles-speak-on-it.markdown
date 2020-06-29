@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> speak on it"
+title: "speak on it"
 date: 2014-06-18 07:01:32 Z
 tags: []
 ---

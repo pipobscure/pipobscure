@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> by [Saturday Morning Breakfast Cereal"
+title: "by [Saturday Morning Breakfast Cereal"
 date: 2015-11-09 09:09:40 Z
 tags: []
 ---

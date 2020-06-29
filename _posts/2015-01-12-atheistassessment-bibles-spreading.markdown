@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Bibles Spreading
+title: "Bibles Spreading
   [http://www.atheistmemebase.com/2014/11/29/bibles-spreading/"
 date: 2015-01-12 18:53:08 Z
 tags: []

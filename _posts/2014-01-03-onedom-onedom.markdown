@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [_OneDom_"
+title: "[_OneDom_"
 date: 2014-01-03 20:01:49 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> the world needs this because when i read the headline i thought it
+title: "the world needs this because when i read the headline i thought it
   meant that show on MTV called girl code but this is LEAGUES BETTER"
 date: 2014-07-20 15:01:50 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This post was great and then it got better."
+title: "This post was great and then it got better."
 date: 2014-09-18 18:09:24 Z
 tags: []
 ---

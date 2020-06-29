@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A witty A-board outside a pub in Edinburgh"
+title: "A witty A-board outside a pub in Edinburgh"
 date: 2014-09-15 21:00:54 Z
 tags: []
 ---

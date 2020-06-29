@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> In 1913, suffragettes asked a British official why the cricket
+title: "In 1913, suffragettes asked a British official why the cricket
   pavilion in Tunbridge Wells didn’t allow women. He replied, “It is not true
   that women are banned from the pavilion. Who do you think makes the teas?”
   They burned the pavilion down in protest.

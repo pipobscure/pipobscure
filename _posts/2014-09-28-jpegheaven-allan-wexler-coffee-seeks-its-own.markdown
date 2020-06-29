@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Coffee Seeks Its Own Level. 1990. If one person alone lifts his cup,
+title: "Coffee Seeks Its Own Level. 1990. If one person alone lifts his cup,
   coffee overflows the other three cups. All four people need to coordinate
   their actions and lift simultaneously. Inspired by the principle “water seeks
   its own level”. I had been working on a series of projects using basic

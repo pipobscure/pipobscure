@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I drew another thing"
+title: "I drew another thing"
 date: 2014-10-17 00:17:24 Z
 tags: []
 ---

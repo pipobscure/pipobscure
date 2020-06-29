@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The only thing I even like before coffee is…coffee"
+title: "The only thing I even like before coffee is…coffee"
 date: 2014-12-10 00:01:50 Z
 tags: []
 ---

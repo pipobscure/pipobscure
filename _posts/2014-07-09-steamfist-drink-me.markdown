@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Drink me."
+title: "Drink me."
 date: 2014-07-09 11:01:03 Z
 tags: []
 ---

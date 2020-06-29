@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I’d feel guilty eating this"
+title: "I’d feel guilty eating this"
 date: 2014-07-13 19:02:54 Z
 tags: []
 ---

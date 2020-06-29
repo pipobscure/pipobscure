@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #dog #stripper #obedience #school"
+title: "#dog #stripper #obedience #school"
 date: 2014-01-11 12:01:28 Z
 tags: []
 ---

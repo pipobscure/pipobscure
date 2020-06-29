@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> > [\\[More London here →\\]"
+title: "> [\\[More London here →\\]"
 date: 2016-12-20 18:30:28 Z
 tags: []
 ---

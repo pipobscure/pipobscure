@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Halloween and the morning after. Brilliant thematic weather!"
+title: "Halloween and the morning after. Brilliant thematic weather!"
 date: 2015-11-01 12:34:58 Z
 tags: []
 ---

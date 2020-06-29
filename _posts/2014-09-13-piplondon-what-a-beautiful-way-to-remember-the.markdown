@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> What a beautiful way to remember the dead of WW I."
+title: "What a beautiful way to remember the dead of WW I."
 date: 2014-09-13 19:55:00 Z
 tags: []
 ---

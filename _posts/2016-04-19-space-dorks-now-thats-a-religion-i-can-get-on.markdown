@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Now that’s a religion I can get on board with."
+title: "Now that’s a religion I can get on board with."
 date: 2016-04-19 07:40:05 Z
 tags: []
 ---

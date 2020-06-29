@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> BOBBY NEWPORT HAS NEVER HAD A REAL JOB IN HIS LIFE"
+title: "BOBBY NEWPORT HAS NEVER HAD A REAL JOB IN HIS LIFE"
 date: 2016-12-11 09:30:37 Z
 tags: []
 ---

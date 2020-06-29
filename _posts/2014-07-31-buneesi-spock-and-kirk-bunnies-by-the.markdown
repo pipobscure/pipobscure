@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> ![image"
+title: "![image"
 date: 2014-07-31 13:42:00 Z
 tags: []
 ---

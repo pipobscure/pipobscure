@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> no but seriously guys this is the history of the british empire in a
+title: "no but seriously guys this is the history of the british empire in a
   nutshell"
 date: 2014-01-22 15:02:12 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Fact."
+title: "Fact."
 date: 2014-09-28 18:54:10 Z
 tags: []
 ---

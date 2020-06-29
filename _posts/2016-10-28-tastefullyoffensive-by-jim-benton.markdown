@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> by [Jim Benton"
+title: "by [Jim Benton"
 date: 2016-10-28 08:30:26 Z
 tags: []
 ---

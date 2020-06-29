@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> New Yorker cartoonists weigh in on the comedic distinction between
+title: "New Yorker cartoonists weigh in on the comedic distinction between
   cartoon captions and tweets: [http://nyr.kr/1cnBPzt"
 date: 2014-02-28 19:12:54 Z
 tags: []

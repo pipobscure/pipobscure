@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Sam Harris on CNN: “When cartoonists draw the wrong cartoon and
+title: "Sam Harris on CNN: “When cartoonists draw the wrong cartoon and
   embassies start burning, we criticize the cartoonists and the newspapers that
   printed the cartoons, and we practice self-censorship…this is the bigotry of
   low expectations.”"

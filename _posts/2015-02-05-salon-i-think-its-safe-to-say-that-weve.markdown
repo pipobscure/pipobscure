@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **[Your “personal beliefs” don’t trump science.**"
+title: "**[Your “personal beliefs” don’t trump science.**"
 date: 2015-02-05 22:15:41 Z
 tags: []
 ---

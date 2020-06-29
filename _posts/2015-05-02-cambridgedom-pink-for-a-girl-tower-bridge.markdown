@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via @JordanLee"
+title: "via @JordanLee"
 date: 2015-05-02 12:44:12 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> McCollum v. Board of Education - Documentary on the case that
+title: "McCollum v. Board of Education - Documentary on the case that
   established Church and State Separation for schools teaching religion. / [via"
 date: 2016-10-21 08:30:17 Z
 tags: []

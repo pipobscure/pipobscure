@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> you asked for this, and I think your [depressing answers here deserve it!"
+title: "you asked for this, and I think your [depressing answers here deserve it!"
 date: 2014-03-26 14:09:11 Z
 tags: []
 ---

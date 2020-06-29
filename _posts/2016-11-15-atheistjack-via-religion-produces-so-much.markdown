@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via  [Religion produces so much funny material for us to laugh at"
+title: "via  [Religion produces so much funny material for us to laugh at"
 date: 2016-11-15 09:30:24 Z
 tags: []
 ---

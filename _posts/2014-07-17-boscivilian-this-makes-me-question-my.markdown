@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This makes me question my existence."
+title: "This makes me question my existence."
 date: 2014-07-17 07:01:02 Z
 tags: []
 ---

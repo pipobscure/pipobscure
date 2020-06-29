@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> friendship goals"
+title: "friendship goals"
 date: 2016-12-06 14:00:34 Z
 tags: []
 ---

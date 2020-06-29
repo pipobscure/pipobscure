@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #carlsagan #truth #atheist"
+title: "#carlsagan #truth #atheist"
 date: 2013-12-15 07:16:30 Z
 tags:
   - carlsagan

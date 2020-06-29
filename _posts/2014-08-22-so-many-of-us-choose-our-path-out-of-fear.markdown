@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **_“So many of us choose our path out of fear disguised as practicality”_**"
+title: "**_“So many of us choose our path out of fear disguised as practicality”_**"
 date: 2014-08-22 05:23:39 Z
 tags: []
 ---

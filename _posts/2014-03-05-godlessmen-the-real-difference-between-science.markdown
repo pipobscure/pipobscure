@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The real difference between science and religion. Courtesy Richard
+title: "The real difference between science and religion. Courtesy Richard
   Dawkins Foundation."
 date: 2014-03-05 12:01:28 Z
 tags: []

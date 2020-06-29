@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via[Polstar Photography"
+title: "via[Polstar Photography"
 date: 2014-01-04 15:53:21 Z
 tags: []
 ---

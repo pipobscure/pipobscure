@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Out of all my favourite movie quotes this one is easily within my top 10."
+title: "Out of all my favourite movie quotes this one is easily within my top 10."
 date: 2014-01-18 18:37:30 Z
 tags: []
 ---

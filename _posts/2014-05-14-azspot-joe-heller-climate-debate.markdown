@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Joe Heller: Climate Debate"
+title: "[Joe Heller: Climate Debate"
 date: 2014-05-14 17:01:50 Z
 tags: []
 ---

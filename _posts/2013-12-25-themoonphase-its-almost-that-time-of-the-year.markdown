@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> It’s almost that time of the year again."
+title: "It’s almost that time of the year again."
 date: 2013-12-25 12:38:05 Z
 tags: []
 ---

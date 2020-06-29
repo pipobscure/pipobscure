@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> My friend just made this status"
+title: "My friend just made this status"
 date: 2014-02-14 00:31:12 Z
 tags: []
 ---

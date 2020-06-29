@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Had to laugh. As if coppers didn’t have enough of a rep without help
+title: "Had to laugh. As if coppers didn’t have enough of a rep without help
   from the DVLA."
 date: 2016-07-27 16:54:08 Z
 tags: []

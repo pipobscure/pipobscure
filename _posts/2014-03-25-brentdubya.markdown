@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I laughed."
+title: "I laughed."
 date: 2014-03-25 23:17:40 Z
 tags: []
 ---

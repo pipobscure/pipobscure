@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Since we have a multitude of fans in our count"
+title: "Since we have a multitude of fans in our count"
 date: 2014-06-16 15:01:45 Z
 tags: []
 ---

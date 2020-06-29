@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> You don’t see #faith healers working in hospital…."
+title: "You don’t see #faith healers working in hospital…."
 date: 2014-10-23 21:22:00 Z
 tags: []
 ---

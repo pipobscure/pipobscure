@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> No kid should have a religion because she was raised with one! No god
+title: "No kid should have a religion because she was raised with one! No god
   is needed"
 date: 2015-12-02 18:51:22 Z
 tags: []

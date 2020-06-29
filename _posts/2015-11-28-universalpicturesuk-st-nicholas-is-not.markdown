@@ -5,7 +5,7 @@ title: Have to go watch this with the kids. They grew up with Krampus, but I
 date: 2015-11-28 11:56:01 Z
 tags: []
 ---
-<video width="640" height="640" autoplay="autoplay" controls="controls"><source src="/media/2015/11/134119468665.mp4" type="video/mp4></video>
+<video width="640" height="640" autoplay="autoplay" controls="controls"><source src="/media/2015/11/134119468665.mp4" type="video/mp4"></video>
 
 [universalpicturesuk](http://universalpicturesuk.tumblr.com/post/133529446155/st-nicholas-is-not-coming-this-year-instead-a):
 

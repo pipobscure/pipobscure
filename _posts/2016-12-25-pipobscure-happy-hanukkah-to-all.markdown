@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Happy Hanukkah to all red-sea-pedestrians"
+title: "Happy Hanukkah to all red-sea-pedestrians"
 date: 2016-12-25 13:39:30 Z
 tags: []
 ---

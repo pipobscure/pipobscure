@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> no books were harmed in the making of these puns"
+title: "no books were harmed in the making of these puns"
 date: 2016-10-28 17:30:38 Z
 tags: []
 ---

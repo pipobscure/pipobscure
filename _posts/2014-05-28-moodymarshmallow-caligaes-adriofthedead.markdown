@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Inhibilation explains why I’m less excited about DA3 than everyone else."
+title: "Inhibilation explains why I’m less excited about DA3 than everyone else."
 date: 2014-05-28 18:12:37 Z
 tags: []
 ---

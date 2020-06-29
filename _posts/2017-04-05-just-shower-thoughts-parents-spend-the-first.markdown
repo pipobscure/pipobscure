@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts parents spend the first
+title: Parents spend the first two years of their children’s lives...
 date: 2017-04-05 13:00:26 Z
 tags: []
 ---

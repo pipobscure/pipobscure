@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> PEQUEÑOS ACTOS DE AMABILIDAD HACEN UN MUNDO MEJOR…"
+title: "PEQUEÑOS ACTOS DE AMABILIDAD HACEN UN MUNDO MEJOR…"
 date: 2014-05-28 17:21:34 Z
 tags: []
 ---

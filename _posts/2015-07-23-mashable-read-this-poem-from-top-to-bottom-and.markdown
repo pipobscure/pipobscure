@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Read this poem from top to bottom and them from the bottom up. Make
+title: "[Read this poem from top to bottom and them from the bottom up. Make
   sure today is a good day. Eat. Sleep. Repeat."
 date: 2015-07-23 22:41:14 Z
 tags: []

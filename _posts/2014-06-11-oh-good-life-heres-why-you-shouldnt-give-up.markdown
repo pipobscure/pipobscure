@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Here’s why you shouldn’t give up"
+title: "Here’s why you shouldn’t give up"
 date: 2014-06-11 07:01:27 Z
 tags: []
 ---

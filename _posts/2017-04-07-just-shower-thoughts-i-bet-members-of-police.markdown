@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts i bet members of police
+title: I bet members of police bomb squads ALWAYS take their food out of the microwave before it hits zero
 date: 2017-04-07 13:00:48 Z
 tags: []
 ---

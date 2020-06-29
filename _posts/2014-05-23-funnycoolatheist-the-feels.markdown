@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The feels…"
+title: "The feels…"
 date: 2014-05-23 03:48:35 Z
 tags: []
 ---

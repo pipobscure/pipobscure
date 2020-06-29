@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I gave Christianity up years ago and it stuck."
+title: "I gave Christianity up years ago and it stuck."
 date: 2017-03-04 10:36:54 Z
 tags: []
 ---

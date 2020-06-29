@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I need to remember this. I always forget it."
+title: "I need to remember this. I always forget it."
 date: 2014-05-26 08:36:49 Z
 tags: []
 ---

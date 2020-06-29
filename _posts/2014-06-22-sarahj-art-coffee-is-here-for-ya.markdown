@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Coffee is here for ya."
+title: "Coffee is here for ya."
 date: 2014-06-22 07:01:08 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> (from a labmate in Switzerland)"
+title: "(from a labmate in Switzerland)"
 date: 2014-05-21 13:24:26 Z
 tags: []
 ---

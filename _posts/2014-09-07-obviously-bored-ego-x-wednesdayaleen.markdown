@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> omg I have been waiting for this gifset ever since I saw this ad for
+title: "omg I have been waiting for this gifset ever since I saw this ad for
   the first time."
 date: 2014-09-07 15:30:43 Z
 tags: []

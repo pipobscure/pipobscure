@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Unnerving gravestone I saw today"
+title: "Unnerving gravestone I saw today"
 date: 2014-07-15 03:01:13 Z
 tags: []
 ---

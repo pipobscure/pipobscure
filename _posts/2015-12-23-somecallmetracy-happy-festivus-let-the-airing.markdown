@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Happy festivus! Let the airing of grievances commence!"
+title: "Happy festivus! Let the airing of grievances commence!"
 date: 2015-12-23 13:02:23 Z
 tags: []
 ---

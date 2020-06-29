@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> My best friend sent me this ❤️"
+title: "My best friend sent me this ❤️"
 date: 2014-02-11 15:02:58 Z
 tags: []
 ---

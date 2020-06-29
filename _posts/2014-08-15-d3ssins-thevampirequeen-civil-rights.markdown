@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [#LETS TALK ABOUT HOW FUCKED UP THIS
+title: "[#LETS TALK ABOUT HOW FUCKED UP THIS
   IS](https://tumblr.com/tagged/LETS-TALK-ABOUT-HOW-FUCKED-UP-THIS-IS)[#CAN
   WE](https://tumblr.com/tagged/CAN-WE)[#PLEASE](https://tumblr.com/tagged/PLEA\
   SE)[#BC THESE ARE TAKEN DECADES

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **How very true**"
+title: "**How very true**"
 date: 2014-05-18 16:38:02 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Can we make my grandpa internet famous? I’d love to explain to him
+title: "Can we make my grandpa internet famous? I’d love to explain to him
   what Tumblr is. ;P"
 date: 2014-07-30 16:28:14 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> > [What Mayor Kim Driscoll did about
+title: "> [What Mayor Kim Driscoll did about
   it](http://mic.com/articles/94324/this-small-town-mayor-s-response-to-local-b\
   igotry-deserves-a-standing-ovation?utm_source=policymicTBLR&utm_medium=main&u\
   tm_campaign=social) | _Follow [micdotcom_"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> > When I’m almost done reading a good book."
+title: "> When I’m almost done reading a good book."
 date: 2014-06-09 19:03:05 Z
 tags: []
 ---

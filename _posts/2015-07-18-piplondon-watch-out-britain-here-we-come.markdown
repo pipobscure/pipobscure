@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Watch out Britain, here we come!"
+title: "Watch out Britain, here we come!"
 date: 2015-07-18 11:54:57 Z
 tags: []
 ---

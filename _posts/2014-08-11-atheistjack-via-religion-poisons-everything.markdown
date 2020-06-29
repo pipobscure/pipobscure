@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Religion Poisons Everything"
+title: "via [Religion Poisons Everything"
 date: 2014-08-11 07:43:17 Z
 tags: []
 ---

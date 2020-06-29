@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Fuck Jebus. Praise Marie Curie."
+title: "Fuck Jebus. Praise Marie Curie."
 date: 2014-09-29 23:06:24 Z
 tags: []
 ---

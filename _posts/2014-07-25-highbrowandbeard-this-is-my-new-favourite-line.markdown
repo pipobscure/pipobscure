@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> THIS IS MY NEW FAVOURITE LINE"
+title: "THIS IS MY NEW FAVOURITE LINE"
 date: 2014-07-25 12:18:54 Z
 tags: []
 ---

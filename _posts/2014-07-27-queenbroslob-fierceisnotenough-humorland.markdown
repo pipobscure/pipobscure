@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Seriously, 12 straight men acting as gay as humanly possible, I would die."
+title: "Seriously, 12 straight men acting as gay as humanly possible, I would die."
 date: 2014-07-27 08:09:41 Z
 tags: []
 ---

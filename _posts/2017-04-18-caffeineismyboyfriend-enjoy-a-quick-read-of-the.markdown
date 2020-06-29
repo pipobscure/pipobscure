@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "> Enjoy a quick read of the news in the morning while sipping on your
-  coffee? Then sign up for The Skimm by clicking [here and I may be writing some
-  short news briefs.  PS - it’s free and this is not a paid advertisement which
-  you’ll never see on this blog."
+title: I don't drink coffee to wake up...
 date: 2017-04-18 17:30:21 Z
 tags: []
 ---

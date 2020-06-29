@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I LOVE JOHN GREEN"
+title: "I LOVE JOHN GREEN"
 date: 2014-01-12 21:05:08 Z
 tags: []
 ---

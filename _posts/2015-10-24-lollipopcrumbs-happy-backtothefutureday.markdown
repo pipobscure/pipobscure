@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Happy #BackToTheFutureDay !! #RaiseTheWage !!"
+title: "Happy #BackToTheFutureDay !! #RaiseTheWage !!"
 date: 2015-10-24 08:09:47 Z
 tags: []
 ---

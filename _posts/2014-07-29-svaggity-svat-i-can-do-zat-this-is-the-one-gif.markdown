@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> THIS IS THE ONE GIF SET I HAVE WAITED MY ENTIRE LIFE FOR"
+title: "THIS IS THE ONE GIF SET I HAVE WAITED MY ENTIRE LIFE FOR"
 date: 2014-07-29 08:09:48 Z
 tags: []
 ---

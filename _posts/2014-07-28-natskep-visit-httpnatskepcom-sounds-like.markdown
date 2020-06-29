@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #aussieatheist #atheist #atheism #atheistposts #god #jesus #islam
+title: "#aussieatheist #atheist #atheism #atheistposts #god #jesus #islam
   #faith #religion #godless #wefuckingloveatheism #godsnotdead #science #logic
   #bible #godisntreal"
 date: 2014-07-28 10:56:11 Z

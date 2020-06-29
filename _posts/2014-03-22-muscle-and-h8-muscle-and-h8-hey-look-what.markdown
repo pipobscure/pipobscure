@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> throwback!! thx to random for liking it. still my favorite quote."
+title: "throwback!! thx to random for liking it. still my favorite quote."
 date: 2014-03-22 21:05:19 Z
 tags: []
 ---

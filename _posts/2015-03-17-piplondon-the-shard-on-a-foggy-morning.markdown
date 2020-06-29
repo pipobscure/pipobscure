@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The Shard on a foggy morning"
+title: "The Shard on a foggy morning"
 date: 2015-03-17 08:59:43 Z
 tags: []
 ---

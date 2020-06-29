@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Moreover, we have so little text from ancient times, that it is highly
+title: "Moreover, we have so little text from ancient times, that it is highly
   possible that the events that are chronicled in ancient mythology actually
   occurred."
 date: 2016-05-29 20:58:47 Z

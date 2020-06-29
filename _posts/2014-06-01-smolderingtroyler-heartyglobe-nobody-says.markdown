@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This picture is weirdly genius"
+title: "This picture is weirdly genius"
 date: 2014-06-01 13:24:34 Z
 tags: []
 ---

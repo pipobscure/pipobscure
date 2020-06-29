@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> jesus"
+title: "jesus"
 date: 2014-07-30 10:55:54 Z
 tags: []
 ---

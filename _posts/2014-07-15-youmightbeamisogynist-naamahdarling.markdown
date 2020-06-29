@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Oh, they looked. And then maliciously and willfully erased us from the
+title: "Oh, they looked. And then maliciously and willfully erased us from the
   books to keep anyone else from “getting ideas.”"
 date: 2014-07-15 07:01:13 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Photo by [Carolyn Cole/Los Angeles Times"
+title: "Photo by [Carolyn Cole/Los Angeles Times"
 date: 2014-06-21 11:01:30 Z
 tags: []
 ---

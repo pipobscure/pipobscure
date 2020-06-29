@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Hilarious!"
+title: "Hilarious!"
 date: 2015-10-18 08:01:26 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> On August 22, 1920, Ray Bradbury was born."
+title: "On August 22, 1920, Ray Bradbury was born."
 date: 2014-08-25 06:46:29 Z
 tags: []
 ---

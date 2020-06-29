@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [lost at e minor"
+title: "via [lost at e minor"
 date: 2014-03-10 21:49:39 Z
 tags: []
 ---

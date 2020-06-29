@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Coffee poster"
+title: "Coffee poster"
 date: 2014-03-23 07:59:13 Z
 tags: []
 ---

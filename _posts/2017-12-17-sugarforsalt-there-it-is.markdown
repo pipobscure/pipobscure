@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> There it is."
+title: Life, Liberty, Pursit of Happiness
 date: 2017-12-17 19:33:13 Z
 tags: []
 ---

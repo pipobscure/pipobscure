@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **Cloggy—The bookshop of my dreams**"
+title: "**Cloggy—The bookshop of my dreams**"
 date: 2014-09-13 10:19:03 Z
 tags: []
 ---

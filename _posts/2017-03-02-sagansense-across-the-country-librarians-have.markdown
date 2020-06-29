@@ -1,10 +1,6 @@
 ---
 layout: post
-title: "> **‘US libraries join struggle to resist the Trump administration:
-  _Along with efforts to guide readers to trustworthy information sources, many
-  branches are working to make themselves ‘sanctuary spaces’ for
-  immigrants_’** — [Danuta
-  Kean](https://www.theguardian.com/profile/danutakean) for [The Guardian"
+title: "Librarians for Facts"
 date: 2017-03-02 09:30:20 Z
 tags: []
 ---

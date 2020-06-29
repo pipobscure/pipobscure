@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A cartoon by **Tom Cheney**. For more cartoons from this week’s issue:
+title: "A cartoon by **Tom Cheney**. For more cartoons from this week’s issue:
   [http://nyr.kr/1anfcsn"
 date: 2013-11-08 17:03:52 Z
 tags: []

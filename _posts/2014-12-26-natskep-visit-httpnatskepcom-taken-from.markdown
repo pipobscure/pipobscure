@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - taken from @choose\\_atheism and don’t
+title: "Visit [http://natskep.com - taken from @choose\\_atheism and don’t
   even waist your time please.#atheism #religion #godless #feminist #LGBT
   #paraying #science #secular"
 date: 2014-12-26 17:40:29 Z

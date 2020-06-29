@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **Day 14: Yummy**"
+title: "**Day 14: Yummy**"
 date: 2014-05-15 06:48:07 Z
 tags: []
 ---

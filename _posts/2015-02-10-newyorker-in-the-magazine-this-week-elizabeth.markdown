@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> _Courtesy Marlene Kolbert_"
+title: "_Courtesy Marlene Kolbert_"
 date: 2015-02-10 21:51:32 Z
 tags: []
 ---

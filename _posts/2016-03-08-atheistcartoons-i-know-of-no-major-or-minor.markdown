@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Happy International Women’s Day"
+title: "Happy International Women’s Day"
 date: 2016-03-08 20:02:44 Z
 tags: []
 ---

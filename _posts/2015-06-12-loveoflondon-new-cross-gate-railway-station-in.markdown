@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> New Cross Gate railway station in the Borough of Lewisham."
+title: "New Cross Gate railway station in the Borough of Lewisham."
 date: 2015-06-12 17:14:46 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> fuck this is like reading a jokes and not actual quotes"
+title: "fuck this is like reading a jokes and not actual quotes"
 date: 2015-05-02 16:46:46 Z
 tags: []
 ---

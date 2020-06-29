@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> just…don’t tell everyone"
+title: "just…don’t tell everyone"
 date: 2014-07-24 07:40:51 Z
 tags: []
 ---

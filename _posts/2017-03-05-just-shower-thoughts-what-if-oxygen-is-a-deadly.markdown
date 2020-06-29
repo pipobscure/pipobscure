@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts what if oxygen is a deadly
+title: What if oxygen is a deadly gas,...
 date: 2017-03-05 18:30:27 Z
 tags:
   - Thoughts from the shower

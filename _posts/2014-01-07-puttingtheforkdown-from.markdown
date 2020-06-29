@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> (From [http://marriedtothesea.com/)"
+title: "(From [http://marriedtothesea.com/)"
 date: 2014-01-07 15:53:33 Z
 tags:
   - global warming

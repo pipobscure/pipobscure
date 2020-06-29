@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Instant MAD respect for any guy why did this! It’s so rarely they call
+title: "Instant MAD respect for any guy why did this! It’s so rarely they call
   out each other on their misogonystic bullshit"
 date: 2015-01-18 22:53:24 Z
 tags: []

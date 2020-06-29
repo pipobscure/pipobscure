@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **[We don’t talk enough about the British guy who decided one day to
+title: "**[We don’t talk enough about the British guy who decided one day to
   invent concentration camps**"
 date: 2015-04-30 21:38:35 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Dan Piraro Bizarro Comics"
+title: "We don’t have to live in fear of bogeymen"
 date: 2017-03-12 14:00:43 Z
 tags:
   - dan piraro

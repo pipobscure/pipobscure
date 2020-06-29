@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Because I still find Daleks strangely adorable for evil heartless
+title: "Because I still find Daleks strangely adorable for evil heartless
   killing machines. Which is your favourite?"
 date: 2014-07-08 11:01:25 Z
 tags: []

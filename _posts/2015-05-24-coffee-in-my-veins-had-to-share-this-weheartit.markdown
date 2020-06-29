@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Had to share this @WeHeartIt
+title: "Had to share this @WeHeartIt
   [http://weheartit.com/entry/179647605/via/pajuana9602"
 date: 2015-05-24 10:13:54 Z
 tags: []

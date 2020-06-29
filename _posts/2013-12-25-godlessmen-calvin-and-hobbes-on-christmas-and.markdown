@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Calvin and Hobbes on Christmas and God"
+title: "Calvin and Hobbes on Christmas and God"
 date: 2013-12-25 17:03:54 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Love this"
+title: "Love this"
 date: 2014-10-27 22:52:14 Z
 tags: []
 ---

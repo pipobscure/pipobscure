@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> It looks like he’s drowning"
+title: "It looks like he’s drowning"
 date: 2014-03-22 12:56:34 Z
 tags: []
 ---

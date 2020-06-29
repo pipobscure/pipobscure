@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Crystal Palace Park"
+title: "Crystal Palace Park"
 date: 2015-07-19 15:44:14 Z
 tags: []
 ---

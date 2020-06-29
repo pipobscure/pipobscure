@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> _Illustration by Hannah K. Lee._"
+title: "_Illustration by Hannah K. Lee._"
 date: 2013-12-12 13:05:03 Z
 tags: []
 ---

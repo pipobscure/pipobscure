@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Omfg"
+title: "Omfg"
 date: 2017-01-16 09:30:17 Z
 tags: []
 ---

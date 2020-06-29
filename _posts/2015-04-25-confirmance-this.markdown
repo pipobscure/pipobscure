@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> this"
+title: "this"
 date: 2015-04-25 19:08:17 Z
 tags: []
 ---

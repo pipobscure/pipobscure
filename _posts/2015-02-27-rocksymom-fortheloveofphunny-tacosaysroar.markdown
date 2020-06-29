@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Currently reading my daughter Anne of Green Gables, waiting for the
+title: "Currently reading my daughter Anne of Green Gables, waiting for the
   part where she cracks a slate over a boy’s head. Role models."
 date: 2015-02-27 22:50:00 Z
 tags: []

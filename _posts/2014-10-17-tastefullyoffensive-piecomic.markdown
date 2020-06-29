@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[[piecomic\\]"
+title: "\\[[piecomic\\]"
 date: 2014-10-17 11:22:59 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Victorian London…"
+title: "Victorian London…"
 date: 2014-11-22 21:04:58 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> 3D printers are becoming more and more accessible, but there’s still
+title: "3D printers are becoming more and more accessible, but there’s still
   one big hurdle to using them: unless you know how to create digital objects,
   there’s not much to print. But Matterform is aiming to change that with its
   stylish, simple, and fairly inexpensive 3D scanner. After a successful

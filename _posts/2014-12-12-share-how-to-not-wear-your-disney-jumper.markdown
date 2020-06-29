@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> how to not wear your disney jumper"
+title: "how to not wear your disney jumper"
 date: 2014-12-12 18:34:32 Z
 tags: []
 ---

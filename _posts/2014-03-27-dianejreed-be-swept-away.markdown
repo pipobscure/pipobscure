@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Be swept away"
+title: "Be swept away"
 date: 2014-03-27 10:22:06 Z
 tags: []
 ---

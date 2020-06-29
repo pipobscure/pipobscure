@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #HenryRollins #Rollins #truth #metal #realmusic"
+title: "#HenryRollins #Rollins #truth #metal #realmusic"
 date: 2014-02-14 00:15:12 Z
 tags: []
 ---

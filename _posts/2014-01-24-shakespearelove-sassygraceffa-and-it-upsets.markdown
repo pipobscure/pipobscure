@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The most eloquent response."
+title: "The most eloquent response."
 date: 2014-01-24 12:54:37 Z
 tags: []
 ---

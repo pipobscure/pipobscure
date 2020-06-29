@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [No Honor In Gods Or Religion"
+title: "via [No Honor In Gods Or Religion"
 date: 2014-03-19 19:01:52 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> – Carl Sagan, ‘The Demon-Haunted World: Science As A Candle In The Dark’"
+title: "– Carl Sagan, ‘The Demon-Haunted World: Science As A Candle In The Dark’"
 date: 2015-04-12 21:45:06 Z
 tags: []
 ---

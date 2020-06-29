@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Greenwich park during Saturday morning run love the colours"
+title: "Greenwich park during Saturday morning run love the colours"
 date: 2015-02-01 10:23:55 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Signal Boost."
+title: "Signal Boost."
 date: 2014-09-28 21:59:17 Z
 tags: []
 ---

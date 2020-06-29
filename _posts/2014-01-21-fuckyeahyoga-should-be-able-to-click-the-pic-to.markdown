@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> should be able to click the pic to make it bigger."
+title: "should be able to click the pic to make it bigger."
 date: 2014-01-21 12:01:35 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #atheists #atheism #atheisthumor #funnycoolatheist"
+title: "#atheists #atheism #atheisthumor #funnycoolatheist"
 date: 2014-06-24 19:02:27 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Great comic mini-series from Scott Adams [blog on Dilbert.com."
+title: "Great comic mini-series from Scott Adams [blog on Dilbert.com."
 date: 2014-02-18 18:02:09 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> After death"
+title: "After death"
 date: 2014-01-12 18:02:21 Z
 tags: []
 ---

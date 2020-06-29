@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Can’t. Look. Away."
+title: "Can’t. Look. Away."
 date: 2014-07-01 11:01:25 Z
 tags: []
 ---

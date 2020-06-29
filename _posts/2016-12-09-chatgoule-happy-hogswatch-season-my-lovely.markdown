@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> HAPPY HOGSWATCH SEASON MY LOVELY DISCFANS"
+title: "HAPPY HOGSWATCH SEASON MY LOVELY DISCFANS"
 date: 2016-12-09 20:54:02 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Wandering in Harry Potter’s shoes"
+title: "Wandering in Harry Potter’s shoes"
 date: 2015-03-01 12:34:22 Z
 tags: []
 ---

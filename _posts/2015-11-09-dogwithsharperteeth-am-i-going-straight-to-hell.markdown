@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Trick question, I was going anyway."
+title: "Trick question, I was going anyway."
 date: 2015-11-09 07:46:41 Z
 tags: []
 ---

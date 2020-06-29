@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> saving to use on my future children"
+title: "saving to use on my future children"
 date: 2014-05-08 20:09:47 Z
 tags: []
 ---

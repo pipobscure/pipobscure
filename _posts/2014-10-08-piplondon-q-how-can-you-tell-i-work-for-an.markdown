@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> If I wait just a few more weeks, I can unpack my T-shirts again since
+title: "If I wait just a few more weeks, I can unpack my T-shirts again since
   it will be the heating creating a tropical indoor clime :)"
 date: 2014-10-08 12:20:23 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [http://goo.gl/xY3Esp"
+title: "[http://goo.gl/xY3Esp"
 date: 2016-05-17 22:43:59 Z
 tags: []
 ---

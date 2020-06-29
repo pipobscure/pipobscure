@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> It would be flying cars and replicating machines. Religion poisons
+title: "It would be flying cars and replicating machines. Religion poisons
   everything!"
 date: 2015-02-28 14:31:13 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Take the institutionalized religious business…including its tax
+title: "Take the institutionalized religious business…including its tax
   benefits…_**out**_ of unsubstantiated…and unsubstantiatable…conjecture…about
   the theoretical possibility of an undefined, and undefinable god-thingy
   existing… somewhere… but not specifically, verifiably specifiable…"

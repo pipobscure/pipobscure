@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> god damn"
+title: "god damn"
 date: 2014-05-19 18:12:49 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Never thought of it this way"
+title: "Never thought of it this way"
 date: 2014-01-14 00:43:46 Z
 tags: []
 ---

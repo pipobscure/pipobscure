@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Joust at Eltham Palace"
+title: "Joust at Eltham Palace"
 date: 2015-06-21 12:21:15 Z
 tags: []
 ---

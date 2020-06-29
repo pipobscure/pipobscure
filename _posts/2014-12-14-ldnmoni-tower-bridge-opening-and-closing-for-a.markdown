@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Tower Bridge opening and closing for a ship passing through. It is not
+title: "Tower Bridge opening and closing for a ship passing through. It is not
   a rumor , so it really opens … seen on Friday, the 5th."
 date: 2014-12-14 12:44:22 Z
 tags: []

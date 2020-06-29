@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Here is my truth tuesday"
+title: "Here is my truth tuesday"
 date: 2014-06-27 15:01:57 Z
 tags: []
 ---

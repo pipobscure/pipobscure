@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Now _this_ is a metaphor I get."
+title: "Now _this_ is a metaphor I get."
 date: 2016-11-05 09:30:43 Z
 tags: []
 ---

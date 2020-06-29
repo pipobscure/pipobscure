@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Sorry Miss Jackson"
+title: "[Sorry Miss Jackson"
 date: 2015-03-25 00:43:12 Z
 tags: []
 ---

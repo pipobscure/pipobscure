@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> please read this oh my god"
+title: "please read this oh my god"
 date: 2015-05-29 17:21:17 Z
 tags: []
 ---

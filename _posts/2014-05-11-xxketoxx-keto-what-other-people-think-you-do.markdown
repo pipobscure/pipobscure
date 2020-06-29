@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Keto: What other people think you do"
+title: "Keto: What other people think you do"
 date: 2014-05-11 10:38:51 Z
 tags: []
 ---

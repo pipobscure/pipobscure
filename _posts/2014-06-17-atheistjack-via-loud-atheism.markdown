@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Loud Atheism"
+title: "via [Loud Atheism"
 date: 2014-06-17 07:01:21 Z
 tags: []
 ---

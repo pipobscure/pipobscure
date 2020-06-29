@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The Blackwall-Tunnel was closed, so I took the Woolwich-Ferry. What a
+title: "The Blackwall-Tunnel was closed, so I took the Woolwich-Ferry. What a
   gorgeous view!"
 date: 2016-05-24 18:23:37 Z
 tags: []

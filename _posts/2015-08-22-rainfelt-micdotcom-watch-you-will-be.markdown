@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “Planned Parenthood overwhelmed me with the ability to make my own
+title: "“Planned Parenthood overwhelmed me with the ability to make my own
   choices, without having to ask my Congressman 😱”"
 date: 2015-08-22 22:47:35 Z
 tags: []

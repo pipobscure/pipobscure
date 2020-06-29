@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> _Photos: Nadav Kander_"
+title: "_Photos: Nadav Kander_"
 date: 2013-11-15 13:04:22 Z
 tags: []
 ---

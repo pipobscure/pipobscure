@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Packaging Design done right."
+title: "Packaging Design done right."
 date: 2015-02-16 12:52:33 Z
 tags: []
 ---

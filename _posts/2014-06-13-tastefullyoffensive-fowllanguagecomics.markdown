@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[[fowllanguagecomics\\]"
+title: "\\[[fowllanguagecomics\\]"
 date: 2014-06-13 11:01:13 Z
 tags: []
 ---

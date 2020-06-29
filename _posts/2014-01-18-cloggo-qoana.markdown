@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **In Royston Vasey we stick to good old Yorkshire commas, rough hewn
+title: "**In Royston Vasey we stick to good old Yorkshire commas, rough hewn
   but effective.**"
 date: 2014-01-18 13:17:27 Z
 tags: []

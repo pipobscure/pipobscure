@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> BAM! Just do it!"
+title: "BAM! Just do it!"
 date: 2013-12-31 22:46:23 Z
 tags: []
 ---

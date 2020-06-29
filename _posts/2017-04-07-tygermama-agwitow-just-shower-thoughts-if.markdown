@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tygermama agwitow just shower thoughts if
+title: If a ghost can open cupboards and break things,...
 date: 2017-04-07 17:30:32 Z
 tags: []
 ---

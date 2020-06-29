@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “Children must be taught how to think, not what to think.” - Margaret Mead"
+title: "“Children must be taught how to think, not what to think.” - Margaret Mead"
 date: 2016-11-13 09:30:31 Z
 tags: []
 ---

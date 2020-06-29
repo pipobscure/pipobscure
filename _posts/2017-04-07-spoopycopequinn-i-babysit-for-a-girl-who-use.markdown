@@ -1,6 +1,6 @@
 ---
 layout: post
-title: spoopycopequinn i babysit for a girl who use
+title: I babysit for a girl who use to think her mom’s name was “my love”...
 date: 2017-04-07 08:30:18 Z
 tags: []
 ---

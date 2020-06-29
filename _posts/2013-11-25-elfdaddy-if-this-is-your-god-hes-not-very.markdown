@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ">  ([x)"
+title: " ([x)"
 date: 2013-11-25 13:04:21 Z
 tags: []
 ---

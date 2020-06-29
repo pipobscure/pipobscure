@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [https://m.facebook.com/AbrahamicInsanity/"
+title: "[https://m.facebook.com/AbrahamicInsanity/"
 date: 2016-05-10 11:47:43 Z
 tags: []
 ---

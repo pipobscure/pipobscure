@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Here’s a joke for your morning coffee. “Without a doubt this was a
+title: "Here’s a joke for your morning coffee. “Without a doubt this was a
   heart wrenching decision, but I think that we did the right thing … today it
   is very difficult to raise 4 kids.” Happy Thursday! #caffeine #adrenaline
   #happy #exciting #tasty #instahub #coffeelove #morning #tweegram #wired

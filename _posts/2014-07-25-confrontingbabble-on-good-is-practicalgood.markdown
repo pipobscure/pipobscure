@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Good is practical…Good actually helps those in need…Good is within our
+title: "Good is practical…Good actually helps those in need…Good is within our
   capabilities…Good is irreligious…"
 date: 2014-07-25 08:09:41 Z
 tags: []

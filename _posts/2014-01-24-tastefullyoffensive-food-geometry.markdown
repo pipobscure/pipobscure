@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Food Geometry \\[[mrlovenstein\\]"
+title: "Food Geometry \\[[mrlovenstein\\]"
 date: 2014-01-24 06:58:53 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Really though!  Would you talk to your child about human sacrifice if
+title: "Really though!  Would you talk to your child about human sacrifice if
   it had nothing to do with Christianity?  But since it’s religion, that makes
   it okay."
 date: 2014-01-07 22:11:02 Z

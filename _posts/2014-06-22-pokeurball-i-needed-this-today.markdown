@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I needed this today"
+title: "I needed this today"
 date: 2014-06-22 11:01:33 Z
 tags: []
 ---

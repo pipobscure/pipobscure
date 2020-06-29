@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This… Is… Genius.. \\*tear\\* 😢"
+title: "This… Is… Genius.. \\*tear\\* 😢"
 date: 2015-05-28 21:14:13 Z
 tags: []
 ---

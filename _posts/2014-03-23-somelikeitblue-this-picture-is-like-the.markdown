@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> <3"
+title: "<3"
 date: 2014-03-23 20:49:58 Z
 tags: []
 ---

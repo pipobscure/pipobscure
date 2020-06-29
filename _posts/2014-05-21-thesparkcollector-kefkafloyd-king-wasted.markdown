@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “Enjoy your coffee!” It seriously never gets old."
+title: "“Enjoy your coffee!” It seriously never gets old."
 date: 2014-05-21 08:36:27 Z
 tags: []
 ---

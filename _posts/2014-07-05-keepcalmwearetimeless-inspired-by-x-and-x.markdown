@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> inspired by \\[[x](http://mrsemmajones.tumblr.com/post/78871941620)\\]
+title: "inspired by \\[[x](http://mrsemmajones.tumblr.com/post/78871941620)\\]
   and \\[[x\\]"
 date: 2014-07-05 03:01:16 Z
 tags: []

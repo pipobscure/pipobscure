@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I’ve been laughing for 10 minutes."
+title: "I’ve been laughing for 10 minutes."
 date: 2014-01-21 07:44:42 Z
 tags: []
 ---

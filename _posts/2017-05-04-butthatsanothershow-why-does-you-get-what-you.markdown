@@ -1,9 +1,10 @@
 ---
 layout: post
-title: butthatsanothershow why does you get what you
+title: Why does “you get what you pay for” only apply to consumers and not employers?
 date: 2017-05-04 13:00:37 Z
 tags: []
 ---
+
 [butthatsanothershow](http://butthatsanothershow.tumblr.com/post/159975838628/why-does-you-get-what-you-pay-for-only-apply-to):
 
 > Why does “you get what you pay for” only apply to consumers and not employers?

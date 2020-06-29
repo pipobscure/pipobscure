@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [good noose"
+title: "[good noose"
 date: 2014-07-30 08:09:40 Z
 tags: []
 ---

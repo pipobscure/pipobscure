@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Doghouse Diaries](http://thedoghousediaries.com/) has a created [a
+title: "[Doghouse Diaries](http://thedoghousediaries.com/) has a created [a
   New Year’s resolution list that is 100% attainable."
 date: 2014-01-08 22:06:43 Z
 tags: []

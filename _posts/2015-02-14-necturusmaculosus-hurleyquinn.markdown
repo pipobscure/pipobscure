@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> she’s great"
+title: "she’s great"
 date: 2015-02-14 00:01:21 Z
 tags: []
 ---

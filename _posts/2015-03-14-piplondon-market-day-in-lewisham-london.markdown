@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Market Day in Lewisham, London"
+title: "Market Day in Lewisham, London"
 date: 2015-03-14 11:33:30 Z
 tags: []
 ---

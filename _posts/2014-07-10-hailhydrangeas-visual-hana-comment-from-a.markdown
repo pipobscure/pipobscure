@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> this is how you make “gay jokes” folks"
+title: "this is how you make “gay jokes” folks"
 date: 2014-07-10 11:01:05 Z
 tags: []
 ---

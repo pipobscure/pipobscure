@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Just a fraction of the cool stuff I learned when researching women’s
+title: "Just a fraction of the cool stuff I learned when researching women’s
   history."
 date: 2014-03-13 11:15:56 Z
 tags: []

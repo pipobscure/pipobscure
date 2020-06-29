@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> the white house released this video on sexual assault that actually
+title: "the white house released this video on sexual assault that actually
   targets men, telling them not to rape, rather than telling women not to be
   raped. please watch this."
 date: 2014-05-01 22:19:45 Z

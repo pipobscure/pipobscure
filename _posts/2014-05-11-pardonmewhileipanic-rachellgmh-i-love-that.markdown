@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I am going to remember that bar one for sure"
+title: "I am going to remember that bar one for sure"
 date: 2014-05-11 17:02:07 Z
 tags: []
 ---

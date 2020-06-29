@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> London Sun-Set"
+title: "London Sun-Set"
 date: 2016-12-05 16:14:01 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> > —  T. H. Huxley"
+title: "> —  T. H. Huxley"
 date: 2015-11-01 18:51:18 Z
 tags: []
 ---

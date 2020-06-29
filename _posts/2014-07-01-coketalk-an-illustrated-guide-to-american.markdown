@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “An Illustrated Guide to American Personhood” by [Sarah Baker"
+title: "“An Illustrated Guide to American Personhood” by [Sarah Baker"
 date: 2014-07-01 02:55:54 Z
 tags: []
 ---

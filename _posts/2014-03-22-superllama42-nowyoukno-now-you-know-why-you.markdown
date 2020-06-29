@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The Balloonpocalypse"
+title: "The Balloonpocalypse"
 date: 2014-03-22 11:01:28 Z
 tags: []
 ---

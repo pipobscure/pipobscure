@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> M"
+title: "M"
 date: 2014-01-03 22:10:27 Z
 tags: []
 ---

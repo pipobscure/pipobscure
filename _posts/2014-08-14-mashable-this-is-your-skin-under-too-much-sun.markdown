@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Videographer Thomas Leveritt asked people on the street to take a look
+title: "Videographer Thomas Leveritt asked people on the street to take a look
   at themselves under ultraviolet light, exposing sun damage beneath the skin
   that hasn’t revealed itself yet. [You can check out the full video here."
 date: 2014-08-14 08:09:45 Z

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Elephants are the only animal who can’t jump,  but look at this little
+title: "Elephants are the only animal who can’t jump,  but look at this little
   fucker doing his best. Don’t worry friend, you’re doing great."
 date: 2014-06-24 15:02:06 Z
 tags: []

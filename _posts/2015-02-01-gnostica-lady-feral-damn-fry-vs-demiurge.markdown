@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Fry vs. Demiurge"
+title: "Fry vs. Demiurge"
 date: 2015-02-01 13:36:19 Z
 tags: []
 ---

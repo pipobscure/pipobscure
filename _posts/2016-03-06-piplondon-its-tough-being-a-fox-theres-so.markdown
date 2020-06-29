@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> It’s tough being a fox. There’s so much sleeping to be done."
+title: "It’s tough being a fox. There’s so much sleeping to be done."
 date: 2016-03-06 15:07:25 Z
 tags: []
 ---

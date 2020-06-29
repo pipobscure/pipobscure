@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Have no doubt that when we are gone the earth will take back what is hers"
+title: "Have no doubt that when we are gone the earth will take back what is hers"
 date: 2014-11-30 13:33:06 Z
 tags: []
 ---

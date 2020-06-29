@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - How christians try to change your beliefs
+title: "Visit [http://natskep.com - How christians try to change your beliefs
   #amazon #savage #godisgreat #godisnotgreat #atheist #atheism #catholic
   #christians #christianity #god #godless #godisdead #godisnotdead
   #goddosentexist #godneverexisted"

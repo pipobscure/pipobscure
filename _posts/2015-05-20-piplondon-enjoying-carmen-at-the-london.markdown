@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Enjoying “Carmen” at the London Colliseum"
+title: "Enjoying “Carmen” at the London Colliseum"
 date: 2015-05-20 22:30:02 Z
 tags: []
 ---

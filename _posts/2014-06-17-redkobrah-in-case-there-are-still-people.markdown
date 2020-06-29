@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> In case there are still people wondering where an atheist’s morals
+title: "In case there are still people wondering where an atheist’s morals
   come from…"
 date: 2014-06-17 11:01:24 Z
 tags: []

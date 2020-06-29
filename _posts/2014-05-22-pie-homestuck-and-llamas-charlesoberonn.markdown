@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I reblog this everytime because its just so funny."
+title: "I reblog this everytime because its just so funny."
 date: 2014-05-22 19:31:27 Z
 tags: []
 ---

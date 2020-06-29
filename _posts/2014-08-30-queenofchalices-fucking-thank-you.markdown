@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> FUCKING THANK YOU!!"
+title: "FUCKING THANK YOU!!"
 date: 2014-08-30 11:01:13 Z
 tags: []
 ---

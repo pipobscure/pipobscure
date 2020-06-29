@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Vegan Chocolate Turtles"
+title: "[Vegan Chocolate Turtles"
 date: 2014-03-27 16:44:35 Z
 tags: []
 ---

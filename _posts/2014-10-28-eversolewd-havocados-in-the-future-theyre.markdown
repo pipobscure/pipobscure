@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The lorax is a prophecy"
+title: "The lorax is a prophecy"
 date: 2014-10-28 20:23:26 Z
 tags: []
 ---

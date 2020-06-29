@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> the internet irony and insomnia.. :-)"
+title: "the internet irony and insomnia.. :-)"
 date: 2014-07-23 13:01:22 Z
 tags: []
 ---

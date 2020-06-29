@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #NotAllSlytherins"
+title: "#NotAllSlytherins"
 date: 2017-03-04 14:00:51 Z
 tags: []
 ---

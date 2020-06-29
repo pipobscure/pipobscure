@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> > Bill Nye is having NONE of your shit lady."
+title: "> Bill Nye is having NONE of your shit lady."
 date: 2014-05-13 11:01:14 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: banksy of punctuation puts full stop to bad
+title: Banksy of punctuation
 date: 2017-04-03 11:32:13 Z
 tags: []
 ---

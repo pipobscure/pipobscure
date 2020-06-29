@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> You can have religion or you can have reality."
+title: "You can have religion or you can have reality."
 date: 2016-11-04 14:00:39 Z
 tags: []
 ---

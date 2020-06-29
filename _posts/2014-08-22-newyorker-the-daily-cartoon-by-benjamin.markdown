@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The [daily cartoon by **Benjamin Schwartz**."
+title: "The [daily cartoon by **Benjamin Schwartz**."
 date: 2014-08-22 06:46:40 Z
 tags: []
 ---

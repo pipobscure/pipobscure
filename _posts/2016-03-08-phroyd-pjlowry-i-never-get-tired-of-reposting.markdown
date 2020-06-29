@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is, by far, one of the best editorials against Religion ever “Posted”."
+title: "This is, by far, one of the best editorials against Religion ever “Posted”."
 date: 2016-03-08 15:25:09 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “What did you say? I got bored, so I was mentally crocheting instead
+title: "“What did you say? I got bored, so I was mentally crocheting instead
   of listening.”"
 date: 2014-06-08 19:02:55 Z
 tags: []

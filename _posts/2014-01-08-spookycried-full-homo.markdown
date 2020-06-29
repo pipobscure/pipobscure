@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> full homo"
+title: "full homo"
 date: 2014-01-08 23:09:37 Z
 tags: []
 ---

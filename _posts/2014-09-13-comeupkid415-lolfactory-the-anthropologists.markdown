@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is one of the best things iv seen today"
+title: "This is one of the best things iv seen today"
 date: 2014-09-13 20:00:42 Z
 tags: []
 ---

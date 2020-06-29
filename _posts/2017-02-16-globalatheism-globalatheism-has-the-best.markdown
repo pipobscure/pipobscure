@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> GlobalAtheism Has the best atheist memes and humor on Tumblr!"
+title: "GlobalAtheism Has the best atheist memes and humor on Tumblr!"
 date: 2017-02-16 14:00:48 Z
 tags: []
 ---

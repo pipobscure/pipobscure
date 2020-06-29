@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is me. Forever."
+title: "This is me. Forever."
 date: 2015-10-30 06:23:26 Z
 tags: []
 ---

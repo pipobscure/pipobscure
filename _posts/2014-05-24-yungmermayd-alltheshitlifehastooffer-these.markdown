@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> lma O"
+title: "lma O"
 date: 2014-05-24 13:24:28 Z
 tags: []
 ---

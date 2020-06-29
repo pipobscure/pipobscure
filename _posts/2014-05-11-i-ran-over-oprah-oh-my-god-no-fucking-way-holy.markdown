@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> OH MY GOD NO FUCKING WAY HOLY SHIT WHAT"
+title: "OH MY GOD NO FUCKING WAY HOLY SHIT WHAT"
 date: 2014-05-11 11:01:17 Z
 tags: []
 ---

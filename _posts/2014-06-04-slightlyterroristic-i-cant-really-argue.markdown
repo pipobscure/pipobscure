@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I can’t really argue"
+title: "I can’t really argue"
 date: 2014-06-04 08:36:45 Z
 tags: []
 ---

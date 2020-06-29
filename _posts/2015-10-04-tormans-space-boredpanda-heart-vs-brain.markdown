@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I love this so much are there anymore"
+title: "I love this so much are there anymore"
 date: 2015-10-04 20:02:15 Z
 tags: []
 ---

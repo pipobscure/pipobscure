@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Atheism"
+title: "via [Atheism"
 date: 2014-01-04 16:22:12 Z
 tags: []
 ---

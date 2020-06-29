@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The Economist on mass shootings in America."
+title: "The Economist on mass shootings in America."
 date: 2015-06-19 20:24:25 Z
 tags: []
 ---

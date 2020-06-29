@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> oh this is gorgeous"
+title: "oh this is gorgeous"
 date: 2016-12-12 18:30:38 Z
 tags: []
 ---

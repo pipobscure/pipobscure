@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This makes me want to cry because I’m a fucking nerd and I love this."
+title: "This makes me want to cry because I’m a fucking nerd and I love this."
 date: 2014-03-11 16:53:27 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Buy it on [Etsy."
+title: "Buy it on [Etsy."
 date: 2014-01-12 13:44:45 Z
 tags: []
 ---

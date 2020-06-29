@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Monsieur Steampunk One"
+title: "[Monsieur Steampunk One"
 date: 2014-05-10 17:01:42 Z
 tags: []
 ---

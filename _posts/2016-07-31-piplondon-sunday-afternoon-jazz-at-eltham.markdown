@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Sunday afternoon Jazz at Eltham Palace. So chill!"
+title: "Sunday afternoon Jazz at Eltham Palace. So chill!"
 date: 2016-07-31 12:41:55 Z
 tags: []
 ---

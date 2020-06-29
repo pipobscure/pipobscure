@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Another brilliant Summer Picnic. On the way home the kids already
+title: "Another brilliant Summer Picnic. On the way home the kids already
   planned what they are going to do next year. Loved it! 😀"
 date: 2015-07-25 22:06:40 Z
 tags: []

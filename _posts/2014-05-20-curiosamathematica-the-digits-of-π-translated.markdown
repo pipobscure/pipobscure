@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The video also shows some fun facts about π."
+title: "The video also shows some fun facts about π."
 date: 2014-05-20 03:48:26 Z
 tags: []
 ---

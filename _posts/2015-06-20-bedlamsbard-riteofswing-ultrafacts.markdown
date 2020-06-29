@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> As an archaeologist I can confirm that that is pretty much exactly
+title: "As an archaeologist I can confirm that that is pretty much exactly
   what will happen in the future."
 date: 2015-06-20 00:00:06 Z
 tags: []

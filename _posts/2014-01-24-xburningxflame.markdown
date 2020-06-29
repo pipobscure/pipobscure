@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> 。"
+title: "。"
 date: 2014-01-24 12:20:25 Z
 tags: []
 ---

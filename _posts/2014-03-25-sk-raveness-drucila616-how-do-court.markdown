@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Reblogging because there are some sassy little shits out there."
+title: "Reblogging because there are some sassy little shits out there."
 date: 2014-03-25 19:50:46 Z
 tags: []
 ---

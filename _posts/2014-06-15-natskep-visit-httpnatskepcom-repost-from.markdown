@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #religion #religious #faith #bible #believe #jesus #god #creation
+title: "#religion #religious #faith #bible #believe #jesus #god #creation
   #christian #creationism #christianity #atheism #atheist #antitheist
   #atheismftw #science #think #truth #godless #prayer #antitheism #trilobyte"
 date: 2014-06-15 11:01:32 Z

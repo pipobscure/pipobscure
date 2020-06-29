@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> That feeling is always a bummer! #Coffee"
+title: "That feeling is always a bummer! #Coffee"
 date: 2014-03-19 22:36:47 Z
 tags: []
 ---

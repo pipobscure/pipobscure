@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [**_What Guys should do to Drunk Girls - Video_**"
+title: "[**_What Guys should do to Drunk Girls - Video_**"
 date: 2014-06-10 19:02:38 Z
 tags: []
 ---

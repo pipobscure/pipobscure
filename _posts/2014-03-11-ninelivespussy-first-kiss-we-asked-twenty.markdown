@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “What’s your name again?”"
+title: "“What’s your name again?”"
 date: 2014-03-11 18:37:16 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Space.com"
+title: "via [Space.com"
 date: 2014-06-19 11:01:06 Z
 tags: []
 ---

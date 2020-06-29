@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> My little secret."
+title: "My little secret."
 date: 2014-10-09 07:23:54 Z
 tags: []
 ---

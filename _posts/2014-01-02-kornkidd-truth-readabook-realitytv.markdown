@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #truth #readabook #realitytv"
+title: "#truth #readabook #realitytv"
 date: 2014-01-02 21:10:11 Z
 tags: []
 ---

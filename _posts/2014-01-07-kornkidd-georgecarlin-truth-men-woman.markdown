@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #GeorgeCarlin #truth #men #woman"
+title: "#GeorgeCarlin #truth #men #woman"
 date: 2014-01-07 21:17:18 Z
 tags: []
 ---

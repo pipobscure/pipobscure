@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is so accurate. At school, we literally have children who will
+title: "This is so accurate. At school, we literally have children who will
   watch our facial expressions to see if them falling is as bad as they think it
   might be."
 date: 2015-06-29 20:02:17 Z

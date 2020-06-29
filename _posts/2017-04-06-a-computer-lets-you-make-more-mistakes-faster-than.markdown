@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a computer lets you make more mistakes faster than
+title: A computer lets you make more mistakes faster...
 date: 2017-04-06 13:00:25 Z
 tags: []
 ---

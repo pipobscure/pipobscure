@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #truth #familyguy #stewie #timehop"
+title: "#truth #familyguy #stewie #timehop"
 date: 2014-07-26 19:14:24 Z
 tags: []
 ---

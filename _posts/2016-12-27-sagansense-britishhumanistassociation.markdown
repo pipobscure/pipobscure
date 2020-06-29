@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [@britishhumanistassociation"
+title: "[@britishhumanistassociation"
 date: 2016-12-27 18:30:28 Z
 tags: []
 ---

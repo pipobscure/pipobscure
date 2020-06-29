@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> this was the greatest joke I have ever heard"
+title: "this was the greatest joke I have ever heard"
 date: 2014-08-17 06:46:43 Z
 tags: []
 ---

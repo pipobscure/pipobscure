@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - There needs to be more science, less
+title: "Visit [http://natskep.com - There needs to be more science, less
   superstition, just sayin"
 date: 2014-09-09 06:35:02 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is me."
+title: "This is me."
 date: 2015-05-27 13:28:28 Z
 tags: []
 ---

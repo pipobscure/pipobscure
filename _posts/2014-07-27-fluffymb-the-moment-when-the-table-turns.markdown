@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The moment when the table turns."
+title: "The moment when the table turns."
 date: 2014-07-27 20:37:36 Z
 tags: []
 ---

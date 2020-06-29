@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is the single best post I’ve ever seen."
+title: "This is the single best post I’ve ever seen."
 date: 2014-01-03 15:02:06 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [https://m.facebook.com/TheAtheistsAgenda"
+title: "[https://m.facebook.com/TheAtheistsAgenda"
 date: 2015-07-11 15:37:42 Z
 tags: []
 ---

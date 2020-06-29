@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> THE MOST ACCURATE GIF SET"
+title: "THE MOST ACCURATE GIF SET"
 date: 2014-01-10 12:01:43 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> And I know those aren’t real Jammie Dodgers, but I was making do."
+title: "And I know those aren’t real Jammie Dodgers, but I was making do."
 date: 2014-03-20 14:26:33 Z
 tags: []
 ---

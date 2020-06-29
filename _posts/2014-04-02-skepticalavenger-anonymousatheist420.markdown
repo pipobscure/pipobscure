@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Bacon.  \\\\o/"
+title: "Bacon.  \\\\o/"
 date: 2014-04-02 15:14:20 Z
 tags: []
 ---

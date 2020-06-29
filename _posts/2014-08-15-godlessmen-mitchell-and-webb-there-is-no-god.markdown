@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Mitchell and Webb – There is No God"
+title: "Mitchell and Webb – There is No God"
 date: 2014-08-15 05:23:47 Z
 tags: []
 ---

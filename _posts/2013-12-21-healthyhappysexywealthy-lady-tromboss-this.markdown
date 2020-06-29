@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Wisdom"
+title: "Wisdom"
 date: 2013-12-21 13:03:21 Z
 tags: []
 ---

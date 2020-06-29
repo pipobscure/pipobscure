@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The first friend to come for a visit. We are now in a state to
+title: "The first friend to come for a visit. We are now in a state to
   actually receive visitors."
 date: 2014-09-13 19:54:48 Z
 tags: []

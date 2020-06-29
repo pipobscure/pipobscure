@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> My strawberries went through mitosis this morning"
+title: "My strawberries went through mitosis this morning"
 date: 2014-05-11 10:41:14 Z
 tags: []
 ---

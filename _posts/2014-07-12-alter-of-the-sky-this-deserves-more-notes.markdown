@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This deserves more notes"
+title: "This deserves more notes"
 date: 2014-07-12 15:01:49 Z
 tags: []
 ---

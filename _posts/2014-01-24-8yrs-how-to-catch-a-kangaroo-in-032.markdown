@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> australian people"
+title: "australian people"
 date: 2014-01-24 12:01:07 Z
 tags: []
 ---

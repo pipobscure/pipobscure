@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I really despise spoilers but this one is great. Can’t wait to watch it."
+title: "I really despise spoilers but this one is great. Can’t wait to watch it."
 date: 2014-01-06 16:36:20 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> These are better than the originals tbh"
+title: "These are better than the originals tbh"
 date: 2016-12-08 14:00:37 Z
 tags: []
 ---

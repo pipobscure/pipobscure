@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [John F. Kennedy on civil rights"
+title: "[John F. Kennedy on civil rights"
 date: 2014-08-20 08:09:35 Z
 tags: []
 ---

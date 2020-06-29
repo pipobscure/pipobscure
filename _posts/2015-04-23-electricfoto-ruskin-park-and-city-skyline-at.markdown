@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Mega cityscape of London"
+title: "Mega cityscape of London"
 date: 2015-04-23 18:32:08 Z
 tags: []
 ---

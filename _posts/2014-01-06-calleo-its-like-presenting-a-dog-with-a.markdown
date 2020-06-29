@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> That also probably means you should be neutered and kept on a leash."
+title: "That also probably means you should be neutered and kept on a leash."
 date: 2014-01-06 23:19:58 Z
 tags: []
 ---

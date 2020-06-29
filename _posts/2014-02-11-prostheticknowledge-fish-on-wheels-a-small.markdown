@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Link"
+title: "[Link"
 date: 2014-02-11 13:11:53 Z
 tags: []
 ---

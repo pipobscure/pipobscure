@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> And yet large numbers of Tumblr users fall over themselves to ignore
+title: "And yet large numbers of Tumblr users fall over themselves to ignore
   the fact that this Pope is still a sexist homophobe, because he’s nice to kids
   and drives a shitty used car."
 date: 2015-02-05 22:04:06 Z

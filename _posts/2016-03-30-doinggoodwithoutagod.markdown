@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [https://m.facebook.com/WFLAtheism/"
+title: "[https://m.facebook.com/WFLAtheism/"
 date: 2016-03-30 21:18:35 Z
 tags: []
 ---

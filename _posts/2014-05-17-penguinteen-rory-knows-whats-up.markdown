@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Rory knows what’s up."
+title: "Rory knows what’s up."
 date: 2014-05-17 14:30:18 Z
 tags: []
 ---

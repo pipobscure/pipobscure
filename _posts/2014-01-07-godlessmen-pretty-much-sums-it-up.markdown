@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Pretty much sums it up"
+title: "Pretty much sums it up"
 date: 2014-01-07 21:16:15 Z
 tags: []
 ---

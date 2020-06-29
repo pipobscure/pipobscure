@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [Fb](https://www.facebook.com/theodd1sout)| [Twitter"
+title: "[Fb](https://www.facebook.com/theodd1sout)| [Twitter"
 date: 2014-01-08 23:59:04 Z
 tags: []
 ---

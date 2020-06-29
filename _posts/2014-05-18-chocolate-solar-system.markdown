@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **Chocolate Solar System**"
+title: "**Chocolate Solar System**"
 date: 2014-05-18 14:01:38 Z
 tags: []
 ---

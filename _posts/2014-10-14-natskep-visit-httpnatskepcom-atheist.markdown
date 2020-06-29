@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Visit [http://natskep.com - #atheist #atheism #agnostic #atheistposts
+title: "Visit [http://natskep.com - #atheist #atheism #agnostic #atheistposts
   #freethinker #godless #god #faith #religion #godsnotdead #teamjesus #liberal
   #legendaryleagueoflogic"
 date: 2014-10-14 05:23:39 Z

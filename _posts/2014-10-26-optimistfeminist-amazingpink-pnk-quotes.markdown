@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I fucking love her so hard <3"
+title: "I fucking love her so hard <3"
 date: 2014-10-26 19:34:41 Z
 tags: []
 ---

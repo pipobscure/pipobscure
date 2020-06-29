@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> This is it. This is the funniest thing I’ve ever read in my entire life."
+title: "This is it. This is the funniest thing I’ve ever read in my entire life."
 date: 2016-12-08 18:30:41 Z
 tags: []
 ---

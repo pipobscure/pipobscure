@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Anyone fancy a game?"
+title: "Anyone fancy a game?"
 date: 2014-06-19 17:22:34 Z
 tags: []
 ---

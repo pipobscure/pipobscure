@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> \\[vocative comma wondering what oxford comma thinks it’s doing here\\]"
+title: "\\[vocative comma wondering what oxford comma thinks it’s doing here\\]"
 date: 2014-01-18 13:42:06 Z
 tags: []
 ---

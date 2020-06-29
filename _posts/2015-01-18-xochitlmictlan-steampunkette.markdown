@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> ^^^😂"
+title: "^^^😂"
 date: 2015-01-18 22:59:17 Z
 tags: []
 ---

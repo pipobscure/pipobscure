@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> So show some respect…for the freedom of others…to openly disregard
+title: "So show some respect…for the freedom of others…to openly disregard
   your religious views…!"
 date: 2015-02-09 13:03:36 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> aaaah it was a cool table now it’s a horror/drama story"
+title: "aaaah it was a cool table now it’s a horror/drama story"
 date: 2014-03-11 16:48:15 Z
 tags: []
 ---

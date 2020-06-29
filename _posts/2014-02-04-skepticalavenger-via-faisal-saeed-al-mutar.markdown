@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [Faisal Saeed Al Mutar"
+title: "via [Faisal Saeed Al Mutar"
 date: 2014-02-04 12:01:14 Z
 tags: []
 ---

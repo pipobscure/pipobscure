@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Catch up America"
+title: "Catch up America"
 date: 2014-01-08 23:11:17 Z
 tags: []
 ---

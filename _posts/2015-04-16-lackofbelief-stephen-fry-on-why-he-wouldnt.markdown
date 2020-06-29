@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Well-put."
+title: "Well-put."
 date: 2015-04-16 18:24:43 Z
 tags: []
 ---

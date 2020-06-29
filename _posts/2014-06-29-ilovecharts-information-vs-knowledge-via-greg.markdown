@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via Greg Russell"
+title: "via Greg Russell"
 date: 2014-06-29 15:01:33 Z
 tags: []
 ---

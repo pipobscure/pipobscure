@@ -1,6 +1,6 @@
 ---
 layout: post
-title: just shower thoughts its strange that
+title: It’s strange that “smartass” and “dumbass” are both derogatory...
 date: 2017-04-15 08:30:33 Z
 tags: []
 ---

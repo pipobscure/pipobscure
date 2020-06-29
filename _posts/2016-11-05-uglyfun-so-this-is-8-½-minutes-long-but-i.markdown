@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> So this is 8 ½ minutes long but i guarantee you it’s the best 8 ½
+title: "So this is 8 ½ minutes long but i guarantee you it’s the best 8 ½
   minutes of TV you’ll see this week."
 date: 2016-11-05 14:00:41 Z
 tags: []

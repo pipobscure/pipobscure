@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Click [here to watch Stephen Colbert discuss the recent rise in
+title: "Click [here to watch Stephen Colbert discuss the recent rise in
   preventable diseases with Dr. Paul Offit on last night’s episode of The
   Report."
 date: 2014-10-12 20:50:09 Z

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> if you don’t think this is fucking rad then get out of my face"
+title: "if you don’t think this is fucking rad then get out of my face"
 date: 2014-03-22 21:45:21 Z
 tags: []
 ---

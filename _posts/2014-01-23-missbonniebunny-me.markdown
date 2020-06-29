@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Me."
+title: "Me."
 date: 2014-01-23 12:04:20 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Source: [reddit"
+title: "Source: [reddit"
 date: 2014-09-05 18:22:36 Z
 tags: []
 ---

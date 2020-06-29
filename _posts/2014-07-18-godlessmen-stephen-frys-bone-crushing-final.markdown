@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Stephen Fry’s Bone Crushing Final Remark"
+title: "Stephen Fry’s Bone Crushing Final Remark"
 date: 2014-07-18 11:01:15 Z
 tags: []
 ---

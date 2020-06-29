@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> [www.allmencan.tumblr.com"
+title: "[www.allmencan.tumblr.com"
 date: 2014-12-06 16:11:40 Z
 tags: []
 ---

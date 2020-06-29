@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I order pretty much everything off the internet you guys are basically
+title: "I order pretty much everything off the internet you guys are basically
   my heros"
 date: 2016-12-22 21:24:38 Z
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A ringing screaming endorsement."
+title: "A ringing screaming endorsement."
 date: 2014-06-21 19:02:15 Z
 tags: []
 ---

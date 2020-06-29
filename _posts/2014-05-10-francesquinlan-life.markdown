@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Life"
+title: "Life"
 date: 2014-05-10 14:01:50 Z
 tags: []
 ---

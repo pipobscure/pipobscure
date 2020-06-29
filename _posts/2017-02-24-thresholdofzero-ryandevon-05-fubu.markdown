@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "> Why steal porn when you can just watch this?"
+title: "Why steal porn when you can just watch this?"
 date: 2017-02-24 09:30:32 Z
 tags: []
 ---
-<video width="1920" height="1080" autoplay="autoplay" controls="controls"><source src="/media/2017/02/157646133915.mp4" type="video/mp4></video>
+<video width="1920" height="1080" autoplay="autoplay" controls="controls"><source src="/media/2017/02/157646133915.mp4" type="video/mp4"></video>
 
 [thresholdofzero](http://thresholdofzero.tumblr.com/post/153120593368):
 

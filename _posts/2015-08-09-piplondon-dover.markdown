@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Dover"
+title: "Dover"
 date: 2015-08-09 16:06:47 Z
 tags: []
 ---

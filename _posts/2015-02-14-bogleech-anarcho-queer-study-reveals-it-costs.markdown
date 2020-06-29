@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> The one silver lining is that a lot of the people who feel that way
+title: "The one silver lining is that a lot of the people who feel that way
   are old. Can we start a countdown page to when the last baby boomer is finally
   dead?"
 date: 2015-02-14 10:37:02 Z

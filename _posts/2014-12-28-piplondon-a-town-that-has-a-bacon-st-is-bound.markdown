@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A town that has a Bacon St. is bound to be great. Still loving London."
+title: "A town that has a Bacon St. is bound to be great. Still loving London."
 date: 2014-12-28 10:22:24 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> **and I would have done anything for it**"
+title: "**and I would have done anything for it**"
 date: 2014-07-25 15:05:11 Z
 tags: []
 ---

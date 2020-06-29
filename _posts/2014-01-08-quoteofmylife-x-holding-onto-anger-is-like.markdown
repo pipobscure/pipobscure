@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> “Holding onto anger is like drinking poison and expecting the other
+title: "“Holding onto anger is like drinking poison and expecting the other
   person to die.” -Buddha"
 date: 2014-01-08 06:53:17 Z
 tags: []

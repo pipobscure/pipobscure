@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Good night guys…zzzz"
+title: "Good night guys…zzzz"
 date: 2014-01-05 23:08:26 Z
 tags:
   - good night

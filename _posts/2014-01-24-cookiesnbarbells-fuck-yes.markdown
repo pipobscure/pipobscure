@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Fuck yes."
+title: "Fuck yes."
 date: 2014-01-24 12:03:04 Z
 tags: []
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I LOVE THIS MAN!"
+title: "I LOVE THIS MAN!"
 date: 2014-01-06 22:40:56 Z
 tags: []
 ---

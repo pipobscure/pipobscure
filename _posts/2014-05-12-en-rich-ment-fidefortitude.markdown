@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Gawd! Remember to tag your porn!"
+title: "Gawd! Remember to tag your porn!"
 date: 2014-05-12 11:01:11 Z
 tags: []
 ---

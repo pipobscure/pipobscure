@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> Company picnic. That’s how it’s done."
+title: "Company picnic. That’s how it’s done."
 date: 2014-09-06 19:35:37 Z
 tags: []
 ---

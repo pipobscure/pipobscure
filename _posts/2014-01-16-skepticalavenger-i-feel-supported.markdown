@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> I feel supported.  :)"
+title: "I feel supported.  :)"
 date: 2014-01-16 15:55:26 Z
 tags: []
 ---

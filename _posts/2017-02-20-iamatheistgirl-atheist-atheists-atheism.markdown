@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> #atheist #atheists #atheism #atheistrollcall #atheistsofinstagram
+title: "#atheist #atheists #atheism #atheistrollcall #atheistsofinstagram
   #atheistcommunity #antitheist #religionpoisonseverything #freedomfromreligion
   #heathens #nonbeliever #militantatheist #godless #nogod #agnostic #freethinker
   #noreligion #goodwithoutgod #secular #secularism #humanist #antireligion

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> via [We Fucking Love Atheism"
+title: "via [We Fucking Love Atheism"
 date: 2014-01-18 15:02:00 Z
 tags: []
 ---

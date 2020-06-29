@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "> “YOU’RE FAT!! 😢” LMAO homie was hurt"
+title: "“YOU’RE FAT!! 😢” LMAO homie was hurt"
 date: 2017-01-05 07:16:01 Z
 tags: []
 ---
-<video width="1280" height="720" autoplay="autoplay" controls="controls"><source src="/media/2017/01/155427026534.mp4" type="video/mp4></video>
+<video width="1280" height="720" autoplay="autoplay" controls="controls"><source src="/media/2017/01/155427026534.mp4" type="video/mp4"></video>
 
 [theimaginarythoughts](https://theimaginarythoughts.tumblr.com/post/154784751547/destinyrush-teealwayschillin-nevaehtyler):
 

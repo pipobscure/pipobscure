@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "> A subway map for Manhattan Coffee shops [by Butterfruit Labs"
+title: "A subway map for Manhattan Coffee shops [by Butterfruit Labs"
 date: 2014-02-18 12:01:22 Z
 tags: []
 ---
