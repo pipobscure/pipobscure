@@ -1,0 +1,16 @@
+{
+  "name": "temporal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "marp README.md -o index.html",
+    "watch": "marp --watch README.md -o index.html"
+  },
+  "keywords": [],
+  "author": "Philipp Dunkel <pip@pipobscure.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.17.4"
+  }
+}
