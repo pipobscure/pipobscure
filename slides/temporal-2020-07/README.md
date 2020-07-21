@@ -58,7 +58,7 @@ footer: "https://github.com/tc39/proposal-temporal"
 Between now and Stage 3:
 - Inform decisions with feedback from people experimenting with the polyfill
 - Release an updated polyfill with API improvements based on feedback
-- W3C TAG review
+- W3C TAG review, take two
 - Finalize specification and pass to reviewers by September
 - Request Stage 3 in November
 
@@ -91,7 +91,8 @@ Between now and Stage 3:
 
 <!--
   Thanks to Yulia and Felienne for inviting us to the research call and discussing how to make the survey more effective.
-  It's a mixture of mutiple choice questions that help us see where people are coming from (and weed out the nonsense responses) and free-form questions that are full of insights
+  It's a mixture of mutiple choice questions that help us see where people are coming from (and weed out the nonsense responses) and free-form questions that are full of insights.
+  We're not claiming this is a scientifically sound survey, since we don't actually have a research question, but it is a way to get a lot of feedback.
 -->
 
 ---
