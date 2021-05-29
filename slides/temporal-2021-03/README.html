@@ -1,0 +1,518 @@
+<!-- _class: invert lead -->
+
+<h1 id="-temporal">🕓 Temporal</h1>
+
+<p><strong>Philip Chimento</strong>
+Igalia, in partnership with Bloomberg
+TC39 March 2021</p>
+
+<hr />
+
+<h2 id="update-for-2021-03">Update for 2021-03</h2>
+
+<ul>
+  <li>Recap</li>
+  <li>Summary of changes &amp; delegate reviews</li>
+  <li>What is still open</li>
+  <li>Discussion</li>
+  <li>Stage 3?</li>
+</ul>
+
+<hr />
+
+<h2 id="-why-1-hours">⏳ Why 1½ hours?</h2>
+
+<ul>
+  <li>Editors recommended to reserve a generous amount of time in case delegates wanted to get more into the weeds during this plenary</li>
+  <li>Hopefully we will not have to use the whole time box</li>
+</ul>
+
+<hr />
+
+<h2 id="-recap-temporal">🕓 Recap: Temporal</h2>
+
+<ul>
+  <li>Modern built-in date/time API for JavaScript</li>
+  <li>Immutable types</li>
+  <li>Nanosecond precision</li>
+  <li>Time zone and calendar aware</li>
+  <li>Broad group of champions</li>
+</ul>
+
+<hr />
+
+<h2 id="-recap-where-to-find">🔎 Recap: Where to find…</h2>
+
+<style scoped="">li a { font-size: 60%; }</style>
+
+<ul>
+  <li>…the <strong>spec draft</strong>? <a href="https://tc39.es/proposal-temporal/">tc39.es/proposal-temporal</a></li>
+  <li>…the MDN-style <strong>API docs</strong>? <a href="https://tc39.es/proposal-temporal/docs/">tc39.es/proposal-temporal/docs</a></li>
+  <li>…the <strong>cookbook</strong>? <a href="https://tc39.es/proposal-temporal/docs/cookbook.html">tc39.es/proposal-temporal/docs/cookbook.html</a></li>
+  <li>…the <strong>polyfill</strong>? <a href="https://www.npmjs.com/package/proposal-temporal">npmjs.com/package/proposal-temporal</a></li>
+  <li>…a quick <strong>JS environment with Temporal</strong>?
+    <ul>
+      <li><em>open your browser console on the API docs page</em></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="️-recap-at-the-last-meeting-we">❄️ Recap: At the last meeting, we…</h2>
+
+<ul>
+  <li>Froze the spec text: only made normative changes in response to delegate review
+    <ul>
+      <li>Other activity you may have seen: editorial changes, bugfixes, polyfill changes, docs, test262</li>
+    </ul>
+  </li>
+  <li>Warned you Stage 3 was coming</li>
+  <li>Called for reviews</li>
+</ul>
+
+<hr />
+
+<!-- _class: invert lead -->
+
+<h1 id="summary-of-changes">Summary of changes</h1>
+<h2 id="-delegate-reviews">&amp; delegate reviews</h2>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<ul>
+  <li>Removed the single monkeypatching points that affect deserialization of time zone and calendar IDs</li>
+  <li>Background:
+    <ul>
+      <li><a href="https://github.com/tc39/proposal-temporal/issues/294">proposal-temporal#294</a></li>
+      <li><a href="https://github.com/tc39/proposal-temporal/issues/1293">proposal-temporal#1293</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls-1">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<ul>
+  <li>Impact: some use cases now require patching all of Temporal
+    <ul>
+      <li>Globally adding a new time zone or calendar</li>
+      <li>Replacing builtin time zone data with an updated version</li>
+      <li>Patching a bug in builtin time zone or calendar data</li>
+      <li>Limiting code to only using the ISO calendar or UTC time zone</li>
+      <li>Ensuring cross-browser identical results</li>
+    </ul>
+  </li>
+  <li>There are other ways to achieve similar results
+    <ul>
+      <li>If backwards-compatible, we may ask for consensus to add one in future</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="️-other-minor-changes">⛏️ Other minor changes</h2>
+
+<ul>
+  <li>From delegate reviews
+    <ul>
+      <li>Name changes to clarify ISO vs general operations</li>
+      <li>Improved precision of language re: mutability, time zones</li>
+      <li>Observable property access order on options objects</li>
+    </ul>
+  </li>
+  <li>Minor bugfixes</li>
+</ul>
+
+<hr />
+
+<!-- _class: invert lead -->
+
+<h1 id="what-is-still-open">What is still open?</h1>
+
+<hr />
+
+<h2 id="-iso-string-extensions">🪢 ISO String Extensions</h2>
+
+<ul>
+  <li>In January we talked about standardizing extensions to the ISO 8601 string format</li>
+  <li><code class="language-plaintext highlighter-rouge">2020-08-05T20:06:13+09:00[Asia/Tokyo][u-ca=japanese]</code></li>
+  <li>Bracketed time zone annotation is already a <em>de facto</em> standard
+    <ul>
+      <li>But published nowhere</li>
+    </ul>
+  </li>
+  <li>Bracketed calendar annotation is new</li>
+</ul>
+
+<hr />
+
+<h2 id="-iso-string-extensions-1">🪢 ISO String Extensions</h2>
+
+<ul>
+  <li><a href="https://ryzokuken.dev/draft-ryzokuken-datetime-extended/documents/rfc-3339.html">Internet Draft, “Date and Time on the Internet”</a></li>
+  <li>Presented at IETF 110, working group chartered</li>
+  <li>Intended to align with whatever gets standardized
+    <ul>
+      <li>No subsequent changes expected, though</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="-intlnumberformat">🔢 Intl.NumberFormat</h2>
+
+<ul>
+  <li>Names of a small, fixed set of rounding modes in Temporal
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">roundingMode: 'halfExpand'</code>, <code class="language-plaintext highlighter-rouge">'ceil'</code>, <code class="language-plaintext highlighter-rouge">'floor'</code>, <code class="language-plaintext highlighter-rouge">'trunc'</code></li>
+    </ul>
+  </li>
+  <li>Aligns with Intl.NumberFormat V3 proposal
+    <ul>
+      <li><a href="https://github.com/tc39/proposal-intl-numberformat-v3/issues/7">proposal-intl-numberformat-v3#7</a></li>
+    </ul>
+  </li>
+  <li>Intl.NumberFormat V3 adds more rounding modes than just these four
+    <ul>
+      <li>The NumberFormat proposal might seek consensus for adding more modes to Temporal in the future</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="-month-code-format">📅 Month Code Format</h2>
+
+<ul>
+  <li>String format for <code class="language-plaintext highlighter-rouge">monthCode</code> property</li>
+  <li>e.g. <code class="language-plaintext highlighter-rouge">Temporal.now.plainDate('chinese').monthCode === "M03"</code>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">"M05L"</code> for leap months, etc.</li>
+    </ul>
+  </li>
+  <li>Shared between Temporal and ICU4X</li>
+  <li>No subsequent changes expected</li>
+</ul>
+
+<hr />
+
+<h2 id="️-expectation-around-parallel-standardizations">🛣️ Expectation around parallel standardizations</h2>
+
+<ul>
+  <li>We have no reason to expect more changes to the ISO string format, the rounding modes, or the month code format</li>
+  <li>Should there be a motivated change in any of these, we expect to come back to committee and ask for the associated change in Temporal</li>
+</ul>
+
+<hr />
+
+<style scoped="">li { font-size: 75%; }</style>
+
+<h2 id="️-normative-changes-proposed-by-delegates-during-review">🗒️ Normative changes proposed by delegates during review</h2>
+
+<ul>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1426">#1426</a> Freeze objects passed in to user code twice?</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1427">#1427</a> Use Iterables instead of Lists</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1429">#1429</a> Lingering TODOs in Intl</li>
+</ul>
+
+<hr />
+
+<style scoped="">li { font-size: 75%; }</style>
+
+<h2 id="️-other-editorial-changes">🗒️ Other editorial changes</h2>
+
+<ul>
+  <li>…that we believe are okay to finish or iterate on during Stage 3</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/519">#519</a>/<a href="https://github.com/tc39/proposal-temporal/issues/541">#541</a> Wording ensuring correspondence between Intl and Temporal for time zones and calendars</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1244">#1244</a>/<a href="https://github.com/tc39/proposal-temporal/issues/1249">#1249</a> “Rebase” on ECMA-402 2021 edition</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1411">#1411</a> Editorial improvements</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1413">#1413</a> Check correct usage of 𝔽 and ∞</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1418">#1418</a> Tweak the split between 262 and 402 in the spec text</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1424">#1424</a> Editorial improvements</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1424">#1425</a> Editorial improvements</li>
+</ul>
+
+<hr />
+
+<h2 id="️-implementer-feedback">🎛️ Implementer feedback</h2>
+
+<ul>
+  <li>We are asking for Stage 3 because we believe implementer and real-world feedback is necessary to proceed</li>
+  <li>Based on feedback from implementers, we may ask for consensus to change details
+    <ul>
+      <li>e.g. to improve optimizability of calendar/time zone protocol</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="-we-will-also-fix-bugs">🐜 We will also fix bugs</h2>
+
+<ul>
+  <li>Bugs may come up due to implementer and real-world feedback</li>
+  <li><a href="https://github.com/tc39/proposal-temporal/issues/1415">#1415</a> Algorithm edge case</li>
+</ul>
+
+<hr />
+
+<!-- _class: invert lead -->
+
+<h1 id="-discussions">🗣 Discussions</h1>
+
+<hr />
+
+<h2 id="hallway-discussion">Hallway discussion</h2>
+
+<ul>
+  <li>A subgroup discussed some of the remaining queue items yesterday</li>
+  <li>We have proposals to present to the plenary</li>
+  <li>Ask for Stage 3 conditional on the proposal being changed in these ways</li>
+  <li>I hope I’m summarizing correctly; if not, please jump in</li>
+</ul>
+
+<hr />
+
+<h2 id="subclassing-12">Subclassing (1/2)</h2>
+
+<ul>
+  <li>Remove support for <code class="language-plaintext highlighter-rouge">Symbol.species</code> from all Temporal classes</li>
+  <li>In instance methods that construct an instance, always construct an instance of the builtin</li>
+  <li>In static methods that construct an instance, do not use <code class="language-plaintext highlighter-rouge">this</code> as the constructor</li>
+</ul>
+
+<hr />
+
+<h2 id="subclassing-22">Subclassing (2/2)</h2>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nx">MyPlainDateTime</span> <span class="kd">extends</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">PlainDateTime</span> <span class="p">{}</span>
+<span class="kd">const</span> <span class="nx">mpdt</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">MyPlainDateTime</span><span class="p">(</span><span class="mi">2021</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="dl">'</span><span class="s1">iso8601</span><span class="dl">'</span><span class="p">);</span>
+<span class="nx">mpdt</span><span class="p">.</span><span class="nx">add</span><span class="p">({</span> <span class="na">days</span><span class="p">:</span> <span class="mi">1</span> <span class="p">})</span>
+  <span class="c1">// ↪ Temporal.PlainDateTime instance</span>
+<span class="nx">MyPlainDateTime</span><span class="p">.</span><span class="k">from</span><span class="p">(</span><span class="dl">'</span><span class="s1">2021-03-10</span><span class="dl">'</span><span class="p">)</span>
+  <span class="c1">// ↪ Temporal.PlainDateTime instance</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="comparison-12">Comparison (1/2)</h2>
+
+<ul>
+  <li>Now that <code class="language-plaintext highlighter-rouge">Array.prototype.sort()</code> is stable,</li>
+  <li><code class="language-plaintext highlighter-rouge">Temporal.(type).compare()</code> does not take the calendar or time zone into account</li>
+  <li><code class="language-plaintext highlighter-rouge">ZonedDateTime.compare()</code> works like <code class="language-plaintext highlighter-rouge">Instant.compare()</code></li>
+  <li><code class="language-plaintext highlighter-rouge">PlainDate</code>, <code class="language-plaintext highlighter-rouge">PlainDateTime</code>, and <code class="language-plaintext highlighter-rouge">PlainYearMonth</code> compare the ISO dates</li>
+  <li>No change to <code class="language-plaintext highlighter-rouge">equals()</code> method</li>
+</ul>
+
+<hr />
+
+<h2 id="comparison-22">Comparison (2/2)</h2>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">g</span> <span class="o">=</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">PlainDate</span><span class="p">.</span><span class="k">from</span><span class="p">({</span> <span class="na">year</span><span class="p">:</span> <span class="mi">2021</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="mi">3</span><span class="p">,</span> <span class="na">day</span><span class="p">:</span> <span class="mi">10</span><span class="p">,</span> <span class="na">calendar</span><span class="p">:</span> <span class="dl">'</span><span class="s1">gregory</span><span class="dl">'</span> <span class="p">});</span>
+  <span class="c1">// ↪ 2021-03-10[u-ca=gregory]</span>
+<span class="kd">const</span> <span class="nx">h</span> <span class="o">=</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">PlainDate</span><span class="p">.</span><span class="k">from</span><span class="p">({</span> <span class="na">year</span><span class="p">:</span> <span class="mi">5781</span><span class="p">,</span> <span class="na">month</span><span class="p">:</span> <span class="mi">6</span><span class="p">,</span> <span class="na">day</span><span class="p">:</span> <span class="mi">26</span><span class="p">,</span> <span class="na">calendar</span><span class="p">:</span> <span class="dl">'</span><span class="s1">hebrew</span><span class="dl">'</span> <span class="p">});</span>
+  <span class="c1">// ↪ 2021-03-10[u-ca=hebrew]</span>
+<span class="nx">Temporal</span><span class="p">.</span><span class="nx">PlainDate</span><span class="p">.</span><span class="nx">compare</span><span class="p">(</span><span class="nx">g</span><span class="p">,</span> <span class="nx">h</span><span class="p">)</span>
+  <span class="c1">// previously: -1</span>
+  <span class="c1">// proposed: 0</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="mutability-due-to-calendars-and-time-zones">Mutability due to calendars and time zones</h2>
+
+<ul>
+  <li>Queue item from Kevin</li>
+</ul>
+
+<hr />
+
+<h2 id="conceptual-consistency-of-time-zones">Conceptual consistency of time zones</h2>
+
+<ul>
+  <li>Queue item from Jordan</li>
+</ul>
+
+<hr />
+
+<h2 id="stage-3-criteria">Stage 3 criteria</h2>
+
+<ul>
+  <li>✅ The solution is complete, no more work possible without impl. experience, significant usage, external feedback</li>
+  <li>✅ Complete spec text
+    <ul>
+      <li>(conditional, on resolution of the previously listed pending issues)</li>
+    </ul>
+  </li>
+  <li>❓ Designated reviewers have signed off on the spec text</li>
+  <li>❓ ECMAScript editors have signed off on the spec text</li>
+</ul>
+
+<hr />
+
+<!-- _class: lead -->
+
+<h1 id="requesting-consensus-to-move-temporal-to-stage-3">Requesting consensus to move Temporal to Stage 3</h1>
+
+<hr />
+
+<!-- _class: invert lead -->
+
+<h1 id="thanks">Thanks!</h1>
+
+<hr />
+
+<!-- _class: invert lead -->
+
+<h1 id="bonus-material">Bonus material</h1>
+
+<hr />
+
+<!-- _class: lead -->
+
+<p><img src="string.png" alt="w:1100" /></p>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls-2">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<p>Previously:</p>
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">origFrom</span> <span class="o">=</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">Calendar</span><span class="p">.</span><span class="k">from</span><span class="p">;</span>
+<span class="nx">Temporal</span><span class="p">.</span><span class="nx">Calendar</span><span class="p">.</span><span class="k">from</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">calendarLike</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">calendarLike</span> <span class="o">===</span> <span class="dl">'</span><span class="s1">custom-calendar</span><span class="dl">'</span><span class="p">)</span>
+    <span class="k">return</span> <span class="k">new</span> <span class="nx">MyCustomCalendar</span><span class="p">();</span>
+  <span class="k">return</span> <span class="nx">origFrom</span><span class="p">(</span><span class="nx">calendarLike</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="nx">Temporal</span><span class="p">.</span><span class="nx">PlainDate</span><span class="p">.</span><span class="k">from</span><span class="p">(</span><span class="dl">'</span><span class="s1">1999-12-31[u-ca=custom-calendar]</span><span class="dl">'</span><span class="p">);</span>
+<span class="c1">// =&gt; Party like it's 1999</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls-3">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<ul>
+  <li>Advantages:
+    <ul>
+      <li>👍 React to <strong>short-notice geopolitical changes</strong> in time zones and calendars, before environments are able to ship updates</li>
+      <li>👍 <strong>Limit damage</strong> by users making <code class="language-plaintext highlighter-rouge">MyCustomCalendar</code> available globally</li>
+    </ul>
+  </li>
+  <li>Disadvantages:
+    <ul>
+      <li>👎 Endorses <strong>monkeypatching</strong> builtin objects</li>
+      <li>👎 <strong>Early running code</strong> can’t defend against late running code</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<p><img src="hijricorrection.jpg" alt="" /></p>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls-4">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<ul>
+  <li>Advantages:
+    <ul>
+      <li>👍 React to <strong>short-notice geopolitical changes</strong> in time zones and calendars, before environments are able to ship updates</li>
+      <li>👍 <strong>Limit damage</strong> by users making <code class="language-plaintext highlighter-rouge">MyCustomCalendar</code> available globally</li>
+    </ul>
+  </li>
+  <li>Disadvantages:
+    <ul>
+      <li>👎 Endorses <strong>monkeypatching</strong> builtin objects</li>
+      <li>👎 <strong>Early running code</strong> can’t defend against late running code</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls-5">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<ul>
+  <li>Add a ‘resolver’ parameter for custom calendar and time zone IDs</li>
+  <li>Plan to develop an API and submit a needs-consensus PR for this in the future</li>
+</ul>
+
+<hr />
+
+<h2 id="removal-of-observable-from-calls-6">Removal of observable <code class="language-plaintext highlighter-rouge">from()</code> calls</h2>
+
+<p>(just an example, not a proposed API)</p>
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">calendarResolver</span><span class="p">(</span><span class="nx">id</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">id</span> <span class="o">===</span> <span class="dl">'</span><span class="s1">custom-calendar</span><span class="dl">'</span><span class="p">)</span>
+    <span class="k">return</span> <span class="k">new</span> <span class="nx">MyCustomCalendar</span><span class="p">();</span>
+  <span class="k">return</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">Calendar</span><span class="p">.</span><span class="k">from</span><span class="p">(</span><span class="nx">id</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="nx">Temporal</span><span class="p">.</span><span class="nx">PlainDate</span><span class="p">.</span><span class="k">from</span><span class="p">(</span><span class="dl">'</span><span class="s1">1999-12-31[u-ca=custom-calendar]</span><span class="dl">'</span><span class="p">,</span> <span class="p">{</span> <span class="nx">calendarResolver</span> <span class="p">});</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="-calendar-and-timezone-records">💿 Calendar and TimeZone Records</h2>
+
+<ul>
+  <li>Should a calendar or a time zone Get all its methods at the entry point?</li>
+  <li>Store them in a Calendar or TimeZone Record, analogous to PromiseCapability Record</li>
+  <li>Unlike PromiseCapability Record, this has implications for user code</li>
+  <li>Background: <a href="https://github.com/tc39/proposal-temporal/issues/1294">proposal-temporal#1294</a></li>
+</ul>
+
+<hr />
+
+<h2 id="-calendar-and-timezone-records-1">💿 Calendar and TimeZone Records</h2>
+
+<ul>
+  <li>I’ve investigated this</li>
+  <li>Has some advantages, but also disadvantages
+    <ul>
+      <li>👍 Spec text more concise</li>
+      <li>👍 Fewer observable Gets in some situations</li>
+      <li>👎 More observable Gets in other situations</li>
+      <li>👎 Odd behaviour around mutated prototypes</li>
+    </ul>
+  </li>
+  <li>Champions have not discussed it yet</li>
+  <li>I personally don’t think it’s an improvement</li>
+</ul>
+
+<hr />
+
+<h2 id="-calendar-and-timezone-records-2">💿 Calendar and TimeZone Records</h2>
+
+<p>Should these <code class="language-plaintext highlighter-rouge">❔</code> be 12 or 13 and should any of them be different?</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">p</span> <span class="o">=</span> <span class="nx">Temporal</span><span class="p">.</span><span class="nx">now</span><span class="p">.</span><span class="nx">plainDateTimeISO</span><span class="p">();</span>
+<span class="nx">Temporal</span><span class="p">.</span><span class="nx">Calendar</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">monthsInYear</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="mi">13</span><span class="p">;</span>
+
+<span class="nx">p</span><span class="p">.</span><span class="nx">monthsInYear</span>  <span class="c1">// =&gt; ❔</span>
+<span class="nx">p</span><span class="p">.</span><span class="nx">calendar</span><span class="p">.</span><span class="nx">monthsInYear</span><span class="p">(</span><span class="nx">p</span><span class="p">)</span>  <span class="c1">// =&gt; ❔</span>
+<span class="nx">p</span><span class="p">.</span><span class="nx">toPlainDate</span><span class="p">().</span><span class="nx">monthsInYear</span> <span class="c1">// =&gt; ❔</span>
+<span class="nx">p</span><span class="p">.</span><span class="nx">toPlainYearMonth</span><span class="p">().</span><span class="nx">monthsInYear</span>  <span class="c1">// =&gt; ❔</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="month-codes">Month codes</h2>
+
+<ul>
+  <li>Some calendars have leap months inserted at different points in the year</li>
+  <li>Temporal needs to have two ways to refer to months:
+    <ul>
+      <li>in numerical order (<code class="language-plaintext highlighter-rouge">month</code>, e.g. <code class="language-plaintext highlighter-rouge">3</code>)</li>
+      <li>stable across years (<code class="language-plaintext highlighter-rouge">monthCode</code>, e.g. <code class="language-plaintext highlighter-rouge">"M03"</code>)</li>
+    </ul>
+  </li>
+  <li>Background: <a href="https://github.com/tc39/proposal-temporal/issues/1203">proposal-temporal#1203</a></li>
+</ul>
