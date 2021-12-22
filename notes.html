@@ -1,0 +1,152 @@
+<html lang="en">
+  <head>
+    <title>Notes</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css" />
+    <script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.3.0/markdown-it.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+  </head>
+  <body onload="init();">
+    <div id="edit">
+      <div id="general">
+        <div><textarea></textarea></div>
+      </div>
+      <div id="specific">
+        <div id="ideas">
+          <div><textarea></textarea></div>
+        </div>
+        <div id="todos">
+          <div><textarea></textarea></div>
+        </div>
+      </div>
+    </div>
+    <div id="display"></div>
+    <style type="text/css">
+      div {
+        padding: 0px;
+        margin: 0px;
+        border: 0px none;
+      }
+
+      body,
+      div#edit {
+        flex-grow: 1;
+        flex-basis: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+      input#title {
+        flex-grow: 0;
+      }
+      div#general {
+        flex-grow: 1;
+        flex-basis: 50%;
+        display: flex;
+        flex-direction: row;
+      }
+      div#general textarea {
+        flex-basis: 100%;
+      }
+
+      div#specific {
+        flex-grow: 1;
+        flex-basis: 50%;
+        column-count: 2;
+        display: flex;
+        flex-direction: row;
+      }
+
+      div#ideas {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: no-wrap;
+      }
+      div#todos {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: no-wrap;
+      }
+      div#ideas > div,
+      div#todos > div {
+        width: 100%;
+      }
+      div#general > div {
+        width: 100%;
+        height: 100%;
+      }
+      div#display {
+        display: none;
+      }
+    </style>
+    <script type="application/javascript">
+      const md = new window.markdownit();
+      document.addEventListener("keypress", (ev) => {
+        if (!ev.altKey || !ev.ctrlKey) {
+          return;
+        }
+        switch (ev.key) {
+          case "c":
+            Array.from(document.querySelectorAll(`textarea`)).forEach((e) => e?.ide?.value(""));
+            window.localStorage.setItem("meetingstart", (document.loaded = new Date().toISOString()));
+            return cancelEvent(ev);
+            break;
+          case "p":
+            if (document.getElementById("edit").style.display === "none") {
+              document.getElementById("display").style.display = "none";
+              document.getElementById("edit").style.display = "flex";
+            } else {
+              document.getElementById("edit").style.display = "none";
+              const area = document.getElementById("display");
+              const general = Array.from(document.querySelectorAll("#general textarea"))
+                .map((t) => t?.ide?.value() ?? "")
+                .join("\n");
+              const ideas = Array.from(document.querySelectorAll("#ideas textarea"))
+                .map((t) => t?.ide?.value() ?? "")
+                .join("\n");
+              const todos = Array.from(document.querySelectorAll("#todos textarea"))
+                .map((t) => t?.ide?.value() ?? "")
+                .join("\n");
+              area.innerHTML = md.render(
+                `${general}\n${ideas}\n${todos}\n***${document.loaded
+                  .split("T")
+                  .join(" (")
+                  .replace(/:\d+\.\d+Z$/, "")} - ${new Date()
+                  .toISOString()
+                  .split("T")
+                  .pop(" ")
+                  .replace(/:\d+\.\d+Z$/, ")")}***\n`
+              );
+              document.getElementById("display").style.display = "block";
+            }
+            return cancelEvent(ev);
+        }
+      });
+      function cancelEvent(ev) {
+        ev.preventDefault();
+        ev.stopPropagation();
+        ev.stopImmediatePropagation();
+        return false;
+      }
+      function editorify(element, name, autofocus) {
+        element.ide = new SimpleMDE({
+          element,
+          spellChecker: true,
+          autosave: {
+            enabled: true,
+            unique_id: name,
+          },
+          status: false,
+          hideIcons: ["fullscreen", "guide", "side-by-side"],
+        });
+      }
+
+      function init() {
+        const editors = Array.from(document.querySelectorAll(`textarea`));
+        editors.forEach((e, i) => editorify(e, `general-${i + 1}`, !i));
+        document.loaded = window.localStorage.getItem("meetingstart") ?? new Date().toISOString();
+        window.localStorage.setItem("meetingstart", document.loaded);
+      }
+    </script>
+  </body>
+</html>
